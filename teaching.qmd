@@ -34,7 +34,7 @@ CLE retreat, 2023
 
 CLE retreat, 2022
 
-- A two-hour session on the fundamentals of narrative structure and how using it can improve academic writing ([workshop booklet PDF](docs/cle-narr-booklet.pdf))
+- A two-hour session on the fundamentals of narrative structure and how using it can improve academic writing ([workshop booklet PDF](documents/cle-narr-booklet.pdf))
 
 # Tutoring
 
