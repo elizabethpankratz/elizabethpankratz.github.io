@@ -25,5 +25,5 @@ Keogh, A., **Pankratz, E.,** Kirby, S., & Culbertson, J. (2023). [Does productio
 
 van Tiel, B., **Pankratz, E.,** Marty, P. & Sun, C. (2019). [Scalar inferences and cognitive load.](https://semanticsarchive.net/Archive/Tg3ZGI2M/Vantiel.pdf) *Proceedings of Sinn und Bedeutung* 23, 427–441.
 
-Lachler, J. & **Pankratz, E.** (2017). [Moving towards value-added digital repatriation in lexicography for Indigenous languages in Canada.](docs/LachlerPankratz2017.pdf) *Proceedings of the 21st FEL Conference: Communities in Control: Learning tools and strategies for multilingual endangered language communities*, 107–114.
+Lachler, J. & **Pankratz, E.** (2017). [Moving towards value-added digital repatriation in lexicography for Indigenous languages in Canada.](documents/LachlerPankratz2017.pdf) *Proceedings of the 21st FEL Conference: Communities in Control: Learning tools and strategies for multilingual endangered language communities*, 107–114.
 

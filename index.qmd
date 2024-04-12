@@ -9,7 +9,7 @@ about:
 Hi!
 I'm a PhD student at the University of Edinburgh's [Centre for Language Evolution](https://cle.ppls.ed.ac.uk) where I'm supervised by [Prof. Jennifer Culbertson](http://jennifer-culbertson.github.io) and [Prof. Simon Kirby](https://www.simonkirby.net).
 
-[My CV (PDF)](docs/cv_engl.pdf){.btn .btn-outline-primary .btn role="button" target="_blank"}
+[My CV (PDF)](documents/cv_engl.pdf){.btn .btn-outline-primary .btn role="button" target="_blank"}
 
 
 ### Research

@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: "Elizabeth Pankratz"
@@ -16,7 +17,7 @@ website:
       - text: Blog
         href: blog.qmd
       - text: CV
-        href: cv_engl.pdf
+        href: documents/cv_engl.pdf
 
 format:
   html:
