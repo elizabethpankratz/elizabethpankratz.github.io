@@ -30,7 +30,7 @@ CLE retreat, 2023
 - Two two-hour sessions giving a conceptual and practical introduction to Bayesian modelling in R using brms ([workshop website](https://elizabethpankratz.github.io/bayes_stat/))
 
 
-### Narrative design for academic writing
+### Narrative design for academic storytelling
 
 CLE retreat, 2022
 
