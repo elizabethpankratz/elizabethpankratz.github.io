@@ -1,0 +1,40 @@
+---
+image: imgs/headshot.png
+about:
+  template: trestles
+---
+
+# Elizabeth Pankratz (she/her) ✨
+
+Hi!
+I'm a PhD student at the University of Edinburgh's [Centre for Language Evolution](https://cle.ppls.ed.ac.uk) where I'm supervised by [Prof. Jennifer Culbertson](http://jennifer-culbertson.github.io) and [Prof. Simon Kirby](https://www.simonkirby.net).
+
+[My CV (PDF)](docs/cv_engl.pdf){.btn .btn-outline-primary .btn role="button" target="_blank"}
+
+
+### Research
+
+In my PhD, I use behavioural experiments and computational models to study
+
+- how people segment linguistic material (see [Pankratz et al., 2024](https://onlinelibrary.wiley.com/doi/10.1111/cogs.13429)!), 
+- how they learn rules from it, 
+- how they generalise those rules to novel instances,
+
+and how those processes might shape language.
+
+### Statistics
+
+I'm trained in both Bayesian and frequentist statistics, and I'm very happy to be contacted for stats/methods consulting for your project.
+
+LEL students at Edinburgh can book one-on-one help sessions with me (book [here](https://outlook.office365.com/owa/calendar/Stefanosofficehours@uoe.onmicrosoft.com/bookings/) under "Diss stats").
+
+
+### Contact
+
+[e.c.pankratz@ed.ac.uk](mailto:e.c.pankratz@ed.ac.uk)
+
+[{{< iconify mdi github size=Huge >}}](https://github.com/elizabethpankratz/)
+[{{< iconify academicons google-scholar size=Huge >}}](https://scholar.google.com/citations?user=EyIQz28AAAAJ)
+[{{< iconify academicons orcid size=Huge >}}](https://orcid.org/0000-0001-8453-1105)
+[{{< iconify simple-icons osf size=Huge >}}](https://osf.io/eag45/)
+[{{< iconify mdi twitter size=Huge >}}](https://twitter.com/ecpankratz)

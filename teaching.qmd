@@ -1,0 +1,87 @@
+---
+about:
+  template: marquee
+  image: imgs/sqmb_lec.png
+---
+
+# Lecturing and course design
+
+### Quantitative Methods for Linguistics and English Language
+
+University of Edinburgh, 2023
+
+- One guest lecture on frequentist methods and correctly interpreting p-values ([slides](https://uoelel.github.io/qml/slides/w11/#1))
+- Designed the accompanying tutorial materials ([tutorial](https://uoelel.github.io/qml/tutorials/tutorial-w11.html))
+
+### Statistics and Quantitative Methods (Bayesian)
+
+University of Edinburgh, 2023
+
+- Three guest lectures and tutorials on modelling binary outcomes ([slides](https://stefanocoretta.github.io/sqmb/slides/w07/#1), [tutorial](https://stefanocoretta.github.io/sqmb/tutorials/tutorial-w07.html)), multiple predictors and interactions ([slides](https://stefanocoretta.github.io/sqmb/slides/w08/#1), [tutorial](https://stefanocoretta.github.io/sqmb/tutorials/tutorial-w08.html)), and continuous predictors and interactions ([slides](https://stefanocoretta.github.io/sqmb/slides/w09/#1), [tutorial](https://stefanocoretta.github.io/sqmb/tutorials/tutorial-w09.html))
+- Created formative and summative assessments
+
+
+# Workshops
+
+### Bayes, stat! A crash course in Bayesian inference
+
+CLE retreat, 2023
+
+- Two two-hour sessions giving a conceptual and practical introduction to Bayesian modelling in R using brms ([workshop website](https://elizabethpankratz.github.io/bayes_stat/))
+
+
+### Narrative design for academic writing
+
+CLE retreat, 2022
+
+- A two-hour session on the fundamentals of narrative structure and how using it can improve academic writing ([workshop booklet PDF](docs/cle-narr-booklet.pdf))
+
+# Tutoring
+
+*Note: Tutoring in UK higher education is like TA-ing in the North American system.*
+
+### Data Analysis for Linguistics and English Language
+
+University of Edinburgh, 2023–2024
+
+- Honours (advanced undergraduate) course on data manipulation and visualisation using the Tidyverse in R
+
+
+### Quantitative Methods for Linguistics and English Language
+
+University of Edinburgh, 2023–2024
+
+- Postgraduate course on data manipulation, visualisation, and Bayesian and frequentist inference using R
+
+
+### Statistics and Quantitative Methods (Bayesian)
+
+University of Edinburgh, 2022–2023
+
+- Honours (advanced undergraduate) and postgraduate course on data manipulation, visualisation, and analysis in the Bayesian framework using R
+
+
+### LEL2D: Cross-linguistic Variation: Limits and Theories
+
+University of Edinburgh, 2022–2023
+
+- Pre-honours (early undergraduate) course on typological variation and its influence on linguistic theory
+
+
+### Simulating Language
+
+University of Edinburgh, 2022–2023
+
+- Honours (advanced undergraduate) and postgraduate course on implementing Bayesian models of\\ language evolution using Python
+
+
+# Recognition
+
+In 2024 I was nominated for the University of Edinburgh's Student Tutor of the Year.
+
+
+# Any feedback to share?
+
+I'm very thankful for any feedback about my teaching!
+If I've taught you before and you have comments to share, you can email me or fill in [this anonymous form](https://forms.office.com/pages/responsepage.aspx?id=sAafLmkWiUWHiRCgaTTcYTfwH9luqYhFtny1RSFw3ytUOFRDNldKMjM1REJMMjBJT1BOQUtMU0o1Ri4u) (requires University of Edinburgh credentials).
+

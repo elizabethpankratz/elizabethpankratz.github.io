@@ -1,0 +1,29 @@
+## Journal papers
+
+<span style="color:green;">{{< iconify academicons open-access-square >}}</span> **Pankratz, E.,** Kirby, S., & Culbertson, J. (2024). [Evaluating the relative importance of wordhood cues using statistical learning.](https://onlinelibrary.wiley.com/doi/full/10.1111/cogs.13429) *Cognitive Science*, 48(3), e13429.
+
+<span style="color:green;">{{< iconify academicons open-access-square >}}</span> Pescuma, V. N., Serova, D., Lukassek, J., Sauermann, A., Schäfer, R., Adli, A., Bildhauer, F., Egg, M., Hülk, K., Ito, A., Jannedy, S., Kordoni, V., Kuehnast, M., Kutscher, S., Lange, R., Lehmann, N., Liu, M., Lütke, B., Maquate, K., Mooshammer, C., Mortezapour, V., Müller, S., Norde, M., **Pankratz, E.,** ..., Knoeferle, P. (2023). [Situating language register across the ages, languages, modalities, and cultural aspects: Evidence from complementary methods.](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.964658/full) *Frontiers in Psychology*, 13. 1–31.
+
+<span style="color:green;">{{< iconify academicons open-access-square >}}</span> **Pankratz, E.,** Arppe, A. & Lachler, J. (2022). [Low hanging fruit and the Boasian trilogy in digital lexicography of morphologically rich languages: Lessons from a survey of Indigenous language resources in Canada.](https://septentrio.uit.no/index.php/nordlyd/article/view/6441) *Nordlyd* 46(1). 193–204.
+
+<span style="color:green;">{{< iconify academicons open-access-square >}}</span> **Pankratz, E.,** & van Tiel, B. (2021). [The role of relevance for scalar diversity: A usage-based approach.](https://www.cambridge.org/core/journals/language-and-cognition/article/role-of-relevance-for-scalar-diversity-a-usagebased-approach/9DFF372956A0A93ABB4DC6CA8F51DEE7) *Language and Cognition* 13(4). 562–594.
+
+<span style="color:green;">{{< iconify academicons open-access-square >}}</span> van Tiel, B. & **Pankratz, E.** (2021). [Adjectival polarity and the processing of scalar inferences.](https://www.glossa-journal.org/article/id/5412/) *Glossa* 6(1). 32. 1–21.
+
+<span style="color:green;">{{< iconify academicons open-access-square >}}</span> van Tiel, B., **Pankratz, E.** & Sun, C. (2019). [Scales and scalarity: Processing scalar inferences.](https://www.sciencedirect.com/science/article/abs/pii/S0749596X18301001?via%3Dihub) *Journal of Memory and Language* 105. 93–107.
+
+<span style="color:green;">{{< iconify academicons open-access-square >}}</span> Schäfer, R. & **Pankratz, E.** (2018). [The plural interpretability of German linking elements.](https://link.springer.com/article/10.1007/s11525-018-9331-5) *Morphology* 28(4). 325–358.
+
+
+## Conference proceedings
+
+Keogh, A., **Pankratz, E.,** Kirby, S., & Culbertson, J. (2023). [Does production facilitate learning morphosyntactic generalisations?](https://escholarship.org/uc/item/1cd8n4hm) *Proceedings of the Annual Meeting of the Cognitive Science Society*, 45, 3919.
+
+**Pankratz, E.,** Yadav, H., Smith, G., & Vasishth, S. (2021). [Statistical properties of the speed-accuracy trade-off (SAT) paradigm in sentence processing.](https://escholarship.org/uc/item/1j02d239#main) *Proceedings of the Annual Meeting of the Cognitive Science Society*, 43, 2176–2182.
+
+**Pankratz, E.** (2021). [qxoRef 1.0: A coreference corpus and mention-pair baseline for coreference resolution in Conchucos Quechua.](https://aclanthology.org/2021.americasnlp-1.1/) *Proceedings of the First Workshop on Natural Language Processing for Indigenous Languages of the Americas (AmericasNLP-NAACL 2021)*, 1–9.
+
+van Tiel, B., **Pankratz, E.,** Marty, P. & Sun, C. (2019). [Scalar inferences and cognitive load.](https://semanticsarchive.net/Archive/Tg3ZGI2M/Vantiel.pdf) *Proceedings of Sinn und Bedeutung* 23, 427–441.
+
+Lachler, J. & **Pankratz, E.** (2017). [Moving towards value-added digital repatriation in lexicography for Indigenous languages in Canada.](docs/LachlerPankratz2017.pdf) *Proceedings of the 21st FEL Conference: Communities in Control: Learning tools and strategies for multilingual endangered language communities*, 107–114.
+
