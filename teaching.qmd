@@ -72,7 +72,7 @@ University of Edinburgh, 2022–2023
 
 University of Edinburgh, 2022–2023
 
-- Honours (advanced undergraduate) and postgraduate course on implementing Bayesian models of\\ language evolution using Python
+- Honours (advanced undergraduate) and postgraduate course on implementing Bayesian models of language evolution using Python
 
 
 # Recognition
