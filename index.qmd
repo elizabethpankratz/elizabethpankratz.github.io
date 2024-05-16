@@ -31,7 +31,7 @@ LEL students at Edinburgh can book one-on-one help sessions with me (book [here]
 
 ### Contact
 
-[e.c.pankratz@ed.ac.uk](mailto:e.c.pankratz@ed.ac.uk)
+[e.c.pankratz@sms.ed.ac.uk](mailto:e.c.pankratz@sms.ed.ac.uk)
 
 [{{< iconify mdi github size=Huge >}}](https://github.com/elizabethpankratz/)
 [{{< iconify academicons google-scholar size=Huge >}}](https://scholar.google.com/citations?user=EyIQz28AAAAJ)
