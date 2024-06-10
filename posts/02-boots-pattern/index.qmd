@@ -32,10 +32,10 @@ I've noted other useful references and sources for shoemaking materials at the b
 Overall, what I'm doing here is moving from the 3D shape of a last down to a 2D representation.
 Covering the last in masking tape, then cutting the tape off and sticking it down flat onto some card, gives me a decent approximation of the curves and contours of the foot.
 
-![These are my lasts! Only one needs to be taped up if they're approximately the same shape. I've augmented them with cork where my feet are wider and rasped and sanded them down where my feet are smaller.](lasts.png){fig-align="center"}
+![These are my lasts! Only one needs to be taped up if they're approximately the same shape. I've augmented them with cork where my feet are wider and rasped and sanded them down where my feet are smaller.](lasts.png){fig-align="center" group="gallery"}
 
 
-![One last covered in masking tape. I've marked a line down the centre of the foot (and out of view, another black line marks the centre of the heel).](last-inside.png){fig-align="center"}
+![One last covered in masking tape. I've marked a line down the centre of the foot (and out of view, another black line marks the centre of the heel).](last-inside.png){fig-align="center" group="gallery"}
 
 I marked the centre lines down the front and heel, as well as the "vamp point": the widest point of the last measured from the ball of the foot across to the pinky knuckle.
 This is also the point where the "quarters" end and the "vamp" begins.
@@ -46,7 +46,7 @@ The "vamp" is the piece that joins the toe cap in the front, curves around the s
 
 I also marked the "counter point" CP on the heel, sliced the tape along those two centre lines, and stuck each half down onto card and cut them out.
 
-![The tape has been peeled off of the last and stuck down onto card. The VP ("vamp point") and CP ("counter point") have been marked on tthe instep and heel respectively.](inside-outside-forms.png){fig-align="center"}
+![The tape has been peeled off of the last and stuck down onto card. The VP ("vamp point") and CP ("counter point") have been marked on tthe instep and heel respectively.](inside-outside-forms.png){fig-align="center" group="gallery"}
 
 Getting the tape approximately flat is good enough for most of the foot—those wrinkles aren't the end of the world.
 But small slices around the outside edge are essential to help the toe lie down smoothly.
@@ -56,7 +56,7 @@ But small slices around the outside edge are essential to help the toe lie down 
 
 The mean form is so called because it's the mean, i.e., average, of the inside and outside forms.
 
-![From the last to the mean form: a 2D representation of its shape!](mean-form.png){fig-align="center"}
+![From the last to the mean form: a 2D representation of its shape!](mean-form.png){fig-align="center" group="gallery"}
 
 I overlaid the inside and outside forms on another piece of card and traced around each of them.
 Then I marked the line that falls in between each of those outlines and cut along it (except for the bottom front of the foot—there I kept the full width of the outside form).
@@ -72,7 +72,7 @@ Here's where things get design-specific and the shape of the derby boot starts t
 This step involves tracing the mean form onto another piece of paper, marking a bunch of points in particular locations, and drawing a bunch of lines between them at specific angles and with specific lengths.
 I leaned heavily on the Hussain book here!
 
-![The standard form is like the first mock-up of the shoe pattern. It's the basis for making all the individual pattern pieces.](standard-form.png){fig-align="center"}
+![The standard form is like the first mock-up of the shoe pattern. It's the basis for making all the individual pattern pieces.](standard-form.png){fig-align="center" group="gallery"}
 
 One place I diverged from the Hussain book: that book is written for making shoes using the stitch-down construction (i.e., the upper of the shoe is sewn directly onto the midsole), a construction that's easier to sew but a lot harder to resole.
 I'm going to hand-welt my shoes instead (see [this Shoegazing post](https://shoegazing.com/2015/08/15/guide-methods-of-shoe-construction/) on different construction methods).
@@ -84,7 +84,7 @@ I used 25 mm total.
 
 Finally, I followed the Hussain book to derive from the standard form the four pattern pieces I'll cut from my leather.
 
-![The four pattern pieces for my derby boots: heel counter with back strap (top left), toe cap (top right), quarters (bottom right), and vamp (bottom left).](patt-pcs.png){fig-align="center"}
+![The four pattern pieces for my derby boots: heel counter with back strap (top left), toe cap (top right), quarters (bottom right), and vamp (bottom left).](patt-pcs.png){fig-align="center" group="gallery"}
 
 For easier tracing, I glued the paper pieces onto card (sourced from a recycled folder, hence the funny ridges!).
 
