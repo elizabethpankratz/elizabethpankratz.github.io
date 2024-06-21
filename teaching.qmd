@@ -4,6 +4,8 @@ about:
   image: imgs/sqmb_lec.png
 ---
 
+I'm accredited as an [Associate Fellow of Advance HE](https://www.advance-he.ac.uk/fellowship/associate-fellowship) (AFHEA).
+
 # Lecturing and course design
 
 ### Quantitative Methods for Linguistics and English Language
