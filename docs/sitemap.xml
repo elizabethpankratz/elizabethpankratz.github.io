@@ -1,31 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://elizabethpankratz.github.io/index.html</loc>
-    <lastmod>2024-05-16T10:38:50.822Z</lastmod>
-  </url>
-  <url>
-    <loc>https://elizabethpankratz.github.io/publications.html</loc>
-    <lastmod>2024-04-12T08:54:48.494Z</lastmod>
-  </url>
-  <url>
-    <loc>https://elizabethpankratz.github.io/teaching.html</loc>
-    <lastmod>2024-06-21T10:18:39.564Z</lastmod>
-  </url>
-  <url>
-    <loc>https://elizabethpankratz.github.io/posts/phd-litreview/index.html</loc>
-    <lastmod>2024-04-12T08:43:11.813Z</lastmod>
-  </url>
-  <url>
     <loc>https://elizabethpankratz.github.io/blog.html</loc>
     <lastmod>2024-04-08T15:55:05.344Z</lastmod>
+  </url>
+  <url>
+    <loc>https://elizabethpankratz.github.io/index.html</loc>
+    <lastmod>2024-05-16T10:38:50.822Z</lastmod>
   </url>
   <url>
     <loc>https://elizabethpankratz.github.io/posts/02-boots-pattern/index.html</loc>
     <lastmod>2024-06-10T12:11:00.363Z</lastmod>
   </url>
   <url>
+    <loc>https://elizabethpankratz.github.io/teaching.html</loc>
+    <lastmod>2024-06-21T10:18:39.564Z</lastmod>
+  </url>
+  <url>
     <loc>https://elizabethpankratz.github.io/posts/01-phd-litreview/index.html</loc>
     <lastmod>2024-04-12T08:43:11.813Z</lastmod>
+  </url>
+  <url>
+    <loc>https://elizabethpankratz.github.io/publications.html</loc>
+    <lastmod>2024-04-12T08:54:48.494Z</lastmod>
   </url>
 </urlset>
