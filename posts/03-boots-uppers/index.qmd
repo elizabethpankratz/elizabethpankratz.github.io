@@ -1,0 +1,184 @@
+---
+title: "Handmade derby boots 2: 'Clicking' and 'closing'"
+date: "2024-06-29"
+categories: [Shoemaking]
+image: "assembly-6.png"
+lightbox: true
+---
+
+Less jargonly known as 'cutting out the pattern pieces' and 'sewing them together'.
+
+This post will be long, but by the end of it, the whole upper part of the boots will be done!
+
+
+## Cutting the leather
+
+When sewists cut out their fabric, one thing they have to pay attention to is how their pattern pieces align with the fabric's grain.
+A piece that's aligned with the grain doesn't stretch, while a piece on the bias (45 degrees to the grain) does.
+It turns out that shoemakers have to do something similar!
+
+Leather hides also have stretch, but unlike fabric, this stretch goes in different directions on different parts of the hide.
+And the pattern pieces need to be cut from a part of the hide that puts the stretch in the right places.
+
+Back when I was making my first pair of shoes, I created these diagrams that summarised information about leather stretch that I found online (click to view larger).
+
+![The top diagram labels the parts of a hide—shoulder, bend, butt, and belly—and indicates which way the stretch of each part runs. The bottom diagram shows how the stretch should be laid out on the foot: you want side-to-side stretching across the front of the foot, and vertical stretching around the heel.](stretch.png){width=66% group="gallery"}
+
+Taking this stretch into account, I traced my pattern pieces using silver pen onto the hides and cut them out (again, click to view each picture larger).
+
+
+::: {layout-ncol=3}
+
+![The leather used for the outer layer of the boot is 1.4–1.6 mm thick calf leather. ](outlines-outer.png){group="gallery"}
+
+![I had to work really hard to remember to cut two mirrored versions of each piece!](uppers-cutout.png){group="gallery"}
+
+![The lining is <1 mm thick pig skin suede velour.](outlines-lining){group="gallery"}
+
+:::
+
+I'd estimate that these boots used up about five square feet each of the outer leather and of the lining leather.
+
+
+
+## Skiving the edges
+
+Before I started leatherworking a few years ago, I only knew "skiving" as a Britishism for skipping school.
+But it also refers to shaving down the edges of the leather pieces in areas where they'll overlap, so that when they're sewn together, the final piece will have a consistent thickness.
+
+Beginner kits will often come with "safety skivers", tools that put razor blades at awkward angles so they're far away from your fingers.
+They may be safe, but they're also really annoying to use.
+I got so fed up with my safety skivers during my last pair of boots that I went and bought this definitely-not-safety knife and a whetstone, and boy is that an improvement!
+A properly sharp knife actually makes skiving fun.
+
+![I skived down the areas of underlay on the vamp (and the quarters, not pictured), gradually thinning the leather from about 10 mm in.](skiving.png){width=50% group="gallery"}
+
+Here's another skiving tip that improved my life (picked up from the Carreducker blog): skive onto a glass surface.
+The knife won't chew through the glass the way it will a cutting mat.
+I just use the glass from a thrifted picture frame.
+
+
+## Sewing the lining by machine
+
+Here's a little photo montage of sewing up the quarters and the heel cap/back strap.
+(For the lining I cut the vamp and toe cap as one, so no sewing needed there!)
+
+::: {layout-ncol=3}
+
+![The pattern pieces as cut out. The dots of silver pen along the back edge of the quarters pieces show where the edge of the heel cap/back strap piece will sit.](lining-quarters-1.png){group="gallery"}
+
+![I used a short, wide zigzag stitch to sew the centre back of the quarters edge-to-edge. To keep the pieces aligned, I found matching these silver pen markings every inch or so really helpful.](lining-quarters-2.png){group="gallery"}
+
+![Before sewing the back strap piece onto the quarters, I glued it on to keep it secure. I use contact adhesive (water-based, no thank you to toxic fumes), so both surfaces need to be gluey for them to stick together.](lining-quarters-3.png){group="gallery"}
+
+![The back straps are glued on, ready to be stitched down. I love how these pieces look like weird sea organisms.](lining-quarters-4.png){group="gallery"}
+
+![I again used a short, wide zigzag over the edge of the back strap piece to secure it to the quarters.](lining-quarters-5.png){group="gallery"}
+
+![Finally I sewed up the dart at the centre of the heel cap. Now looking less sea-creaturey and more boot-like!](lining-quarters-6.png){group="gallery"}
+
+:::
+
+## Sewing the outers by hand
+
+I followed a similar order of operations for the outers as for the lining.
+
+
+::: {layout-ncol=3}
+
+![With dividers (unsung hero tool of shoemaking), I marked 3mm in from the centre back edge of the quarters and punched holes using these 3 mm pricking irons.](sew-outers-1.png){group="gallery"}
+
+![To sew the quarters edge to edge, I'm using the "x and bar" stitch (or x-bar stitch, a lil linguist humour there) from the Hussein book. ](sew-outers-2.png){group="gallery"}
+
+![The outside has horizontal bars, and the inside has the Xs. In the end these stitches will be covered up by the back strap.](sew-outers-3.png){group="gallery"}
+
+![I've created more sea creatures by gluing all the bits together in preparation for sewing.](sew-outers-4.png){group="gallery"}
+
+![I've punched holes about 3mm from the edge of each piece and saddle-stitched through them. This photo also shows the inside of the x-bar stitch.](sew-outers-5.png){group="gallery"}
+
+![I also punched holes and saddle-stitched the toe caps to the vamps.](sew-outers-6.png){group="gallery"}
+
+:::
+
+I also sewed up the dart at the centre back of the heel, and glued the seam allowance open.
+
+Finally I taped over all the seams for reinforcement.
+
+
+::: {layout-ncol=2}
+
+![Before taping...](tape-before.png){group="gallery"}
+
+![... and after!](tape-after.png){group="gallery"}
+
+:::
+
+The tape isn't for reinforcing the seams, necessarily—saddle-stitching is actually hardier than machine stitching.
+Rather, I like to use it in case the thinned-out leather fails.
+
+On my last pair of boots, the leather of the quarters around the heel cap did actually wear through (because of my inconsistent skiving with the old safety skivers).
+But thanks to the reinforcement tape I'd used, the back heel of the boot didn't totally fall apart then and there, and I was able to sew it all shut before the heel got any more damaged.
+
+
+## Making the stiffeners
+
+Stiffeners are an additional layer of material sandwiched between lining and outer at the heel and the toe.
+I find their technical names charming: we've got a heel counter and a toe puff.
+
+In my last pair of boots, I used stiffeners from I Can Make Shoes that are made out of thermoplastic.
+They do the trick, and it's fun to use a heat gun to shape them, but they aren't the most robust to lots of wear.
+I found that the heel counter in particular has gotten some cracks.
+So now I'm doing what the fancy professionals do: making my own stiffeners out of leather.
+
+I approximated the size and shape based on the boot's pattern pieces and cut two of each out of 3 mm thick veg tan leather.
+The edges have to be dramatically skived down to nearly nothing so that no lumps and bumps show through to the outside of the boot.
+Luckily I enjoy skiving now, so this step was actually pretty satisfying.
+
+
+::: {layout-ncol=2}
+
+![Here's the glass base that has improved my skiving experience so much!](stiffener-skiving.png){group="gallery"}
+
+![Here I've glued the stiffeners onto the flesh sides of the outers.](stiffener-outers.png){group="gallery"}
+
+:::
+
+
+## Joining outer and lining
+
+Proper shoemakers probably saw the last photo of the stiffeners glued onto the outers and threw up their hands—typically, the stiffeners are added during the lasting process.
+The linings and outer pieces might be joined together around the top edges only, and kept separate around the bottom.
+That way the lining can be lasted first, then the stiffeners added on top, and then outer is lasted over it all at the end.
+
+And for the derby style in particular, there's also this complicated sandwiching thing that happens where the quarters meet the vamps: the curved edge of the vamps ends up sandwiched in between the outer and the lining of the quarters.
+
+That's the way I assembled my last pair.
+But the Hussein book narrates fully gluing the both vamp pieces together, and same for the quarters.
+Sounds a lot less fiddly, so I'm giving it a go!
+Perhaps I'll find out soon why it's not the done thing...
+
+After gluing the pieces together, I could do the final edgestitching through all layers, add the eyelets for the laces, and finally sew the quarters onto the vamps.
+
+
+::: {layout-ncol=3}
+
+![The outer quarters and the lining quarters are fully glued together, and the heel counter is sandwiched in between.](assembly-1.png){group="gallery"}
+
+![This wood contraption is the stitching pony that holds up the leather for me so I can use both my hands for saddle-stitching.](assembly-2.png){group="gallery"}
+
+![I've edge-stitched all the way around the quarters, including through the heel strap to form the back loop.](assembly-3.png){group="gallery"}
+
+![Holes are punched and the eyelets are in! I use the 4 mm size here.](assembly-4.png){group="gallery"}
+
+![After sewing one side of the quarters to the vamp, I got this amazing amazing Picasso boot 😍](assembly-5.png){group="gallery"}
+
+![And here they are!! All done!](assembly-6.png){group="gallery"}
+
+:::
+
+
+(Note to future self: It was really tricky to get the outer and the lining to perfectly align when both pieces were all covered in glue.
+If I do this method again, next time I'll cut the linings a little bit oversized and then trim them down to match the size of the outers.)
+
+That's all for this post!
+The uppers are complete 🥳 
