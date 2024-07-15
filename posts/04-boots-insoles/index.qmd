@@ -27,7 +27,7 @@ After trimming, I also bevelled the upper edge of the insole.
 Otherwise the harsh edge would be uncomfortable on my feet.
 
 Now to create the structure that will allow the upper to be joined to the insole: the holdfast.
-The holdfast is formed by relief carving into the insole, defining a ridge that runs around the bottom of the insole.
+The holdfast is formed by relief carving into the insole, defining a ridge that runs around the bottom of the foot.
 
 I first marked the distance from the feather edge to where the outer edge of the holdfast should be.
 This distance is typically 5 mm, except it's 10 mm at the crest of the inner waist (that is, the inside arch of the foot) and 7 mm at the outer waist, the toe, and the heel.
@@ -45,9 +45,9 @@ The extra thickness would give a bit more leeway in carving the holdfasts, but i
 
 Soon, once the boots are lasted, I will stitch through the holdfasts and the uppers (and the welts—see below!).
 To prepare for the stitching, I marked around the holdfast where the thread will pass through.
-The stitches should be spaced about 8 mm apart on the outside of the holdfast, so they'll cluster more tightly inside the convex curves of the toe and heel.
+The stitches should be spaced about 8 mm apart on the outside of the holdfast, so they'll cluster more tightly inside the curves of the toe and heel.
 
-![](holdfast-marked.png){width=66% group="gallery"}
+![Both inside and outside curves have been marked to define where, soon, stitching will anchor welts and outers through the holdfast.](holdfast-marked.png){width=66% group="gallery"}
 
 Finally, I used my welting awl (slightly curved) to punch holes through the holdfast at every line I marked.
 This'll make the stitching much easier later.
