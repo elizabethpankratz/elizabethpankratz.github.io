@@ -1,0 +1,147 @@
+---
+title: "Handmade derby boots 5: Midsoles and outsoles"
+date: "2024-08-12"
+categories: [Shoemaking]
+image: "IMG_6346.png"
+lightbox: true
+---
+
+The final step before the boots take their first! ✨
+
+We're so close: only a couple more layers have to go onto the bottom of the shoe.
+First the midsole is attached with glue and stitching, and then the outsole is attached with glue and a *lot* of screws.
+
+
+## Filling in the insole
+
+Picking up where we left off, with the boot freshly welted, the bottom of the foot isn't quite level: the middle sits several millimetres lower than the sole's perimeter.
+Not so good as a surface to glue a midsole onto!
+So the first thing to do is to build up the hollow centre so the surface is even.
+
+It's at this stage that some shoemakers will attach a shank: a stiff piece of metal, wood, or sole bend leather that sits beneath the arch and keeps the shoe from collapsing.
+A shank is crucial if the shoe will have a substantial heel drop, but for a flat style like this one, I've found that my boots hold up just fine without.
+So I just filled up the sole with a hodgepodge of scrap leather.
+
+![It was very pleasing to finally use some of the oddly-shaped bits from my scrap hoard!](IMG_6177.png){width=66% group="gallery"}  
+
+
+## The midsole
+
+With the bottom of the foot nice and flat, the midsole can now be glued on.
+
+I cut generous midsoles out of 3 mm veg tan leather, a few millimetres larger than the circumference of the welt all around.
+Then I used my roughening tool (Carreducker call it the "killer toothbrush") to scratch up the skin side so that it's more receptive to glue and (hopefully) won't rub against the insole leather and start to squeak.
+
+![The killer toothbrush makes short work of the midsole's skin side 😬](IMG_6182.png){width=66% group="gallery"}  
+
+Then I glued the midsoles onto the boots, skin side up, and carefully trimmed the edges down to match the exact circumference of the welts.
+
+![Midsoles are on and trimmed! The goal of the masking tape above the welt is to protect the upper leather during the soling process.](IMG_6216.png){width=66% group="gallery"}  
+
+Time to stitch!
+
+::: {layout-ncol=3}
+
+![I used my dividers to mark a stitching line about 3 mm from the edge of the welt.](IMG_6221.png){group="gallery"}
+
+![Following this line with a tracing wheel from my sewing kit, I can get evenly-spaced marks. They're denser than they need to be, though, so...](IMG_6224.png){group="gallery"}
+
+![... I used my stitching awl to punch through every second one. This photo also shows where the two ends of the welt meet at the inside waist. The sole stitching will span this join and hold the two ends together.](IMG_6228.png){group="gallery"}
+
+:::
+
+
+::: {layout-ncol=2}
+
+![I saddle stitched through the welt and midsole. After wrestling with the welts, the sole stitching is a relief!](IMG_6243.png){group="gallery"}
+
+![With the sole stitching complete, the midsoles are attached with both glue and thread.](IMG_6247.png){group="gallery"}
+
+:::
+
+As an aside: at this point, I can most clearly illustrate why the hand-welted construction is so good for resoling.
+Should these boots ever [need resoled](https://english.stackexchange.com/a/178163), it's this thread that would be cut through to detach the midsole from the uppers.
+But the welts would stay in place, and therefore so would the uppers, since they're sandwiched in between the welts and the holdfasts.
+The fit of the shoe would therefore also stay exactly the same.
+Compare this to a stitchdown construction, where the upper is sewn directly onto the midsole, with no mediating welt.
+There, undoing those stitches means that the upper is free-floating and would need to be lasted again to be sewn onto the new sole, and re-lasting the upper could potentially change the shoes' fit.
+
+OK, back onto the rails!
+The last step before moving on to the outsole is to finish the exposed leather of the welt and the midsole.
+I like leaving the veg tan undyed, because it ages and takes colour so beautifully through wear, but I did burnish it for some light protection using Tokonole.
+
+::: {layout-ncol=2}
+
+![Tokonole is a burnishing paste containing glue that sinks into the leather fibre and wax that polishes to a lovely shine on the surface.](IMG_6260.png){group="gallery"}
+
+![In the left half of this picture, the sole edges are still raw; on the right, they've been lightly burnished with Tokonole and a canvas cloth. The new saturated colour is so beautiful.](IMG_6271.png){group="gallery"}
+
+:::
+
+I applied the Tokonole on top of the welts and all around the soles' perimeters.
+Because those surfaces are flat, I had most success burnishing them with a piece of canvas cloth rather than the burnisher tool.
+
+![Et voila, sole stitching and edge finishing are complete!](IMG_6277.png){width=66% group="gallery"}
+
+Note: Because I'm applying a sole unit that covers the entire bottom of the foot, I attached the midsole with its skin side up.
+But if I were applying smaller, separate sole pieces that left some of the midsole exposed, I would have attached it skin side down and used Tokonole to finish any parts left uncovered.
+
+
+## The outsole
+
+Speaking of the sole unit, here's what we're working with:
+
+![A proper Vibram sole unit—I decided to treat myself.](IMG_6278.png){width=66% group="gallery"}
+
+I intentionally ordered sole units that are a bit oversized---size 41/42 for my 39/40---so that the width would be right.
+But of course, they're a bit too long, so I had to trim the toe and heel down to the true size of the boot, which I traced on with silver pen.
+
+![Trimming the sole units down to size was really hard work! My triceps were sore for a good few days afterward. Another tricky thing is that the rubber can't really be sanded down, so all the cuts have to be as smooth as possible. (Let's call the jagged, angular cuts on the heel my signature look...)](IMG_6295.png){width=66% group="gallery"}
+
+Once the outsoles were the right size, I glued them onto the flesh side of the midsoles.
+
+
+::: {layout-ncol=2}
+
+![This water-based glue is fine to hold things in place, but it's definitely not strong enough on its own to attach the outsoles permanently.](IMG_6304.png){group="gallery"}
+
+![To secure the outsole properly, I used a bunch of brass screws. Make sure not to screw into the last!](IMG_6355.png){group="gallery"}
+
+:::
+
+And now, with the soles all finished, the boots are ready to come off of the lasts! 🥳 An enormous milestone!
+
+With the last out, here's how the insole looks from the top:
+
+![The insole still shows all the little nail holes from blocking and lasting. I think it's really lovely. Another mark of the hand.](IMG_6324.png){width=66% group="gallery"}
+
+All the white dust in the picture above is the baby powder I added so that removing the last would be easier---and it worked!
+
+One of the last steps is to cover up this raw insole with another shoe component with a silly name: the insock.
+
+![The insock is the bit of leather that's actually in contact with the bottom of your foot. I like it when they're a bit bigger than the sole so that they cover the gap between insole and boot lining. I conveniently found a couple insocks lying around that had been cut from the lining leather of my previous pair of boots. Thanks past Elizabeth!](IMG_6308.png){width=66% group="gallery"}
+
+I glued the insocks down inside the boots, and with that, they were done!
+
+... Or so I thought, until I took them walking on a hot day and the heels of the outsoles peeled off 🙃
+I guess the temperatures softened the glue, and two screws weren't enough to hold each heel on.
+So when I got home, I sent a bunch of screws down from the insole into the solid rubber around the outside of the heels.
+
+![In a perfect world, I'd have screwed the heel on before gluing down the insock. But this solution is surprisingly fine—my feet don't notice the screw heads at all.](IMG_6589.png){width=66% group="gallery"}
+
+OK, and with that, they really are done 🥰
+
+![My newest pride and joy: a finished pair of handmade derby boots.️](IMG_6346.png){width=66% group="gallery"}
+
+Creating my own shoes is magic.
+
+I really used to think it was normal that a new pair of leather shoes would cause months of blisters and pain before they started feeling okay.
+Making shoes has shown me that commercial footwear just isn't made for feet shaped like mine.
+Which is wild, because my feet are so normal?!
+I could go on about that for a long time, but suffice it to say: what a difference to put on my beautiful bespoke, handmade boots.
+They fit perfectly right away.
+And with the right care, they'll last me forever.
+Magic, I say!
+
+Thanks for following along ❤️
+
