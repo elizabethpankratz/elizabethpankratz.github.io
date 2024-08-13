@@ -8,7 +8,7 @@ lightbox: true
 
 The final step before the boots take their first! ✨
 
-We're so close: only a couple more layers have to go onto the bottom of the shoe.
+We're so close: only a couple more layers to go onto the bottom of the shoe.
 First the midsole is attached with glue and stitching, and then the outsole is attached with glue and a *lot* of screws.
 
 
@@ -68,7 +68,7 @@ There, undoing those stitches means that the upper is free-floating and would ne
 
 OK, back onto the rails!
 The last step before moving on to the outsole is to finish the exposed leather of the welt and the midsole.
-I like leaving the veg tan undyed, because it ages and takes colour so beautifully through wear, but I did burnish it for some light protection using Tokonole.
+I like leaving the veg tan undyed, because it ages and takes colour so beautifully through wear, but I did sand it down and then burnish it for some light protection using Tokonole.
 
 ::: {layout-ncol=2}
 
@@ -103,7 +103,7 @@ Once the outsoles were the right size, I glued them onto the flesh side of the m
 
 ::: {layout-ncol=2}
 
-![This water-based glue is fine to hold things in place, but it's definitely not strong enough on its own to attach the outsoles permanently.](IMG_6304.png){group="gallery"}
+![This water-based glue is fine to hold things in place temporarily, but it's definitely not strong enough on its own to attach the outsoles permanently.](IMG_6304.png){group="gallery"}
 
 ![To secure the outsole properly, I used a bunch of brass screws. Make sure not to screw into the last!](IMG_6355.png){group="gallery"}
 
