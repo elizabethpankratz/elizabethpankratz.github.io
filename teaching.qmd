@@ -2,9 +2,14 @@
 about:
   template: marquee
   image: imgs/sqmb_lec.png
+toc: true
+toc-depth: 1
 ---
 
+# Accreditation
+
 I'm accredited as an [Associate Fellow of Advance HE](https://www.advance-he.ac.uk/fellowship/associate-fellowship) (AFHEA).
+
 
 # Lecturing and course design
 
@@ -82,7 +87,7 @@ University of Edinburgh, 2022–2023
 In 2024 I was nominated for the University of Edinburgh's Student Tutor of the Year.
 
 
-# Any feedback to share?
+# Feedback?
 
 I'm very thankful for any feedback about my teaching!
 If I've taught you before and you have comments to share, you can email me or fill in [this anonymous form](https://forms.office.com/pages/responsepage.aspx?id=sAafLmkWiUWHiRCgaTTcYTfwH9luqYhFtny1RSFw3ytUOFRDNldKMjM1REJMMjBJT1BOQUtMU0o1Ri4u) (requires University of Edinburgh credentials).

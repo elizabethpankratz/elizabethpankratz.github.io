@@ -1,3 +1,7 @@
+---
+toc: true
+---
+
 ## Journal papers
 
 <span style="color:green;">{{< iconify academicons open-access-square >}}</span> **Pankratz, E.,** Kirby, S., & Culbertson, J. (2024). [Evaluating the relative importance of wordhood cues using statistical learning.](https://onlinelibrary.wiley.com/doi/full/10.1111/cogs.13429) *Cognitive Science*, 48(3), e13429.
