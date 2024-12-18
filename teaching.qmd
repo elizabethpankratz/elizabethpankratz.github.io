@@ -17,15 +17,15 @@ I'm accredited as an [Associate Fellow of Advance HE](https://www.advance-he.ac.
 
 University of Edinburgh, 2023
 
-- One guest lecture on frequentist methods and correctly interpreting p-values ([slides](https://uoelel.github.io/qml/slides/w11/#1))
+- Created and held one guest lecture on frequentist inference and correctly interpreting p-values ([slides](https://uoelel.github.io/qml/slides/w11/#1))
 - Designed the accompanying tutorial materials ([tutorial](https://uoelel.github.io/qml/tutorials/tutorial-w11.html))
 
 ### Statistics and Quantitative Methods (Bayesian)
 
 University of Edinburgh, 2023
 
-- Three guest lectures and tutorials on modelling binary outcomes ([slides](https://stefanocoretta.github.io/sqmb/slides/w07/#1), [tutorial](https://stefanocoretta.github.io/sqmb/tutorials/tutorial-w07.html)), multiple predictors and interactions ([slides](https://stefanocoretta.github.io/sqmb/slides/w08/#1), [tutorial](https://stefanocoretta.github.io/sqmb/tutorials/tutorial-w08.html)), and continuous predictors and interactions ([slides](https://stefanocoretta.github.io/sqmb/slides/w09/#1), [tutorial](https://stefanocoretta.github.io/sqmb/tutorials/tutorial-w09.html))
-- Created formative and summative assessments
+- Created and held three guest lectures and tutorials on modelling binary outcomes ([slides](https://stefanocoretta.github.io/sqmb/slides/w07/#1), [tutorial](https://stefanocoretta.github.io/sqmb/tutorials/tutorial-w07.html)), multiple predictors and interactions ([slides](https://stefanocoretta.github.io/sqmb/slides/w08/#1), [tutorial](https://stefanocoretta.github.io/sqmb/tutorials/tutorial-w08.html)), and continuous predictors and interactions ([slides](https://stefanocoretta.github.io/sqmb/slides/w09/#1), [tutorial](https://stefanocoretta.github.io/sqmb/tutorials/tutorial-w09.html))
+- Designed formative and summative assessments
 
 
 # Workshops
@@ -34,14 +34,14 @@ University of Edinburgh, 2023
 
 CLE retreat, 2023
 
-- Two two-hour sessions giving a conceptual and practical introduction to Bayesian modelling in R using brms ([workshop website](https://elizabethpankratz.github.io/bayes_stat/))
+- Created and held two two-hour sessions giving a conceptual and practical introduction to Bayesian modelling in R using brms ([workshop website](https://elizabethpankratz.github.io/bayes_stat/))
 
 
 ### Narrative design for academic storytelling
 
 CLE retreat, 2022
 
-- A two-hour session on the fundamentals of narrative structure and how using it can improve academic writing ([workshop booklet PDF](documents/cle-narr-booklet.pdf))
+- Created and held one two-hour session on the fundamentals of narrative structure and how using it can improve academic writing ([workshop booklet PDF](documents/cle-narr-booklet.pdf))
 
 # Tutoring
 
