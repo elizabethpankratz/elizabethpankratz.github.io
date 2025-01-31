@@ -7,14 +7,14 @@ about:
 # Elizabeth Pankratz (she/her) ✨
 
 Hi!
-I'm a PhD student at the University of Edinburgh's [Centre for Language Evolution](https://cle.ppls.ed.ac.uk) where I'm supervised by [Prof. Jennifer Culbertson](http://jennifer-culbertson.github.io) and [Prof. Simon Kirby](https://www.simonkirby.net).
+I'm currently finishing my PhD at the University of Edinburgh's [Centre for Language Evolution](https://cle.ppls.ed.ac.uk), where I've been supervised by [Prof. Jennifer Culbertson](http://jennifer-culbertson.github.io) and [Prof. Simon Kirby](https://www.simonkirby.net).
 
 [My CV (PDF)](documents/cv_engl.pdf){.btn .btn-outline-primary .btn role="button" target="_blank"}
 
 
 ### Research
 
-In my PhD, I use behavioural experiments and computational models to study
+In my PhD, I used behavioural experiments and computational models to study
 
 - how people segment linguistic material (see [Pankratz et al., 2024](https://onlinelibrary.wiley.com/doi/10.1111/cogs.13429)!), 
 - how they learn rules from it, 
@@ -38,3 +38,4 @@ LEL students at Edinburgh can book one-on-one stats chats with me [here](https:/
 [{{< iconify academicons orcid size=Huge >}}](https://orcid.org/0000-0001-8453-1105)
 [{{< iconify simple-icons osf size=Huge >}}](https://osf.io/eag45/)
 [{{< iconify mdi twitter size=Huge >}}](https://twitter.com/ecpankratz)
+[{{< iconify mdi linkedin size=Huge >}}](http://linkedin.com/in/elizabethpankratz)
