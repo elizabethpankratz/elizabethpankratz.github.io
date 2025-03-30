@@ -37,5 +37,4 @@ LEL students at Edinburgh can book one-on-one stats chats with me [here](https:/
 [{{< iconify academicons google-scholar size=Huge >}}](https://scholar.google.com/citations?user=EyIQz28AAAAJ)
 [{{< iconify academicons orcid size=Huge >}}](https://orcid.org/0000-0001-8453-1105)
 [{{< iconify simple-icons osf size=Huge >}}](https://osf.io/eag45/)
-[{{< iconify mdi twitter size=Huge >}}](https://twitter.com/ecpankratz)
 [{{< iconify mdi linkedin size=Huge >}}](http://linkedin.com/in/elizabethpankratz)
