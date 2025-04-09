@@ -1,0 +1,33 @@
+---
+lightbox: true
+---
+
+# Bio
+
+I grew up in Canada on [Treaty 6 territory](https://en.wikipedia.org/wiki/Numbered_Treaties).
+After finishing high school, I moved for a year to a mountain city called Nelson in British Columbia, on the traditional unceded territory of the [Ktunaxa Nation](https://www.ktunaxa.org), to study [textile arts](https://selkirk.ca/programs/arts-technology/textile-arts-certificate).
+Nelson, small among huge green hills, is still my favourite place in the world.
+
+![Low clouds over Nelson, BC (photo by me)](imgs/nelson.jpg){group="gallery"}
+
+
+But I left Nelson to pursue another love: language.
+I completed a [BA (Hons.) in Linguistics & German Language and Literature](https://www.ualberta.ca/en/linguistics/index.html) at the University of Alberta, then I moved to Germany for an [MA in Linguistics](https://www.linguistik.hu-berlin.de/en/standardseite-en) at the Humboldt-Universität zu Berlin and an [MSc in Cognitive Systems: Language, Learning, and Reasoning](https://www.uni-potsdam.de/en/studium/what-to-study/master/cognitive-systems) at the Universität Potsdam.
+
+
+::: {layout-ncol=2}
+
+![Spring on Kastanienallee in Berlin (photo by me)](imgs/berlin.jpg){group="gallery"}
+
+![A snowy walk toward the Neues Palais in Park Sanssouci in Potsdam (photo by me)](imgs/potsdam.jpg){group="gallery"}
+
+:::
+
+I then came to Scotland to do my PhD at the University of Edinburgh's [Centre for Language Evolution](https://cle.ppls.ed.ac.uk).
+My PhD thesis is called *Segmentation, rule formation, and the emergence of generalisation*, and in it I investigated a range of language acquisition phenomena from a cognitive science perspective.
+I successfully defended my thesis at viva on 11 February, 2025.
+
+![The sun sets golden over Edinburgh and the Pentlands (photo by me)](imgs/edinburgh.jpeg){width=50% group="gallery"}
+
+In fall 2025, I'll begin as a Lecturer (roughly equivalent to the North American assistant professor) in the [Department of Psychology](https://ppls.ed.ac.uk/psychology) at the University of Edinburgh.
+I'll be joining a teaching team responsible for leading [undergraduate and postgraduate statistics courses](https://uoepsy.github.io) for students in Psychology.

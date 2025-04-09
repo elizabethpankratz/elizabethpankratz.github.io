@@ -8,22 +8,11 @@ about:
 
 Hi!
 I'm currently finishing my PhD at the University of Edinburgh's [Centre for Language Evolution](https://cle.ppls.ed.ac.uk).
-I was supervised by [Prof. Jennifer Culbertson](http://jennifer-culbertson.github.io) and [Prof. Simon Kirby](https://www.simonkirby.net).
+My PhD was supervised by [Prof. Jennifer Culbertson](http://jennifer-culbertson.github.io) and [Prof. Simon Kirby](https://www.simonkirby.net).
 
-In fall 2025, I'll join the University of Edinburgh's [Department of Psychology](https://ppls.ed.ac.uk/psychology) as a Lecturer, teaching statistics.
-
-<!-- [My CV (PDF)](documents/cv_engl.pdf){.btn .btn-outline-primary .btn role="button" target="_blank"} -->
-
-
-<!-- ### Statistics -->
-
-<!-- I'm trained in both Bayesian and frequentist statistics, and I'm very happy to be contacted for stats/methods consulting for your project. -->
-
-<!-- LEL students at Edinburgh can book one-on-one stats chats with me [here](https://outlook.office.com/bookwithme/user/49afe80a7e344adb8ff5770868f0729d@sms.ed.ac.uk?anonymous&ep=plink). -->
+This fall, I'll be joining the University of Edinburgh's [Department of Psychology](https://ppls.ed.ac.uk/psychology) as a Lecturer, teaching statistics.
 
 <br>
-
-<!-- ### Contact -->
 
 [e.c.pankratz@sms.ed.ac.uk](mailto:e.c.pankratz@sms.ed.ac.uk)
 

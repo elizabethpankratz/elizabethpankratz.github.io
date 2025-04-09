@@ -9,8 +9,8 @@ website:
   favicon: imgs/ep-hsts.png
   navbar:
     right:
-      - text: Home
-        href: index.qmd
+      - text: Bio
+        href: bio.qmd
       - text: Research
         href: publications.qmd
       - text: Teaching
