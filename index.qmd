@@ -7,29 +7,23 @@ about:
 # Elizabeth Pankratz (she/her) ✨
 
 Hi!
-I'm currently finishing my PhD at the University of Edinburgh's [Centre for Language Evolution](https://cle.ppls.ed.ac.uk), where I've been supervised by [Prof. Jennifer Culbertson](http://jennifer-culbertson.github.io) and [Prof. Simon Kirby](https://www.simonkirby.net).
+I'm currently finishing my PhD at the University of Edinburgh's [Centre for Language Evolution](https://cle.ppls.ed.ac.uk).
+I was supervised by [Prof. Jennifer Culbertson](http://jennifer-culbertson.github.io) and [Prof. Simon Kirby](https://www.simonkirby.net).
 
-[My CV (PDF)](documents/cv_engl.pdf){.btn .btn-outline-primary .btn role="button" target="_blank"}
+In fall 2025, I'll join the University of Edinburgh's [Department of Psychology](https://ppls.ed.ac.uk/psychology) as a Lecturer, teaching statistics.
 
-
-### Research
-
-In my PhD, I used behavioural experiments and computational models to study
-
-- how people segment linguistic material (see [Pankratz et al., 2024](https://onlinelibrary.wiley.com/doi/10.1111/cogs.13429)!), 
-- how they learn rules from it, 
-- how they generalise those rules to novel instances,
-
-and how those processes might shape language.
-
-### Statistics
-
-I'm trained in both Bayesian and frequentist statistics, and I'm very happy to be contacted for stats/methods consulting for your project.
-
-LEL students at Edinburgh can book one-on-one stats chats with me [here](https://outlook.office.com/bookwithme/user/49afe80a7e344adb8ff5770868f0729d@sms.ed.ac.uk?anonymous&ep=plink).
+<!-- [My CV (PDF)](documents/cv_engl.pdf){.btn .btn-outline-primary .btn role="button" target="_blank"} -->
 
 
-### Contact
+<!-- ### Statistics -->
+
+<!-- I'm trained in both Bayesian and frequentist statistics, and I'm very happy to be contacted for stats/methods consulting for your project. -->
+
+<!-- LEL students at Edinburgh can book one-on-one stats chats with me [here](https://outlook.office.com/bookwithme/user/49afe80a7e344adb8ff5770868f0729d@sms.ed.ac.uk?anonymous&ep=plink). -->
+
+<br>
+
+<!-- ### Contact -->
 
 [e.c.pankratz@sms.ed.ac.uk](mailto:e.c.pankratz@sms.ed.ac.uk)
 

@@ -2,6 +2,19 @@
 toc: true
 ---
 
+## My PhD research
+
+In my PhD, I used behavioural experiments and computational models to study
+
+- how people segment linguistic material (see [Pankratz et al., 2024](https://onlinelibrary.wiley.com/doi/10.1111/cogs.13429)!), 
+- how they learn rules from it, 
+- how they generalise those rules to novel instances,
+
+and how those processes might shape language.
+
+My PhD research was funded by the [Scottish Graduate School of Social Science](https://www.sgsss.ac.uk) and by the [Social Sciences and Humanities Research Council of Canada](https://www.sshrc-crsh.gc.ca).
+
+
 ## Journal papers
 
 <span style="color:green;">{{< iconify academicons open-access-square >}}</span> **Pankratz, E.,** Kirby, S., & Culbertson, J. (2024). [Evaluating the relative importance of wordhood cues using statistical learning.](https://onlinelibrary.wiley.com/doi/full/10.1111/cogs.13429) *Cognitive Science*, 48(3), e13429.
