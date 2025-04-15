@@ -4,10 +4,10 @@ about:
   template: trestles
 ---
 
-# Elizabeth Pankratz (she/her) ✨
+# Dr. Elizabeth Pankratz (she/her) ✨
 
 Hi!
-I'm currently finishing my PhD at the University of Edinburgh's [Centre for Language Evolution](https://cle.ppls.ed.ac.uk).
+I've recently finished my PhD at the University of Edinburgh's [Centre for Language Evolution](https://cle.ppls.ed.ac.uk).
 My PhD was supervised by [Prof. Jennifer Culbertson](http://jennifer-culbertson.github.io) and [Prof. Simon Kirby](https://www.simonkirby.net).
 
 This fall, I'll be joining the University of Edinburgh's [Department of Psychology](https://ppls.ed.ac.uk/psychology) as a Lecturer, teaching statistics.

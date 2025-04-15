@@ -5,10 +5,10 @@ lightbox: true
 # Bio
 
 I grew up in Canada on [Treaty 6 territory](https://en.wikipedia.org/wiki/Numbered_Treaties).
-After finishing high school, I moved for a year to a mountain city called Nelson in British Columbia, on the traditional unceded territory of the [Ktunaxa Nation](https://www.ktunaxa.org), to study [textile arts](https://selkirk.ca/programs/arts-technology/textile-arts-certificate).
+After finishing high school, I lived for a year in a mountain city called Nelson in British Columbia, on the traditional unceded territory of the [Ktunaxa Nation](https://www.ktunaxa.org), to study [textile arts](https://selkirk.ca/programs/arts-technology/textile-arts-certificate).
 Nelson, small among huge green hills, is still my favourite place in the world.
 
-![Low clouds over Nelson, BC (photo by me)](imgs/nelson.jpg){group="gallery"}
+![Low clouds over Nelson, BC (photo by me)](imgs/nelson.jpg){width=70% group="gallery"}
 
 
 But I left Nelson to pursue another love: language.
@@ -25,7 +25,7 @@ I completed a [BA (Hons.) in Linguistics & German Language and Literature](https
 
 I then came to Scotland to do my PhD at the University of Edinburgh's [Centre for Language Evolution](https://cle.ppls.ed.ac.uk).
 My PhD thesis is called *Segmentation, rule formation, and the emergence of generalisation*, and in it I investigated a range of language acquisition phenomena from a cognitive science perspective.
-I successfully defended my thesis at viva on 11 February, 2025.
+
 
 ![The sun sets golden over Edinburgh and the Pentlands (photo by me)](imgs/edinburgh.jpeg){width=50% group="gallery"}
 

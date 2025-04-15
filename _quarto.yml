@@ -3,9 +3,9 @@ project:
   output-dir: docs
 
 website:
-  title: "Elizabeth Pankratz"
+  title: "Dr. Elizabeth Pankratz"
   site-url: https://elizabethpankratz.github.io
-  description: "I study how people learn linguistic structure and how this process affects language."
+  description: "I teach statistics and study how people learn linguistic structure."
   favicon: imgs/ep-hsts.png
   navbar:
     right:
