@@ -1,0 +1,3115 @@
+date,mins,tasklabel,tasktype,week_idx,month_idx,year_idx,year
+2021-09-09,80,Reading groups,Community,1,1,1,2021
+2021-09-09,32,PhD admin,Admin,1,1,1,2021
+2021-09-09,118,PhD admin,Admin,1,1,1,2021
+2021-09-10,24,PhD admin,Admin,1,1,1,2021
+2021-09-13,105,PhD admin,Admin,2,1,1,2021
+2021-09-13,60,PhD admin,Admin,2,1,1,2021
+2021-09-13,270,PhD admin,Admin,2,1,1,2021
+2021-09-14,39,PhD admin,Admin,2,1,1,2021
+2021-09-14,50,PhD admin,Admin,2,1,1,2021
+2021-09-14,80,PhD admin,Admin,2,1,1,2021
+2021-09-14,25,PhD admin,Admin,2,1,1,2021
+2021-09-17,83,Required courses,Coursework,2,1,1,2021
+2021-09-18,65,Required courses,Coursework,2,1,1,2021
+2021-09-18,5,PhD admin,Admin,2,1,1,2021
+2021-09-20,84,Reading,Research,3,1,1,2021
+2021-09-20,86,Reading,Research,3,1,1,2021
+2021-09-20,145,Required courses,Coursework,3,1,1,2021
+2021-09-20,9,PhD admin,Admin,3,1,1,2021
+2021-09-20,81,PhD admin,Admin,3,1,1,2021
+2021-09-21,55,Reading,Research,3,1,1,2021
+2021-09-21,200,Reading,Research,3,1,1,2021
+2021-09-22,50,Reading groups,Community,3,1,1,2021
+2021-09-22,30,Reading,Research,3,1,1,2021
+2021-09-23,27,Reading groups,Community,3,1,1,2021
+2021-09-23,84,Reading,Research,3,1,1,2021
+2021-09-24,35,Reading,Research,3,1,1,2021
+2021-09-27,50,Required courses,Coursework,4,1,1,2021
+2021-09-27,91,Required courses,Coursework,4,1,1,2021
+2021-09-27,22,Supervision,Research,4,1,1,2021
+2021-09-27,100,Supervision,Research,4,1,1,2021
+2021-09-28,70,CLE talks,Community,4,1,1,2021
+2021-09-28,40,Reading,Research,4,1,1,2021
+2021-09-29,53,Reading groups,Community,4,1,1,2021
+2021-09-29,29,Reading groups,Community,4,1,1,2021
+2021-09-29,28,Reading,Research,4,1,1,2021
+2021-09-29,101,Reading,Research,4,1,1,2021
+2021-09-29,25,Reading,Research,4,1,1,2021
+2021-09-29,147,Reading,Research,4,1,1,2021
+2021-09-30,109,Reading,Research,4,1,1,2021
+2021-09-30,111,Reading,Research,4,1,1,2021
+2021-09-30,208,Reading,Research,4,1,1,2021
+2021-09-30,10,Reading,Research,4,1,1,2021
+2021-10-01,65,Talks/conferences,Community,4,2,1,2021
+2021-10-01,5,Reading,Research,4,2,1,2021
+2021-10-01,35,Reading,Research,4,2,1,2021
+2021-10-01,63,Reading,Research,4,2,1,2021
+2021-10-01,122,Reading,Research,4,2,1,2021
+2021-10-02,193,Required courses,Coursework,4,2,1,2021
+2021-10-02,78,Required courses,Coursework,4,2,1,2021
+2021-10-04,240,Talks/conferences,Community,5,2,1,2021
+2021-10-04,120,Talks/conferences,Community,5,2,1,2021
+2021-10-05,95,Talks/conferences,Community,5,2,1,2021
+2021-10-05,180,Talks/conferences,Community,5,2,1,2021
+2021-10-06,90,Talks/conferences,Community,5,2,1,2021
+2021-10-06,150,Talks/conferences,Community,5,2,1,2021
+2021-10-06,17,Talks/conferences,Community,5,2,1,2021
+2021-10-06,103,Required courses,Coursework,5,2,1,2021
+2021-10-07,80,Talks/conferences,Community,5,2,1,2021
+2021-10-07,150,Required courses,Coursework,5,2,1,2021
+2021-10-07,90,Required courses,Coursework,5,2,1,2021
+2021-10-07,188,Supervision,Research,5,2,1,2021
+2021-10-08,91,Organising talks/conferences,Community,5,2,1,2021
+2021-10-08,65,Talks/conferences,Community,5,2,1,2021
+2021-10-08,236,Required courses,Coursework,5,2,1,2021
+2021-10-08,10,Required courses,Coursework,5,2,1,2021
+2021-10-08,73,Required courses,Coursework,5,2,1,2021
+2021-10-08,53,Required courses,Coursework,5,2,1,2021
+2021-10-09,98,Required courses,Coursework,5,2,1,2021
+2021-10-11,33,Organising talks/conferences,Community,6,2,1,2021
+2021-10-11,79,Required courses,Coursework,6,2,1,2021
+2021-10-11,59,Required courses,Coursework,6,2,1,2021
+2021-10-11,90,Required courses,Coursework,6,2,1,2021
+2021-10-11,116,Supervision,Research,6,2,1,2021
+2021-10-12,89,CLE talks,Community,6,2,1,2021
+2021-10-12,37,Reading,Research,6,2,1,2021
+2021-10-12,189,Reading,Research,6,2,1,2021
+2021-10-12,115,Required courses,Coursework,6,2,1,2021
+2021-10-12,19,PhD admin,Admin,6,2,1,2021
+2021-10-13,95,Reading groups,Community,6,2,1,2021
+2021-10-13,10,Organising talks/conferences,Community,6,2,1,2021
+2021-10-13,131,Reading,Research,6,2,1,2021
+2021-10-13,185,Reading,Research,6,2,1,2021
+2021-10-13,20,Required courses,Coursework,6,2,1,2021
+2021-10-13,9,Required courses,Coursework,6,2,1,2021
+2021-10-14,67,Talks/conferences,Community,6,2,1,2021
+2021-10-14,204,Reading,Research,6,2,1,2021
+2021-10-14,178,Reading,Research,6,2,1,2021
+2021-10-14,28,Reading,Research,6,2,1,2021
+2021-10-15,63,Talks/conferences,Community,6,2,1,2021
+2021-10-15,95,Reading,Research,6,2,1,2021
+2021-10-15,20,Reading,Research,6,2,1,2021
+2021-10-15,147,Required courses,Coursework,6,2,1,2021
+2021-10-18,37,Reading,Research,7,2,1,2021
+2021-10-18,131,Required courses,Coursework,7,2,1,2021
+2021-10-18,33,Required courses,Coursework,7,2,1,2021
+2021-10-18,110,Required courses,Coursework,7,2,1,2021
+2021-10-18,110,Supervision,Research,7,2,1,2021
+2021-10-19,18,Reading,Research,7,2,1,2021
+2021-10-19,22,Reading,Research,7,2,1,2021
+2021-10-19,194,Reading,Research,7,2,1,2021
+2021-10-19,55,Required courses,Coursework,7,2,1,2021
+2021-10-19,17,Required courses,Coursework,7,2,1,2021
+2021-10-19,73,Required courses,Coursework,7,2,1,2021
+2021-10-19,55,PhD admin,Admin,7,2,1,2021
+2021-10-20,33,Reading groups,Community,7,2,1,2021
+2021-10-20,60,Reading groups,Community,7,2,1,2021
+2021-10-20,96,Reading,Research,7,2,1,2021
+2021-10-20,67,Reading,Research,7,2,1,2021
+2021-10-20,14,Supervision,Research,7,2,1,2021
+2021-10-20,57,Supervision,Research,7,2,1,2021
+2021-10-21,50,Talks/conferences,Community,7,2,1,2021
+2021-10-21,60,Reading,Research,7,2,1,2021
+2021-10-21,20,Required courses,Coursework,7,2,1,2021
+2021-10-21,68,Supervision,Research,7,2,1,2021
+2021-10-21,69,Supervision,Research,7,2,1,2021
+2021-10-22,105,Required courses,Coursework,7,2,1,2021
+2021-10-22,30,Required courses,Coursework,7,2,1,2021
+2021-10-22,11,Required courses,Coursework,7,2,1,2021
+2021-10-25,24,Reading,Research,8,2,1,2021
+2021-10-25,60,Required courses,Coursework,8,2,1,2021
+2021-10-25,68,Required courses,Coursework,8,2,1,2021
+2021-10-25,18,PhD admin,Admin,8,2,1,2021
+2021-10-25,53,Supervision,Research,8,2,1,2021
+2021-10-25,90,Supervision,Research,8,2,1,2021
+2021-10-25,45,Supervision,Research,8,2,1,2021
+2021-10-26,96,CLE talks,Community,8,2,1,2021
+2021-10-26,180,Reading,Research,8,2,1,2021
+2021-10-26,45,Reading,Research,8,2,1,2021
+2021-10-26,93,Reading,Research,8,2,1,2021
+2021-10-27,56,Reading groups,Community,8,2,1,2021
+2021-10-27,51,Reading,Research,8,2,1,2021
+2021-10-27,96,Reading,Research,8,2,1,2021
+2021-10-27,86,Reading,Research,8,2,1,2021
+2021-10-27,174,Reading,Research,8,2,1,2021
+2021-10-28,90,Talks/conferences,Community,8,2,1,2021
+2021-10-28,50,Reading,Research,8,2,1,2021
+2021-10-28,60,Reading,Research,8,2,1,2021
+2021-10-28,96,Reading,Research,8,2,1,2021
+2021-10-28,132,Reading,Research,8,2,1,2021
+2021-10-29,20,Organising talks/conferences,Community,8,2,1,2021
+2021-10-29,180,Reading,Research,8,2,1,2021
+2021-10-29,186,Reading,Research,8,2,1,2021
+2021-10-29,98,Reading,Research,8,2,1,2021
+2021-10-30,172,Reading,Research,8,2,1,2021
+2021-10-30,121,Reading,Research,8,2,1,2021
+2021-11-01,110,Required courses,Coursework,9,3,1,2021
+2021-11-01,79,Required courses,Coursework,9,3,1,2021
+2021-11-01,24,Required courses,Coursework,9,3,1,2021
+2021-11-01,18,Supervision,Research,9,3,1,2021
+2021-11-01,90,Supervision,Research,9,3,1,2021
+2021-11-02,5,Organising talks/conferences,Community,9,3,1,2021
+2021-11-02,65,Talks/conferences,Community,9,3,1,2021
+2021-11-02,79,Reading,Research,9,3,1,2021
+2021-11-02,146,Reading,Research,9,3,1,2021
+2021-11-02,118,Reading,Research,9,3,1,2021
+2021-11-03,193,Reading,Research,9,3,1,2021
+2021-11-03,100,Reading,Research,9,3,1,2021
+2021-11-03,21,Reading,Research,9,3,1,2021
+2021-11-03,151,Reading,Research,9,3,1,2021
+2021-11-03,105,PhD admin,Admin,9,3,1,2021
+2021-11-04,120,Reading,Research,9,3,1,2021
+2021-11-04,60,Reading,Research,9,3,1,2021
+2021-11-04,63,Reading,Research,9,3,1,2021
+2021-11-04,32,Reading,Research,9,3,1,2021
+2021-11-04,165,PhD admin,Admin,9,3,1,2021
+2021-11-05,76,Reading,Research,9,3,1,2021
+2021-11-05,85,Reading,Research,9,3,1,2021
+2021-11-05,145,Reading,Research,9,3,1,2021
+2021-11-05,45,Reading,Research,9,3,1,2021
+2021-11-06,25,Required courses,Coursework,9,3,1,2021
+2021-11-06,8,Supervision,Research,9,3,1,2021
+2021-11-08,17,Reading,Research,10,3,1,2021
+2021-11-08,64,Required courses,Coursework,10,3,1,2021
+2021-11-08,22,Required courses,Coursework,10,3,1,2021
+2021-11-08,90,Supervision,Research,10,3,1,2021
+2021-11-08,95,Supervision,Research,10,3,1,2021
+2021-11-09,95,CLE talks,Community,10,3,1,2021
+2021-11-10,20,Reading groups,Community,10,3,1,2021
+2021-11-10,50,Reading groups,Community,10,3,1,2021
+2021-11-10,26,Reading groups,Community,10,3,1,2021
+2021-11-10,172,Required courses,Coursework,10,3,1,2021
+2021-11-10,30,Required courses,Coursework,10,3,1,2021
+2021-11-11,262,Required courses,Coursework,10,3,1,2021
+2021-11-11,159,Required courses,Coursework,10,3,1,2021
+2021-11-12,109,Reading,Research,10,3,1,2021
+2021-11-12,22,Reading,Research,10,3,1,2021
+2021-11-12,77,Required courses,Coursework,10,3,1,2021
+2021-11-12,69,Required courses,Coursework,10,3,1,2021
+2021-11-13,7,Reading,Research,10,3,1,2021
+2021-11-15,129,Required courses,Coursework,11,3,1,2021
+2021-11-15,19,Required courses,Coursework,11,3,1,2021
+2021-11-15,20,Supervision,Research,11,3,1,2021
+2021-11-15,90,Supervision,Research,11,3,1,2021
+2021-11-16,82,CLE talks,Community,11,3,1,2021
+2021-11-16,212,Required courses,Coursework,11,3,1,2021
+2021-11-16,10,Required courses,Coursework,11,3,1,2021
+2021-11-16,47,Required courses,Coursework,11,3,1,2021
+2021-11-17,103,Required courses,Coursework,11,3,1,2021
+2021-11-17,31,Required courses,Coursework,11,3,1,2021
+2021-11-18,4,Organising talks/conferences,Community,11,3,1,2021
+2021-11-18,10,Required courses,Coursework,11,3,1,2021
+2021-11-18,63,Required courses,Coursework,11,3,1,2021
+2021-11-18,54,Required courses,Coursework,11,3,1,2021
+2021-11-18,175,Required courses,Coursework,11,3,1,2021
+2021-11-18,14,Required courses,Coursework,11,3,1,2021
+2021-11-20,42,Reading,Research,11,3,1,2021
+2021-11-20,136,Reading,Research,11,3,1,2021
+2021-11-20,17,Reading,Research,11,3,1,2021
+2021-11-22,3,Reading,Research,12,3,1,2021
+2021-11-22,113,Required courses,Coursework,12,3,1,2021
+2021-11-22,172,Required courses,Coursework,12,3,1,2021
+2021-11-22,90,Supervision,Research,12,3,1,2021
+2021-11-22,18,Supervision,Research,12,3,1,2021
+2021-11-23,90,CLE talks,Community,12,3,1,2021
+2021-11-23,70,Required courses,Coursework,12,3,1,2021
+2021-11-23,156,Required courses,Coursework,12,3,1,2021
+2021-11-24,90,Reading groups,Community,12,3,1,2021
+2021-11-24,46,Required courses,Coursework,12,3,1,2021
+2021-11-24,146,Required courses,Coursework,12,3,1,2021
+2021-11-24,231,Required courses,Coursework,12,3,1,2021
+2021-11-25,239,Required courses,Coursework,12,3,1,2021
+2021-11-25,209,Required courses,Coursework,12,3,1,2021
+2021-11-26,115,Required courses,Coursework,12,3,1,2021
+2021-11-26,217,Required courses,Coursework,12,3,1,2021
+2021-11-26,50,Required courses,Coursework,12,3,1,2021
+2021-11-26,54,Required courses,Coursework,12,3,1,2021
+2021-11-27,265,Reading,Research,12,3,1,2021
+2021-11-27,163,Required courses,Coursework,12,3,1,2021
+2021-11-29,28,Organising talks/conferences,Community,13,3,1,2021
+2021-11-29,80,Organising talks/conferences,Community,13,3,1,2021
+2021-11-29,56,Required courses,Coursework,13,3,1,2021
+2021-11-29,136,Required courses,Coursework,13,3,1,2021
+2021-11-29,90,Supervision,Research,13,3,1,2021
+2021-11-30,80,CLE talks,Community,13,3,1,2021
+2021-11-30,124,Required courses,Coursework,13,3,1,2021
+2021-11-30,278,Required courses,Coursework,13,3,1,2021
+2021-12-01,216,Required courses,Coursework,13,4,1,2021
+2021-12-01,170,Required courses,Coursework,13,4,1,2021
+2021-12-02,35,Required courses,Coursework,13,4,1,2021
+2021-12-06,82,Organising talks/conferences,Community,14,4,1,2021
+2021-12-06,40,Organising talks/conferences,Community,14,4,1,2021
+2021-12-06,30,Required courses,Coursework,14,4,1,2021
+2021-12-06,90,Supervision,Research,14,4,1,2021
+2021-12-07,13,Organising talks/conferences,Community,14,4,1,2021
+2021-12-07,133,Reading,Research,14,4,1,2021
+2021-12-07,200,Reading,Research,14,4,1,2021
+2021-12-07,36,Reading,Research,14,4,1,2021
+2021-12-08,66,Reading groups,Community,14,4,1,2021
+2021-12-08,16,Reading groups,Community,14,4,1,2021
+2021-12-08,97,Reading groups,Community,14,4,1,2021
+2021-12-08,115,Reading,Research,14,4,1,2021
+2021-12-08,45,Reading,Research,14,4,1,2021
+2021-12-08,104,Reading,Research,14,4,1,2021
+2021-12-09,180,Word segmentation,Research,14,4,1,2021
+2021-12-09,163,Word segmentation,Research,14,4,1,2021
+2021-12-10,36,Reading,Research,14,4,1,2021
+2021-12-10,25,Reading,Research,14,4,1,2021
+2021-12-10,4,Word segmentation,Research,14,4,1,2021
+2021-12-10,239,Word segmentation,Research,14,4,1,2021
+2021-12-13,94,Supervision,Research,15,4,1,2021
+2021-12-14,90,CLE talks,Community,15,4,1,2021
+2021-12-14,5,Reading,Research,15,4,1,2021
+2022-01-13,65,PhD admin,Admin,19,5,1,2022
+2022-01-13,26,PhD admin,Admin,19,5,1,2022
+2022-01-13,14,Required courses,Coursework,19,5,1,2022
+2022-01-13,18,Required courses,Coursework,19,5,1,2022
+2022-01-14,25,Reading,Research,19,5,1,2022
+2022-01-14,8,Reading,Research,19,5,1,2022
+2022-01-14,176,Reading,Research,19,5,1,2022
+2022-01-14,13,Required courses,Coursework,19,5,1,2022
+2022-01-14,13,PhD admin,Admin,19,5,1,2022
+2022-01-15,27,Reading,Research,19,5,1,2022
+2022-01-15,5,Reading,Research,19,5,1,2022
+2022-01-17,47,Reading,Research,20,5,1,2022
+2022-01-17,20,Reading,Research,20,5,1,2022
+2022-01-17,63,Required courses,Coursework,20,5,1,2022
+2022-01-17,75,Required courses,Coursework,20,5,1,2022
+2022-01-17,36,Auditing courses,Coursework,20,5,1,2022
+2022-01-17,13,Supervision,Research,20,5,1,2022
+2022-01-17,90,Supervision,Research,20,5,1,2022
+2022-01-17,32,Required courses,Coursework,20,5,1,2022
+2022-01-17,13,Required courses,Coursework,20,5,1,2022
+2022-01-18,90,CLE talks,Community,20,5,1,2022
+2022-01-18,154,Reading,Research,20,5,1,2022
+2022-01-18,110,Reading,Research,20,5,1,2022
+2022-01-18,35,Required courses,Coursework,20,5,1,2022
+2022-01-19,50,Reading groups,Community,20,5,1,2022
+2022-01-19,91,Required courses,Coursework,20,5,1,2022
+2022-01-19,231,Required courses,Coursework,20,5,1,2022
+2022-01-20,38,Required courses,Coursework,20,5,1,2022
+2022-01-20,7,Required courses,Coursework,20,5,1,2022
+2022-01-20,15,Required courses,Coursework,20,5,1,2022
+2022-01-20,10,Required courses,Coursework,20,5,1,2022
+2022-01-20,10,Required courses,Coursework,20,5,1,2022
+2022-01-21,50,Auditing courses,Coursework,20,5,1,2022
+2022-01-21,134,Required courses,Coursework,20,5,1,2022
+2022-01-21,155,Required courses,Coursework,20,5,1,2022
+2022-01-21,83,Required courses,Coursework,20,5,1,2022
+2022-01-22,7,Reading groups,Community,20,5,1,2022
+2022-01-22,10,Auditing courses,Coursework,20,5,1,2022
+2022-01-22,195,Required courses,Coursework,20,5,1,2022
+2022-01-24,15,Reading groups,Community,21,5,1,2022
+2022-01-24,43,Required courses,Coursework,21,5,1,2022
+2022-01-24,70,Auditing courses,Coursework,21,5,1,2022
+2022-01-24,68,Auditing courses,Coursework,21,5,1,2022
+2022-01-24,90,Supervision,Research,21,5,1,2022
+2022-01-25,143,Reading groups,Community,21,5,1,2022
+2022-01-25,7,Reading groups,Community,21,5,1,2022
+2022-01-25,78,Reading groups,Community,21,5,1,2022
+2022-01-25,74,Required courses,Coursework,21,5,1,2022
+2022-01-26,71,Reading groups,Community,21,5,1,2022
+2022-01-26,50,Reading groups,Community,21,5,1,2022
+2022-01-26,183,Reading,Research,21,5,1,2022
+2022-01-26,65,Required courses,Coursework,21,5,1,2022
+2022-01-26,47,Required courses,Coursework,21,5,1,2022
+2022-01-27,30,Reading groups,Community,21,5,1,2022
+2022-01-27,242,Reading,Research,21,5,1,2022
+2022-01-27,10,Reading,Research,21,5,1,2022
+2022-01-27,53,Required courses,Coursework,21,5,1,2022
+2022-01-27,18,Supervision,Research,21,5,1,2022
+2022-01-28,95,Reading groups,Community,21,5,1,2022
+2022-01-28,50,Required courses,Coursework,21,5,1,2022
+2022-01-28,50,Auditing courses,Coursework,21,5,1,2022
+2022-01-28,50,Supervision,Research,21,5,1,2022
+2022-01-28,55,Required courses,Coursework,21,5,1,2022
+2022-01-31,31,Required courses,Coursework,22,5,1,2022
+2022-01-31,28,Required courses,Coursework,22,5,1,2022
+2022-01-31,11,Supervision,Research,22,5,1,2022
+2022-01-31,75,Supervision,Research,22,5,1,2022
+2022-01-31,143,Required courses,Coursework,22,5,1,2022
+2022-01-31,24,Required courses,Coursework,22,5,1,2022
+2022-01-31,22,Required courses,Coursework,22,5,1,2022
+2022-02-01,92,CLE talks,Community,22,6,1,2022
+2022-02-01,20,Reading,Research,22,6,1,2022
+2022-02-01,35,Auditing courses,Coursework,22,6,1,2022
+2022-02-01,24,Auditing courses,Coursework,22,6,1,2022
+2022-02-02,110,Reading groups,Community,22,6,1,2022
+2022-02-02,55,Reading groups,Community,22,6,1,2022
+2022-02-02,74,Reading,Research,22,6,1,2022
+2022-02-03,11,Reading,Research,22,6,1,2022
+2022-02-03,179,Reading,Research,22,6,1,2022
+2022-02-03,22,Reading,Research,22,6,1,2022
+2022-02-03,42,Reading,Research,22,6,1,2022
+2022-02-03,52,Required courses,Coursework,22,6,1,2022
+2022-02-04,24,Required courses,Coursework,22,6,1,2022
+2022-02-04,7,Required courses,Coursework,22,6,1,2022
+2022-02-04,50,Required courses,Coursework,22,6,1,2022
+2022-02-04,50,Auditing courses,Coursework,22,6,1,2022
+2022-02-04,30,Talks/conferences,Community,22,6,1,2022
+2022-02-07,172,Word segmentation,Research,23,6,1,2022
+2022-02-07,4,Word segmentation,Research,23,6,1,2022
+2022-02-07,90,Supervision,Research,23,6,1,2022
+2022-02-08,90,CLE talks,Community,23,6,1,2022
+2022-02-08,7,Talks/conferences,Community,23,6,1,2022
+2022-02-08,105,Required courses,Coursework,23,6,1,2022
+2022-02-08,60,Auditing courses,Coursework,23,6,1,2022
+2022-02-09,50,Reading groups,Community,23,6,1,2022
+2022-02-09,86,Reading groups,Community,23,6,1,2022
+2022-02-09,62,Reading groups,Community,23,6,1,2022
+2022-02-09,42,Reading,Research,23,6,1,2022
+2022-02-09,31,Reading,Research,23,6,1,2022
+2022-02-09,17,Auditing courses,Coursework,23,6,1,2022
+2022-02-10,18,Reading groups,Community,23,6,1,2022
+2022-02-10,16,Reading,Research,23,6,1,2022
+2022-02-10,242,Reading,Research,23,6,1,2022
+2022-02-10,79,Reading,Research,23,6,1,2022
+2022-02-10,26,Reading,Research,23,6,1,2022
+2022-02-10,85,Talks/conferences,Community,23,6,1,2022
+2022-02-11,71,Reading,Research,23,6,1,2022
+2022-02-11,125,Reading,Research,23,6,1,2022
+2022-02-11,114,Reading,Research,23,6,1,2022
+2022-02-11,50,Auditing courses,Coursework,23,6,1,2022
+2022-02-14,65,Required courses,Coursework,24,6,1,2022
+2022-02-21,194,Non-thesis project,Research,25,6,1,2022
+2022-02-21,13,Supervision,Research,25,6,1,2022
+2022-02-21,120,Supervision,Research,25,6,1,2022
+2022-02-22,5,Word segmentation,Research,25,6,1,2022
+2022-02-23,255,Talks/conferences,Community,25,6,1,2022
+2022-02-24,225,Talks/conferences,Community,25,6,1,2022
+2022-02-24,33,Talks/conferences,Community,25,6,1,2022
+2022-02-24,18,Required courses,Coursework,25,6,1,2022
+2022-02-24,50,Required courses,Coursework,25,6,1,2022
+2022-02-25,155,Talks/conferences,Community,25,6,1,2022
+2022-02-25,56,Reviewing,Community,25,6,1,2022
+2022-02-25,122,Reviewing,Community,25,6,1,2022
+2022-02-25,35,Reviewing,Community,25,6,1,2022
+2022-02-28,7,Reading,Research,26,6,1,2022
+2022-02-28,33,Required courses,Coursework,26,6,1,2022
+2022-02-28,80,Supervision,Research,26,6,1,2022
+2022-03-03,69,Word segmentation,Research,26,7,1,2022
+2022-03-03,87,Word segmentation,Research,26,7,1,2022
+2022-03-03,120,Word segmentation,Research,26,7,1,2022
+2022-03-04,50,Required courses,Coursework,26,7,1,2022
+2022-03-04,50,Auditing courses,Coursework,26,7,1,2022
+2022-03-04,191,Word segmentation,Research,26,7,1,2022
+2022-03-04,21,Word segmentation,Research,26,7,1,2022
+2022-03-07,116,Word segmentation,Research,27,7,1,2022
+2022-03-07,165,Supervision,Research,27,7,1,2022
+2022-03-08,70,Organising talks/conferences,Community,27,7,1,2022
+2022-03-08,146,Required courses,Coursework,27,7,1,2022
+2022-03-08,5,Required courses,Coursework,27,7,1,2022
+2022-03-08,99,Required courses,Coursework,27,7,1,2022
+2022-03-08,52,Required courses,Coursework,27,7,1,2022
+2022-03-09,55,Reading groups,Community,27,7,1,2022
+2022-03-09,40,Reading groups,Community,27,7,1,2022
+2022-03-09,72,Required courses,Coursework,27,7,1,2022
+2022-03-09,75,Required courses,Coursework,27,7,1,2022
+2022-03-09,14,Required courses,Coursework,27,7,1,2022
+2022-03-09,8,Word segmentation,Research,27,7,1,2022
+2022-03-09,55,Talks/conferences,Community,27,7,1,2022
+2022-03-10,27,Reading,Research,27,7,1,2022
+2022-03-10,210,Reading,Research,27,7,1,2022
+2022-03-10,31,Reading,Research,27,7,1,2022
+2022-03-10,43,Required courses,Coursework,27,7,1,2022
+2022-03-11,133,Required courses,Coursework,27,7,1,2022
+2022-03-11,30,Required courses,Coursework,27,7,1,2022
+2022-03-11,50,Auditing courses,Coursework,27,7,1,2022
+2022-03-11,141,Word segmentation,Research,27,7,1,2022
+2022-03-11,30,Word segmentation,Research,27,7,1,2022
+2022-03-11,78,Word segmentation,Research,27,7,1,2022
+2022-03-14,33,Required courses,Coursework,28,7,1,2022
+2022-03-14,15,Reviewing,Community,28,7,1,2022
+2022-03-14,14,Word segmentation,Research,28,7,1,2022
+2022-03-14,25,Word segmentation,Research,28,7,1,2022
+2022-03-14,84,Word segmentation,Research,28,7,1,2022
+2022-03-14,30,Word segmentation,Research,28,7,1,2022
+2022-03-14,90,Supervision,Research,28,7,1,2022
+2022-03-15,56,CLE talks,Community,28,7,1,2022
+2022-03-15,50,Reading,Research,28,7,1,2022
+2022-03-15,59,Word segmentation,Research,28,7,1,2022
+2022-03-15,62,Word segmentation,Research,28,7,1,2022
+2022-03-15,194,Word segmentation,Research,28,7,1,2022
+2022-03-15,80,Word segmentation,Research,28,7,1,2022
+2022-03-16,58,Reading groups,Community,28,7,1,2022
+2022-03-16,10,Required courses,Coursework,28,7,1,2022
+2022-03-16,74,Word segmentation,Research,28,7,1,2022
+2022-03-16,10,Word segmentation,Research,28,7,1,2022
+2022-03-16,52,Word segmentation,Research,28,7,1,2022
+2022-03-16,65,Word segmentation,Research,28,7,1,2022
+2022-03-16,162,Word segmentation,Research,28,7,1,2022
+2022-03-17,204,Reading,Research,28,7,1,2022
+2022-03-17,39,Reading,Research,28,7,1,2022
+2022-03-17,15,Word segmentation,Research,28,7,1,2022
+2022-03-18,24,Reading,Research,28,7,1,2022
+2022-03-18,50,Required courses,Coursework,28,7,1,2022
+2022-03-18,50,Auditing courses,Coursework,28,7,1,2022
+2022-03-18,225,Word segmentation,Research,28,7,1,2022
+2022-03-21,158,Required courses,Coursework,29,7,1,2022
+2022-03-21,234,Required courses,Coursework,29,7,1,2022
+2022-03-21,95,Supervision,Research,29,7,1,2022
+2022-03-22,38,Reading,Research,29,7,1,2022
+2022-03-22,48,Reading,Research,29,7,1,2022
+2022-03-22,13,Required courses,Coursework,29,7,1,2022
+2022-03-22,160,Required courses,Coursework,29,7,1,2022
+2022-03-22,139,Word segmentation,Research,29,7,1,2022
+2022-03-22,95,Talks/conferences,Community,29,7,1,2022
+2022-03-23,12,Reading,Research,29,7,1,2022
+2022-03-25,71,Word segmentation,Research,29,7,1,2022
+2022-03-25,9,Word segmentation,Research,29,7,1,2022
+2022-03-28,116,Required courses,Coursework,30,7,1,2022
+2022-03-28,99,Required courses,Coursework,30,7,1,2022
+2022-03-28,105,Required courses,Coursework,30,7,1,2022
+2022-03-28,35,Word segmentation,Research,30,7,1,2022
+2022-03-28,14,Word segmentation,Research,30,7,1,2022
+2022-03-28,90,Supervision,Research,30,7,1,2022
+2022-03-29,85,CLE talks,Community,30,7,1,2022
+2022-03-29,180,Word segmentation,Research,30,7,1,2022
+2022-03-29,73,Word segmentation,Research,30,7,1,2022
+2022-03-30,69,Reading groups,Community,30,7,1,2022
+2022-03-30,50,Reading groups,Community,30,7,1,2022
+2022-03-30,55,Reading groups,Community,30,7,1,2022
+2022-03-30,13,Required courses,Coursework,30,7,1,2022
+2022-03-30,40,Supervision,Research,30,7,1,2022
+2022-03-31,155,Required courses,Coursework,30,7,1,2022
+2022-03-31,185,Required courses,Coursework,30,7,1,2022
+2022-04-01,51,Reading,Research,30,8,1,2022
+2022-04-01,50,Reading,Research,30,8,1,2022
+2022-04-01,50,Auditing courses,Coursework,30,8,1,2022
+2022-04-01,66,Word segmentation,Research,30,8,1,2022
+2022-04-01,60,Talks/conferences,Community,30,8,1,2022
+2022-04-04,47,Reading groups,Community,31,8,1,2022
+2022-04-04,189,Reading,Research,31,8,1,2022
+2022-04-04,117,Required courses,Coursework,31,8,1,2022
+2022-04-04,18,Required courses,Coursework,31,8,1,2022
+2022-04-04,10,Required courses,Coursework,31,8,1,2022
+2022-04-04,90,Supervision,Research,31,8,1,2022
+2022-04-05,94,CLE talks,Community,31,8,1,2022
+2022-04-05,126,Reading,Research,31,8,1,2022
+2022-04-05,79,Reading,Research,31,8,1,2022
+2022-04-05,34,Word segmentation,Research,31,8,1,2022
+2022-04-05,75,Supervision,Research,31,8,1,2022
+2022-04-05,90,Talks/conferences,Community,31,8,1,2022
+2022-04-06,4,Organising talks/conferences,Community,31,8,1,2022
+2022-04-06,66,Reading groups,Community,31,8,1,2022
+2022-04-06,61,Reading,Research,31,8,1,2022
+2022-04-06,39,Reading,Research,31,8,1,2022
+2022-04-06,28,Reading,Research,31,8,1,2022
+2022-04-06,234,Reading,Research,31,8,1,2022
+2022-04-07,153,Non-thesis project,Research,31,8,1,2022
+2022-04-07,47,Non-thesis project,Research,31,8,1,2022
+2022-04-07,63,Non-thesis project,Research,31,8,1,2022
+2022-04-07,46,Auditing courses,Coursework,31,8,1,2022
+2022-04-07,59,Auditing courses,Coursework,31,8,1,2022
+2022-04-07,23,PhD admin,Admin,31,8,1,2022
+2022-04-08,15,Non-thesis project,Research,31,8,1,2022
+2022-04-08,109,Reading,Research,31,8,1,2022
+2022-04-08,31,Talks/conferences,Community,31,8,1,2022
+2022-04-09,60,Non-thesis project,Research,31,8,1,2022
+2022-04-09,56,Non-thesis project,Research,31,8,1,2022
+2022-04-09,60,Non-thesis project,Research,31,8,1,2022
+2022-04-09,76,Non-thesis project,Research,31,8,1,2022
+2022-04-11,10,Reading,Research,32,8,1,2022
+2022-04-11,150,Reading,Research,32,8,1,2022
+2022-04-11,128,Supervision,Research,32,8,1,2022
+2022-04-11,60,Supervision,Research,32,8,1,2022
+2022-04-11,5,PhD admin,Admin,32,8,1,2022
+2022-04-12,175,Non-thesis project,Research,32,8,1,2022
+2022-04-12,256,Non-thesis project,Research,32,8,1,2022
+2022-04-13,205,Non-thesis project,Research,32,8,1,2022
+2022-04-13,96,Non-thesis project,Research,32,8,1,2022
+2022-04-13,15,Non-thesis project,Research,32,8,1,2022
+2022-04-13,82,Non-thesis project,Research,32,8,1,2022
+2022-04-14,62,Non-thesis project,Research,32,8,1,2022
+2022-04-14,162,Non-thesis project,Research,32,8,1,2022
+2022-04-15,215,Non-thesis project,Research,32,8,1,2022
+2022-04-15,150,Non-thesis project,Research,32,8,1,2022
+2022-04-18,165,Non-thesis project,Research,33,8,1,2022
+2022-04-18,117,Non-thesis project,Research,33,8,1,2022
+2022-04-18,57,Non-thesis project,Research,33,8,1,2022
+2022-04-18,90,Supervision,Research,33,8,1,2022
+2022-04-19,133,Non-thesis project,Research,33,8,1,2022
+2022-04-19,221,Non-thesis project,Research,33,8,1,2022
+2022-04-20,60,Organising talks/conferences,Community,33,8,1,2022
+2022-04-20,220,Non-thesis project,Research,33,8,1,2022
+2022-04-20,158,Non-thesis project,Research,33,8,1,2022
+2022-04-21,127,CLE admin,Admin,33,8,1,2022
+2022-04-21,18,Organising talks/conferences,Community,33,8,1,2022
+2022-04-21,31,Non-thesis project,Research,33,8,1,2022
+2022-04-21,29,Non-thesis project,Research,33,8,1,2022
+2022-04-21,230,Non-thesis project,Research,33,8,1,2022
+2022-04-21,35,Non-thesis project,Research,33,8,1,2022
+2022-04-22,24,CLE admin,Admin,33,8,1,2022
+2022-04-22,10,Organising talks/conferences,Community,33,8,1,2022
+2022-04-22,294,Non-thesis project,Research,33,8,1,2022
+2022-04-22,180,Non-thesis project,Research,33,8,1,2022
+2022-04-25,4,CLE admin,Admin,34,8,1,2022
+2022-04-25,15,CLE admin,Admin,34,8,1,2022
+2022-04-25,64,Non-thesis project,Research,34,8,1,2022
+2022-04-25,111,Non-thesis project,Research,34,8,1,2022
+2022-04-25,77,Reading,Research,34,8,1,2022
+2022-04-25,95,Supervision,Research,34,8,1,2022
+2022-04-25,90,Supervision,Research,34,8,1,2022
+2022-04-25,15,Supervision,Research,34,8,1,2022
+2022-04-25,45,Supervision,Research,34,8,1,2022
+2022-04-26,90,CLE talks,Community,34,8,1,2022
+2022-04-26,78,Non-thesis project,Research,34,8,1,2022
+2022-04-26,226,Non-thesis project,Research,34,8,1,2022
+2022-04-27,13,Organising talks/conferences,Community,34,8,1,2022
+2022-04-27,5,Organising talks/conferences,Community,34,8,1,2022
+2022-04-27,300,Non-thesis project,Research,34,8,1,2022
+2022-04-27,150,Non-thesis project,Research,34,8,1,2022
+2022-04-27,46,Non-thesis project,Research,34,8,1,2022
+2022-04-28,15,Organising talks/conferences,Community,34,8,1,2022
+2022-04-28,247,Non-thesis project,Research,34,8,1,2022
+2022-04-28,185,Non-thesis project,Research,34,8,1,2022
+2022-04-28,20,Non-thesis project,Research,34,8,1,2022
+2022-04-29,114,Non-thesis project,Research,34,8,1,2022
+2022-04-29,83,Non-thesis project,Research,34,8,1,2022
+2022-05-02,23,Annual review,Research,35,9,1,2022
+2022-05-02,16,CLE admin,Admin,35,9,1,2022
+2022-05-02,45,Organising talks/conferences,Community,35,9,1,2022
+2022-05-02,110,Non-thesis project,Research,35,9,1,2022
+2022-05-02,75,Non-thesis project,Research,35,9,1,2022
+2022-05-02,90,Supervision,Research,35,9,1,2022
+2022-05-03,9,CLE admin,Admin,35,9,1,2022
+2022-05-03,90,CLE talks,Community,35,9,1,2022
+2022-05-03,213,Word segmentation,Research,35,9,1,2022
+2022-05-03,99,Word segmentation,Research,35,9,1,2022
+2022-05-04,50,Organising talks/conferences,Community,35,9,1,2022
+2022-05-04,18,Organising talks/conferences,Community,35,9,1,2022
+2022-05-04,110,Organising talks/conferences,Community,35,9,1,2022
+2022-05-04,37,Word segmentation,Research,35,9,1,2022
+2022-05-04,118,Word segmentation,Research,35,9,1,2022
+2022-05-05,9,Organising talks/conferences,Community,35,9,1,2022
+2022-05-05,35,Supervision,Research,35,9,1,2022
+2022-05-06,80,Organising talks/conferences,Community,35,9,1,2022
+2022-05-10,9,Organising talks/conferences,Community,36,9,1,2022
+2022-05-10,155,Word segmentation,Research,36,9,1,2022
+2022-05-11,127,Word segmentation,Research,36,9,1,2022
+2022-05-11,190,Word segmentation,Research,36,9,1,2022
+2022-05-11,28,Word segmentation,Research,36,9,1,2022
+2022-05-13,95,Reading groups,Community,36,9,1,2022
+2022-05-13,96,Organising talks/conferences,Community,36,9,1,2022
+2022-05-16,15,CLE admin,Admin,37,9,1,2022
+2022-05-16,10,Organising talks/conferences,Community,37,9,1,2022
+2022-05-16,172,Word segmentation,Research,37,9,1,2022
+2022-05-16,70,Word segmentation,Research,37,9,1,2022
+2022-05-16,91,Supervision,Research,37,9,1,2022
+2022-05-17,85,CLE talks,Community,37,9,1,2022
+2022-05-18,12,PhD admin,Admin,37,9,1,2022
+2022-05-19,18,CLE admin,Admin,37,9,1,2022
+2022-05-19,213,Word segmentation,Research,37,9,1,2022
+2022-05-19,203,Word segmentation,Research,37,9,1,2022
+2022-05-20,90,Reading groups,Community,37,9,1,2022
+2022-05-20,7,Organising talks/conferences,Community,37,9,1,2022
+2022-05-20,30,Word segmentation,Research,37,9,1,2022
+2022-05-20,110,Word segmentation,Research,37,9,1,2022
+2022-05-20,130,Word segmentation,Research,37,9,1,2022
+2022-05-23,5,Talks/conferences,Community,38,9,1,2022
+2022-05-23,10,Organising talks/conferences,Community,38,9,1,2022
+2022-05-23,53,Reading groups,Community,38,9,1,2022
+2022-05-23,154,Word segmentation,Research,38,9,1,2022
+2022-05-23,95,Supervision,Research,38,9,1,2022
+2022-05-23,25,PhD admin,Admin,38,9,1,2022
+2022-05-24,90,CLE talks,Community,38,9,1,2022
+2022-05-24,66,Reading groups,Community,38,9,1,2022
+2022-05-24,105,Word segmentation,Research,38,9,1,2022
+2022-05-24,118,Word segmentation,Research,38,9,1,2022
+2022-05-24,48,Word segmentation,Research,38,9,1,2022
+2022-05-24,9,Word segmentation,Research,38,9,1,2022
+2022-05-25,277,Talks/conferences,Community,38,9,1,2022
+2022-05-25,10,Reading,Research,38,9,1,2022
+2022-05-25,197,Word segmentation,Research,38,9,1,2022
+2022-05-25,104,Word segmentation,Research,38,9,1,2022
+2022-05-26,30,Talks/conferences,Community,38,9,1,2022
+2022-05-26,210,Talks/conferences,Community,38,9,1,2022
+2022-05-26,87,Word segmentation,Research,38,9,1,2022
+2022-05-26,156,Word segmentation,Research,38,9,1,2022
+2022-05-26,207,Word segmentation,Research,38,9,1,2022
+2022-05-27,280,Talks/conferences,Community,38,9,1,2022
+2022-05-27,260,Word segmentation,Research,38,9,1,2022
+2022-05-27,25,Word segmentation,Research,38,9,1,2022
+2022-05-30,69,Organising talks/conferences,Community,39,9,1,2022
+2022-05-30,45,Word segmentation,Research,39,9,1,2022
+2022-05-30,255,Word segmentation,Research,39,9,1,2022
+2022-05-31,53,Organising talks/conferences,Community,39,9,1,2022
+2022-05-31,152,Word segmentation,Research,39,9,1,2022
+2022-05-31,385,Word segmentation,Research,39,9,1,2022
+2022-06-01,22,Organising talks/conferences,Community,39,10,1,2022
+2022-06-01,175,Word segmentation,Research,39,10,1,2022
+2022-06-01,195,Word segmentation,Research,39,10,1,2022
+2022-06-01,50,Word segmentation,Research,39,10,1,2022
+2022-06-02,23,Talks/conferences,Community,39,10,1,2022
+2022-06-02,33,Organising talks/conferences,Community,39,10,1,2022
+2022-06-02,145,Organising talks/conferences,Community,39,10,1,2022
+2022-06-02,140,Tutoring + related duties,Teaching,39,10,1,2022
+2022-06-02,94,Tutoring + related duties,Teaching,39,10,1,2022
+2022-06-03,33,Annual review,Research,39,10,1,2022
+2022-06-03,87,Annual review,Research,39,10,1,2022
+2022-06-03,100,Organising talks/conferences,Community,39,10,1,2022
+2022-06-03,39,Tutoring + related duties,Teaching,39,10,1,2022
+2022-06-06,90,Talks/conferences,Community,40,10,1,2022
+2022-06-06,165,Talks/conferences,Community,40,10,1,2022
+2022-06-06,62,Word segmentation,Research,40,10,1,2022
+2022-06-06,102,Word segmentation,Research,40,10,1,2022
+2022-06-07,90,Talks/conferences,Community,40,10,1,2022
+2022-06-07,210,Talks/conferences,Community,40,10,1,2022
+2022-06-07,20,Organising talks/conferences,Community,40,10,1,2022
+2022-06-07,82,Word segmentation,Research,40,10,1,2022
+2022-06-09,10,Organising talks/conferences,Community,40,10,1,2022
+2022-06-13,156,Annual review,Research,41,10,1,2022
+2022-06-13,28,Organising talks/conferences,Community,41,10,1,2022
+2022-06-14,115,Annual review,Research,41,10,1,2022
+2022-06-14,15,Organising talks/conferences,Community,41,10,1,2022
+2022-06-14,299,Reading,Research,41,10,1,2022
+2022-06-15,87,Annual review,Research,41,10,1,2022
+2022-06-15,103,Reading,Research,41,10,1,2022
+2022-06-15,189,Reading,Research,41,10,1,2022
+2022-06-16,120,Organising talks/conferences,Community,41,10,1,2022
+2022-06-16,7,Organising talks/conferences,Community,41,10,1,2022
+2022-06-16,14,Organising talks/conferences,Community,41,10,1,2022
+2022-06-16,36,Word segmentation,Research,41,10,1,2022
+2022-06-16,63,Word segmentation,Research,41,10,1,2022
+2022-06-16,80,Supervision,Research,41,10,1,2022
+2022-06-17,90,Reading groups,Community,41,10,1,2022
+2022-06-17,13,Organising talks/conferences,Community,41,10,1,2022
+2022-06-20,12,Organising talks/conferences,Community,42,10,1,2022
+2022-06-20,48,Organising talks/conferences,Community,42,10,1,2022
+2022-06-20,57,Word segmentation,Research,42,10,1,2022
+2022-06-20,71,Word segmentation,Research,42,10,1,2022
+2022-06-20,90,Supervision,Research,42,10,1,2022
+2022-06-20,29,Supervision,Research,42,10,1,2022
+2022-06-21,29,Organising talks/conferences,Community,42,10,1,2022
+2022-06-21,60,Reading groups,Community,42,10,1,2022
+2022-06-21,114,Reading groups,Community,42,10,1,2022
+2022-06-21,95,Word segmentation,Research,42,10,1,2022
+2022-06-21,100,Word segmentation,Research,42,10,1,2022
+2022-06-22,215,Word segmentation,Research,42,10,1,2022
+2022-06-22,255,Word segmentation,Research,42,10,1,2022
+2022-06-23,8,Organising talks/conferences,Community,42,10,1,2022
+2022-06-23,19,Organising talks/conferences,Community,42,10,1,2022
+2022-06-23,120,Organising talks/conferences,Community,42,10,1,2022
+2022-06-23,10,Word segmentation,Research,42,10,1,2022
+2022-06-23,23,Word segmentation,Research,42,10,1,2022
+2022-06-23,28,Word segmentation,Research,42,10,1,2022
+2022-06-23,82,Word segmentation,Research,42,10,1,2022
+2022-06-24,65,Reading groups,Community,42,10,1,2022
+2022-06-24,35,Organising talks/conferences,Community,42,10,1,2022
+2022-06-24,180,Word segmentation,Research,42,10,1,2022
+2022-06-24,85,Word segmentation,Research,42,10,1,2022
+2022-06-27,113,Word segmentation,Research,43,10,1,2022
+2022-06-27,55,Word segmentation,Research,43,10,1,2022
+2022-06-27,83,Word segmentation,Research,43,10,1,2022
+2022-06-27,30,Supervision,Research,43,10,1,2022
+2022-06-28,26,Word segmentation,Research,43,10,1,2022
+2022-06-28,199,Word segmentation,Research,43,10,1,2022
+2022-06-28,138,Word segmentation,Research,43,10,1,2022
+2022-06-29,13,Annual review,Research,43,10,1,2022
+2022-06-29,161,Word segmentation,Research,43,10,1,2022
+2022-06-29,75,Word segmentation,Research,43,10,1,2022
+2022-06-29,216,Word segmentation,Research,43,10,1,2022
+2022-06-30,35,Word segmentation,Research,43,10,1,2022
+2022-07-01,90,Reading groups,Community,43,11,1,2022
+2022-07-01,26,Reading,Research,43,11,1,2022
+2022-07-01,140,Reading,Research,43,11,1,2022
+2022-07-01,22,Reading,Research,43,11,1,2022
+2022-07-04,165,Reading,Research,44,11,1,2022
+2022-07-04,17,Reading,Research,44,11,1,2022
+2022-07-04,32,PhD admin,Admin,44,11,1,2022
+2022-07-04,114,Word segmentation,Research,44,11,1,2022
+2022-07-04,79,Supervision,Research,44,11,1,2022
+2022-07-04,17,Supervision,Research,44,11,1,2022
+2022-07-05,114,Annual review,Research,44,11,1,2022
+2022-07-05,171,Reading,Research,44,11,1,2022
+2022-07-05,70,Reading,Research,44,11,1,2022
+2022-07-06,106,Word segmentation,Research,44,11,1,2022
+2022-07-06,95,Word segmentation,Research,44,11,1,2022
+2022-07-06,60,Word segmentation,Research,44,11,1,2022
+2022-07-06,15,Word segmentation,Research,44,11,1,2022
+2022-07-07,144,Annual review,Research,44,11,1,2022
+2022-07-07,17,Organising talks/conferences,Community,44,11,1,2022
+2022-07-07,74,Reading,Research,44,11,1,2022
+2022-07-07,60,Reading,Research,44,11,1,2022
+2022-07-07,19,Reading,Research,44,11,1,2022
+2022-07-07,125,Reading,Research,44,11,1,2022
+2022-07-07,39,Word segmentation,Research,44,11,1,2022
+2022-07-08,105,Reading groups,Community,44,11,1,2022
+2022-07-08,98,Reading,Research,44,11,1,2022
+2022-07-08,237,Reading,Research,44,11,1,2022
+2022-07-09,96,Reading,Research,44,11,1,2022
+2022-07-09,61,Word segmentation,Research,44,11,1,2022
+2022-07-09,105,Word segmentation,Research,44,11,1,2022
+2022-07-11,214,Annual review,Research,45,11,1,2022
+2022-07-11,202,Annual review,Research,45,11,1,2022
+2022-07-11,15,CLE admin,Admin,45,11,1,2022
+2022-07-11,37,CLE admin,Admin,45,11,1,2022
+2022-07-11,9,CLE admin,Admin,45,11,1,2022
+2022-07-11,7,Word segmentation,Research,45,11,1,2022
+2022-07-11,65,Supervision,Research,45,11,1,2022
+2022-07-12,193,Annual review,Research,45,11,1,2022
+2022-07-12,30,Annual review,Research,45,11,1,2022
+2022-07-12,22,Reading,Research,45,11,1,2022
+2022-07-12,119,Reading,Research,45,11,1,2022
+2022-07-12,188,Reading,Research,45,11,1,2022
+2022-07-13,58,Annual review,Research,45,11,1,2022
+2022-07-13,143,Annual review,Research,45,11,1,2022
+2022-07-13,66,Organising talks/conferences,Community,45,11,1,2022
+2022-07-13,83,Reading,Research,45,11,1,2022
+2022-07-13,16,Word segmentation,Research,45,11,1,2022
+2022-07-13,34,Word segmentation,Research,45,11,1,2022
+2022-07-13,15,Word segmentation,Research,45,11,1,2022
+2022-07-15,50,Rule learning,Research,45,11,1,2022
+2022-07-15,9,Word segmentation,Research,45,11,1,2022
+2022-08-03,55,Annual review,Research,48,12,1,2022
+2022-08-03,34,Annual review,Research,48,12,1,2022
+2022-08-03,36,Word segmentation,Research,48,12,1,2022
+2022-08-04,115,Annual review,Research,48,12,1,2022
+2022-08-04,25,Annual review,Research,48,12,1,2022
+2022-08-04,250,Annual review,Research,48,12,1,2022
+2022-08-05,200,Annual review,Research,48,12,1,2022
+2022-08-05,38,Organising talks/conferences,Community,48,12,1,2022
+2022-08-08,222,Annual review,Research,49,12,1,2022
+2022-08-08,62,Annual review,Research,49,12,1,2022
+2022-08-08,23,Organising talks/conferences,Community,49,12,1,2022
+2022-08-08,90,Supervision,Research,49,12,1,2022
+2022-08-08,15,Tutoring + related duties,Teaching,49,12,1,2022
+2022-08-09,57,Annual review,Research,49,12,1,2022
+2022-08-09,139,Annual review,Research,49,12,1,2022
+2022-08-09,50,PhD admin,Admin,49,12,1,2022
+2022-08-10,95,Annual review,Research,49,12,1,2022
+2022-08-10,227,Annual review,Research,49,12,1,2022
+2022-08-10,22,Organising talks/conferences,Community,49,12,1,2022
+2022-08-11,222,Annual review,Research,49,12,1,2022
+2022-08-11,92,Annual review,Research,49,12,1,2022
+2022-08-15,76,Annual review,Research,50,12,1,2022
+2022-08-15,13,Organising talks/conferences,Community,50,12,1,2022
+2022-08-15,195,Word segmentation,Research,50,12,1,2022
+2022-08-15,45,Supervision,Research,50,12,1,2022
+2022-08-16,72,Annual review,Research,50,12,1,2022
+2022-08-16,104,Word segmentation,Research,50,12,1,2022
+2022-08-16,99,Word segmentation,Research,50,12,1,2022
+2022-08-17,50,Annual review,Research,50,12,1,2022
+2022-08-17,2,Organising talks/conferences,Community,50,12,1,2022
+2022-08-17,6,Organising talks/conferences,Community,50,12,1,2022
+2022-08-17,137,Word segmentation,Research,50,12,1,2022
+2022-08-18,206,Annual review,Research,50,12,1,2022
+2022-08-18,32,Annual review,Research,50,12,1,2022
+2022-08-19,151,Annual review,Research,50,12,1,2022
+2022-08-22,125,Annual review,Research,51,12,1,2022
+2022-08-22,151,Annual review,Research,51,12,1,2022
+2022-08-22,90,Supervision,Research,51,12,1,2022
+2022-08-23,42,Annual review,Research,51,12,1,2022
+2022-08-23,142,Annual review,Research,51,12,1,2022
+2022-08-23,52,Annual review,Research,51,12,1,2022
+2022-08-24,33,PhD admin,Admin,51,12,1,2022
+2022-08-24,64,Tutoring + related duties,Teaching,51,12,1,2022
+2022-08-26,163,Annual review,Research,51,12,1,2022
+2022-08-26,171,Annual review,Research,51,12,1,2022
+2022-08-29,140,Annual review,Research,52,12,1,2022
+2022-08-29,60,Annual review,Research,52,12,1,2022
+2022-08-29,29,Supervision,Research,52,12,1,2022
+2022-08-31,15,Organising talks/conferences,Community,52,12,1,2022
+2022-09-01,13,Organising talks/conferences,Community,52,13,1,2022
+2022-09-05,180,Talks/conferences,Community,53,13,2,2022
+2022-09-06,102,CLE admin,Admin,53,13,2,2022
+2022-09-06,78,CLE admin,Admin,53,13,2,2022
+2022-09-06,35,Talks/conferences,Community,53,13,2,2022
+2022-09-06,35,Talks/conferences,Community,53,13,2,2022
+2022-09-06,19,Organising talks/conferences,Community,53,13,2,2022
+2022-09-07,230,Talks/conferences,Community,53,13,2,2022
+2022-09-12,57,Rule learning,Research,54,13,2,2022
+2022-09-12,12,CLE admin,Admin,54,13,2,2022
+2022-09-12,27,CLE admin,Admin,54,13,2,2022
+2022-09-12,58,Organising talks/conferences,Community,54,13,2,2022
+2022-09-12,130,Organising talks/conferences,Community,54,13,2,2022
+2022-09-12,90,Non-thesis project,Research,54,13,2,2022
+2022-09-12,59,Tutoring + related duties,Teaching,54,13,2,2022
+2022-09-13,132,Rule learning,Research,54,13,2,2022
+2022-09-13,18,Rule learning,Research,54,13,2,2022
+2022-09-13,50,Reading groups,Community,54,13,2,2022
+2022-09-13,60,Reading groups,Community,54,13,2,2022
+2022-09-13,50,Organising talks/conferences,Community,54,13,2,2022
+2022-09-13,12,Organising talks/conferences,Community,54,13,2,2022
+2022-09-13,38,Reading,Research,54,13,2,2022
+2022-09-13,25,Word segmentation,Research,54,13,2,2022
+2022-09-13,53,Word segmentation,Research,54,13,2,2022
+2022-09-13,25,Tutoring + related duties,Teaching,54,13,2,2022
+2022-09-14,135,Word segmentation,Research,54,13,2,2022
+2022-09-14,192,Word segmentation,Research,54,13,2,2022
+2022-09-14,133,Tutoring + related duties,Teaching,54,13,2,2022
+2022-09-15,11,CLE admin,Admin,54,13,2,2022
+2022-09-15,180,Tutoring + related duties,Teaching,54,13,2,2022
+2022-09-15,90,Tutoring + related duties,Teaching,54,13,2,2022
+2022-09-16,70,Organising talks/conferences,Community,54,13,2,2022
+2022-09-16,38,Talks/conferences,Community,54,13,2,2022
+2022-09-16,30,Tutoring + related duties,Teaching,54,13,2,2022
+2022-09-16,95,Tutoring + related duties,Teaching,54,13,2,2022
+2022-09-16,40,Tutoring + related duties,Teaching,54,13,2,2022
+2022-09-19,9,CLE admin,Admin,55,13,2,2022
+2022-09-19,135,Reading,Research,55,13,2,2022
+2022-09-19,57,Non-thesis project,Research,55,13,2,2022
+2022-09-20,90,CLE talks,Community,55,13,2,2022
+2022-09-20,119,Word segmentation,Research,55,13,2,2022
+2022-09-20,54,Word segmentation,Research,55,13,2,2022
+2022-09-20,20,Word segmentation,Research,55,13,2,2022
+2022-09-21,24,Reading groups,Community,55,13,2,2022
+2022-09-21,25,PhD admin,Admin,55,13,2,2022
+2022-09-21,10,Non-thesis project,Research,55,13,2,2022
+2022-09-21,23,Non-thesis project,Research,55,13,2,2022
+2022-09-21,148,Non-thesis project,Research,55,13,2,2022
+2022-09-21,60,Tutoring + related duties,Teaching,55,13,2,2022
+2022-09-22,76,Non-thesis project,Research,55,13,2,2022
+2022-09-22,73,Non-thesis project,Research,55,13,2,2022
+2022-09-23,21,Rule learning,Research,55,13,2,2022
+2022-09-23,105,Stimuli commissions,Community,55,13,2,2022
+2022-09-23,73,Tutoring + related duties,Teaching,55,13,2,2022
+2022-09-23,70,Tutoring + related duties,Teaching,55,13,2,2022
+2022-09-26,13,CLE admin,Admin,56,13,2,2022
+2022-09-26,25,Reading groups,Community,56,13,2,2022
+2022-09-26,9,Organising talks/conferences,Community,56,13,2,2022
+2022-09-26,26,Organising talks/conferences,Community,56,13,2,2022
+2022-09-26,46,Reading,Research,56,13,2,2022
+2022-09-26,56,Reading,Research,56,13,2,2022
+2022-09-26,31,Reviewing,Community,56,13,2,2022
+2022-09-26,53,Non-thesis project,Research,56,13,2,2022
+2022-09-26,28,Non-thesis project,Research,56,13,2,2022
+2022-09-26,26,Non-thesis project,Research,56,13,2,2022
+2022-09-27,90,CLE talks,Community,56,13,2,2022
+2022-09-27,60,Reading groups,Community,56,13,2,2022
+2022-09-27,19,Non-thesis project,Research,56,13,2,2022
+2022-09-27,50,Tutoring + related duties,Teaching,56,13,2,2022
+2022-09-27,45,Tutoring + related duties,Teaching,56,13,2,2022
+2022-09-28,95,Rule learning,Research,56,13,2,2022
+2022-09-28,192,Word segmentation,Research,56,13,2,2022
+2022-09-28,27,Word segmentation,Research,56,13,2,2022
+2022-09-28,170,Word segmentation,Research,56,13,2,2022
+2022-09-28,11,Tutoring + related duties,Teaching,56,13,2,2022
+2022-09-29,70,Reading groups,Community,56,13,2,2022
+2022-09-29,155,Organising talks/conferences,Community,56,13,2,2022
+2022-09-29,8,Organising talks/conferences,Community,56,13,2,2022
+2022-09-29,35,Word segmentation,Research,56,13,2,2022
+2022-09-29,6,Word segmentation,Research,56,13,2,2022
+2022-09-29,110,Tutoring + related duties,Teaching,56,13,2,2022
+2022-09-29,12,Tutoring + related duties,Teaching,56,13,2,2022
+2022-09-30,16,Rule learning,Research,56,13,2,2022
+2022-09-30,4,Organising talks/conferences,Community,56,13,2,2022
+2022-09-30,13,Organising talks/conferences,Community,56,13,2,2022
+2022-09-30,35,Reviewing,Community,56,13,2,2022
+2022-09-30,87,Reviewing,Community,56,13,2,2022
+2022-09-30,115,Stimuli commissions,Community,56,13,2,2022
+2022-09-30,64,Stimuli commissions,Community,56,13,2,2022
+2022-09-30,21,Tutoring + related duties,Teaching,56,13,2,2022
+2022-10-03,75,Rule learning,Research,57,14,2,2022
+2022-10-03,212,Rule learning,Research,57,14,2,2022
+2022-10-03,4,CLE admin,Admin,57,14,2,2022
+2022-10-03,15,CLE admin,Admin,57,14,2,2022
+2022-10-03,17,Organising talks/conferences,Community,57,14,2,2022
+2022-10-03,32,Word segmentation,Research,57,14,2,2022
+2022-10-03,119,Word segmentation,Research,57,14,2,2022
+2022-10-04,75,CLE talks,Community,57,14,2,2022
+2022-10-04,20,Reading groups,Community,57,14,2,2022
+2022-10-04,14,Reading groups,Community,57,14,2,2022
+2022-10-04,6,Word segmentation,Research,57,14,2,2022
+2022-10-04,72,Word segmentation,Research,57,14,2,2022
+2022-10-04,95,Word segmentation,Research,57,14,2,2022
+2022-10-04,76,Tutoring + related duties,Teaching,57,14,2,2022
+2022-10-04,28,Tutoring + related duties,Teaching,57,14,2,2022
+2022-10-05,105,Reading groups,Community,57,14,2,2022
+2022-10-05,47,Reviewing,Community,57,14,2,2022
+2022-10-05,200,Reviewing,Community,57,14,2,2022
+2022-10-05,56,Word segmentation,Research,57,14,2,2022
+2022-10-05,24,Word segmentation,Research,57,14,2,2022
+2022-10-06,20,Rule learning,Research,57,14,2,2022
+2022-10-06,53,Reviewing,Community,57,14,2,2022
+2022-10-06,8,Reviewing,Community,57,14,2,2022
+2022-10-06,42,Word segmentation,Research,57,14,2,2022
+2022-10-06,54,Word segmentation,Research,57,14,2,2022
+2022-10-06,13,Word segmentation,Research,57,14,2,2022
+2022-10-06,48,Supervision,Research,57,14,2,2022
+2022-10-06,110,Tutoring + related duties,Teaching,57,14,2,2022
+2022-10-07,259,Word segmentation,Research,57,14,2,2022
+2022-10-10,55,Rule learning,Research,58,14,2,2022
+2022-10-10,77,Rule learning,Research,58,14,2,2022
+2022-10-10,8,CLE admin,Admin,58,14,2,2022
+2022-10-10,9,Organising talks/conferences,Community,58,14,2,2022
+2022-10-10,174,Word segmentation,Research,58,14,2,2022
+2022-10-11,60,Rule learning,Research,58,14,2,2022
+2022-10-11,130,Rule learning,Research,58,14,2,2022
+2022-10-11,24,Rule learning,Research,58,14,2,2022
+2022-10-11,41,Rule learning,Research,58,14,2,2022
+2022-10-11,75,CLE talks,Community,58,14,2,2022
+2022-10-11,60,Reading groups,Community,58,14,2,2022
+2022-10-11,77,Reading groups,Community,58,14,2,2022
+2022-10-11,30,Tutoring + related duties,Teaching,58,14,2,2022
+2022-10-12,235,Rule learning,Research,58,14,2,2022
+2022-10-12,106,Rule learning,Research,58,14,2,2022
+2022-10-12,226,Word segmentation,Research,58,14,2,2022
+2022-10-13,20,Rule learning,Research,58,14,2,2022
+2022-10-13,63,Rule learning,Research,58,14,2,2022
+2022-10-13,53,Rule learning,Research,58,14,2,2022
+2022-10-13,8,Organising talks/conferences,Community,58,14,2,2022
+2022-10-13,100,Organising talks/conferences,Community,58,14,2,2022
+2022-10-13,110,Tutoring + related duties,Teaching,58,14,2,2022
+2022-10-13,129,Tutoring + related duties,Teaching,58,14,2,2022
+2022-10-14,164,Rule learning,Research,58,14,2,2022
+2022-10-14,282,Rule learning,Research,58,14,2,2022
+2022-10-15,138,Tutoring + related duties,Teaching,58,14,2,2022
+2022-10-17,5,CLE admin,Admin,59,14,2,2022
+2022-10-17,14,Organising talks/conferences,Community,59,14,2,2022
+2022-10-17,130,Word segmentation,Research,59,14,2,2022
+2022-10-17,63,Word segmentation,Research,59,14,2,2022
+2022-10-18,96,Rule learning,Research,59,14,2,2022
+2022-10-18,52,Rule learning,Research,59,14,2,2022
+2022-10-18,123,Rule learning,Research,59,14,2,2022
+2022-10-18,185,Rule learning,Research,59,14,2,2022
+2022-10-18,43,Tutoring + related duties,Teaching,59,14,2,2022
+2022-10-19,128,Rule learning,Research,59,14,2,2022
+2022-10-19,67,Tutoring + related duties,Teaching,59,14,2,2022
+2022-10-19,76,Tutoring + related duties,Teaching,59,14,2,2022
+2022-10-19,189,Rule generalisation,Research,59,14,2,2022
+2022-10-19,59,Rule generalisation,Research,59,14,2,2022
+2022-10-20,33,Non-thesis project,Research,59,14,2,2022
+2022-10-20,63,Supervision,Research,59,14,2,2022
+2022-10-20,110,Tutoring + related duties,Teaching,59,14,2,2022
+2022-10-20,85,Rule generalisation,Research,59,14,2,2022
+2022-10-20,23,Rule generalisation,Research,59,14,2,2022
+2022-10-20,36,Rule generalisation,Research,59,14,2,2022
+2022-10-21,8,Tutoring + related duties,Teaching,59,14,2,2022
+2022-10-21,21,Tutoring + related duties,Teaching,59,14,2,2022
+2022-10-21,190,Rule generalisation,Research,59,14,2,2022
+2022-10-21,276,Rule generalisation,Research,59,14,2,2022
+2022-10-22,77,Tutoring + related duties,Teaching,59,14,2,2022
+2022-10-22,45,Tutoring + related duties,Teaching,59,14,2,2022
+2022-10-24,62,Rule learning,Research,60,14,2,2022
+2022-10-24,9,CLE admin,Admin,60,14,2,2022
+2022-10-24,5,Organising talks/conferences,Community,60,14,2,2022
+2022-10-24,212,Rule generalisation,Research,60,14,2,2022
+2022-10-25,105,Rule learning,Research,60,14,2,2022
+2022-10-25,3,CLE admin,Admin,60,14,2,2022
+2022-10-25,75,CLE talks,Community,60,14,2,2022
+2022-10-25,55,Reading groups,Community,60,14,2,2022
+2022-10-25,60,Rule generalisation,Research,60,14,2,2022
+2022-10-25,17,Rule generalisation,Research,60,14,2,2022
+2022-10-25,119,Rule generalisation,Research,60,14,2,2022
+2022-10-26,8,Rule learning,Research,60,14,2,2022
+2022-10-26,120,Rule learning,Research,60,14,2,2022
+2022-10-26,82,Tutoring + related duties,Teaching,60,14,2,2022
+2022-10-26,101,Rule generalisation,Research,60,14,2,2022
+2022-10-26,197,Rule generalisation,Research,60,14,2,2022
+2022-10-27,115,Tutoring + related duties,Teaching,60,14,2,2022
+2022-10-27,21,Tutoring + related duties,Teaching,60,14,2,2022
+2022-10-27,22,Tutoring + related duties,Teaching,60,14,2,2022
+2022-10-27,24,Rule generalisation,Research,60,14,2,2022
+2022-10-27,267,Rule generalisation,Research,60,14,2,2022
+2022-10-27,16,Rule generalisation,Research,60,14,2,2022
+2022-10-28,7,Tutoring + related duties,Teaching,60,14,2,2022
+2022-10-28,46,Rule generalisation,Research,60,14,2,2022
+2022-10-28,45,Rule generalisation,Research,60,14,2,2022
+2022-10-28,123,Rule generalisation,Research,60,14,2,2022
+2022-10-28,36,Rule generalisation,Research,60,14,2,2022
+2022-10-31,6,Rule learning,Research,61,14,2,2022
+2022-10-31,15,CLE admin,Admin,61,14,2,2022
+2022-10-31,20,Reading,Research,61,14,2,2022
+2022-10-31,43,Reading,Research,61,14,2,2022
+2022-10-31,79,Rule generalisation,Research,61,14,2,2022
+2022-10-31,17,Rule generalisation,Research,61,14,2,2022
+2022-11-01,60,CLE talks,Community,61,15,2,2022
+2022-11-01,95,Supervision,Research,61,15,2,2022
+2022-11-01,45,Tutoring + related duties,Teaching,61,15,2,2022
+2022-11-01,64,Rule generalisation,Research,61,15,2,2022
+2022-11-01,78,Rule generalisation,Research,61,15,2,2022
+2022-11-02,229,Rule learning,Research,61,15,2,2022
+2022-11-02,10,CLE admin,Admin,61,15,2,2022
+2022-11-02,80,Talks/conferences,Community,61,15,2,2022
+2022-11-02,102,Tutoring + related duties,Teaching,61,15,2,2022
+2022-11-03,46,Reading,Research,61,15,2,2022
+2022-11-03,90,Supervision,Research,61,15,2,2022
+2022-11-03,115,Tutoring + related duties,Teaching,61,15,2,2022
+2022-11-03,80,Rule generalisation,Research,61,15,2,2022
+2022-11-03,10,Rule generalisation,Research,61,15,2,2022
+2022-11-07,15,Rule learning,Research,62,15,2,2022
+2022-11-07,10,CLE admin,Admin,62,15,2,2022
+2022-11-07,48,Non-thesis project,Research,62,15,2,2022
+2022-11-07,167,Rule generalisation,Research,62,15,2,2022
+2022-11-08,90,CLE talks,Community,62,15,2,2022
+2022-11-08,243,Tutoring + related duties,Teaching,62,15,2,2022
+2022-11-08,22,Tutoring + related duties,Teaching,62,15,2,2022
+2022-11-08,92,Rule generalisation,Research,62,15,2,2022
+2022-11-09,55,Tutoring + related duties,Teaching,62,15,2,2022
+2022-11-09,136,Tutoring + related duties,Teaching,62,15,2,2022
+2022-11-09,100,Rule generalisation,Research,62,15,2,2022
+2022-11-09,85,Rule generalisation,Research,62,15,2,2022
+2022-11-09,24,Rule generalisation,Research,62,15,2,2022
+2022-11-09,7,Rule generalisation,Research,62,15,2,2022
+2022-11-10,120,Tutoring + related duties,Teaching,62,15,2,2022
+2022-11-10,30,Tutoring + related duties,Teaching,62,15,2,2022
+2022-11-10,42,Rule generalisation,Research,62,15,2,2022
+2022-11-10,195,Rule generalisation,Research,62,15,2,2022
+2022-11-11,72,Tutoring + related duties,Teaching,62,15,2,2022
+2022-11-11,201,Rule generalisation,Research,62,15,2,2022
+2022-11-11,13,Rule generalisation,Research,62,15,2,2022
+2022-11-14,9,CLE admin,Admin,63,15,2,2022
+2022-11-14,161,Rule generalisation,Research,63,15,2,2022
+2022-11-14,128,Rule generalisation,Research,63,15,2,2022
+2022-11-14,34,Rule generalisation,Research,63,15,2,2022
+2022-11-15,90,CLE talks,Community,63,15,2,2022
+2022-11-15,30,Tutoring + related duties,Teaching,63,15,2,2022
+2022-11-15,30,Rule generalisation,Research,63,15,2,2022
+2022-11-15,25,Rule generalisation,Research,63,15,2,2022
+2022-11-15,6,Rule generalisation,Research,63,15,2,2022
+2022-11-15,138,Rule generalisation,Research,63,15,2,2022
+2022-11-15,34,Rule generalisation,Research,63,15,2,2022
+2022-11-16,107,Tutoring + related duties,Teaching,63,15,2,2022
+2022-11-16,237,Rule generalisation,Research,63,15,2,2022
+2022-11-16,70,Rule generalisation,Research,63,15,2,2022
+2022-11-17,60,Supervision,Research,63,15,2,2022
+2022-11-17,110,Tutoring + related duties,Teaching,63,15,2,2022
+2022-11-17,51,Rule generalisation,Research,63,15,2,2022
+2022-11-17,30,Rule generalisation,Research,63,15,2,2022
+2022-11-17,83,Rule generalisation,Research,63,15,2,2022
+2022-11-17,75,Rule generalisation,Research,63,15,2,2022
+2022-11-18,186,Rule generalisation,Research,63,15,2,2022
+2022-11-18,5,Rule generalisation,Research,63,15,2,2022
+2022-11-18,44,Rule generalisation,Research,63,15,2,2022
+2022-11-18,269,Rule generalisation,Research,63,15,2,2022
+2022-11-19,245,Rule generalisation,Research,63,15,2,2022
+2022-11-19,370,Rule generalisation,Research,63,15,2,2022
+2022-11-20,200,Rule generalisation,Research,63,15,2,2022
+2022-11-20,105,Rule generalisation,Research,63,15,2,2022
+2022-11-21,25,Reading groups,Community,64,15,2,2022
+2022-11-21,183,Rule generalisation,Research,64,15,2,2022
+2022-11-22,60,CLE talks,Community,64,15,2,2022
+2022-11-22,60,Reading groups,Community,64,15,2,2022
+2022-11-22,75,Rule generalisation,Research,64,15,2,2022
+2022-11-22,43,Rule generalisation,Research,64,15,2,2022
+2022-11-28,81,Tutoring + related duties,Teaching,65,15,2,2022
+2022-11-28,184,Rule generalisation,Research,65,15,2,2022
+2022-11-28,69,Rule generalisation,Research,65,15,2,2022
+2022-11-29,14,Tutoring + related duties,Teaching,65,15,2,2022
+2022-11-29,10,Tutoring + related duties,Teaching,65,15,2,2022
+2022-11-29,80,Tutoring + related duties,Teaching,65,15,2,2022
+2022-11-29,15,Tutoring + related duties,Teaching,65,15,2,2022
+2022-11-29,33,Rule generalisation,Research,65,15,2,2022
+2022-12-01,60,Supervision,Research,65,16,2,2022
+2022-12-01,16,Tutoring + related duties,Teaching,65,16,2,2022
+2022-12-01,120,Tutoring + related duties,Teaching,65,16,2,2022
+2022-12-01,27,Tutoring + related duties,Teaching,65,16,2,2022
+2022-12-01,18,Rule generalisation,Research,65,16,2,2022
+2022-12-02,168,Rule learning,Research,65,16,2,2022
+2022-12-02,20,Tutoring + related duties,Teaching,65,16,2,2022
+2022-12-02,53,Tutoring + related duties,Teaching,65,16,2,2022
+2022-12-02,95,Tutoring + related duties,Teaching,65,16,2,2022
+2022-12-02,65,Rule generalisation,Research,65,16,2,2022
+2022-12-02,35,Rule generalisation,Research,65,16,2,2022
+2022-12-02,15,Rule generalisation,Research,65,16,2,2022
+2022-12-05,13,CLE admin,Admin,66,16,2,2022
+2022-12-05,11,Tutoring + related duties,Teaching,66,16,2,2022
+2022-12-05,21,Tutoring + related duties,Teaching,66,16,2,2022
+2022-12-05,30,Tutoring + related duties,Teaching,66,16,2,2022
+2022-12-05,60,Tutoring + related duties,Teaching,66,16,2,2022
+2022-12-06,14,Tutoring + related duties,Teaching,66,16,2,2022
+2022-12-07,20,Tutoring + related duties,Teaching,66,16,2,2022
+2022-12-07,110,Tutoring + related duties,Teaching,66,16,2,2022
+2022-12-08,28,Tutoring + related duties,Teaching,66,16,2,2022
+2022-12-08,53,Tutoring + related duties,Teaching,66,16,2,2022
+2022-12-09,200,Tutoring + related duties,Teaching,66,16,2,2022
+2022-12-14,122,Tutoring + related duties,Teaching,67,16,2,2022
+2023-01-05,9,Tutoring + related duties,Teaching,70,17,2,2023
+2023-01-05,55,Tutoring + related duties,Teaching,70,17,2,2023
+2023-01-06,34,Tutoring + related duties,Teaching,70,17,2,2023
+2023-01-07,120,Tutoring + related duties,Teaching,70,17,2,2023
+2023-01-07,153,Tutoring + related duties,Teaching,70,17,2,2023
+2023-01-09,3,CLE admin,Admin,71,17,2,2023
+2023-01-09,6,Tutoring + related duties,Teaching,71,17,2,2023
+2023-01-09,178,Tutoring + related duties,Teaching,71,17,2,2023
+2023-01-09,89,Tutoring + related duties,Teaching,71,17,2,2023
+2023-01-11,7,Tutoring + related duties,Teaching,71,17,2,2023
+2023-01-16,29,CLE admin,Admin,72,17,2,2023
+2023-01-16,15,CLE admin,Admin,72,17,2,2023
+2023-01-16,18,CLE admin,Admin,72,17,2,2023
+2023-01-16,15,Tutoring + related duties,Teaching,72,17,2,2023
+2023-01-16,53,Tutoring + related duties,Teaching,72,17,2,2023
+2023-01-16,22,Tutoring + related duties,Teaching,72,17,2,2023
+2023-01-16,94,Tutoring + related duties,Teaching,72,17,2,2023
+2023-01-16,31,Tutoring + related duties,Teaching,72,17,2,2023
+2023-01-17,90,CLE talks,Community,72,17,2,2023
+2023-01-17,60,Reading groups,Community,72,17,2,2023
+2023-01-17,60,Tutoring + related duties,Teaching,72,17,2,2023
+2023-01-17,69,Tutoring + related duties,Teaching,72,17,2,2023
+2023-01-17,10,Tutoring + related duties,Teaching,72,17,2,2023
+2023-01-17,39,Tutoring + related duties,Teaching,72,17,2,2023
+2023-01-18,91,Talks/conferences,Community,72,17,2,2023
+2023-01-18,50,Tutoring + related duties,Teaching,72,17,2,2023
+2023-01-18,70,Tutoring + related duties,Teaching,72,17,2,2023
+2023-01-18,50,Tutoring + related duties,Teaching,72,17,2,2023
+2023-01-19,211,Rule learning,Research,72,17,2,2023
+2023-01-20,38,Rule learning,Research,72,17,2,2023
+2023-01-20,71,Rule learning,Research,72,17,2,2023
+2023-01-20,149,Rule learning,Research,72,17,2,2023
+2023-01-20,45,Tutoring + related duties,Teaching,72,17,2,2023
+2023-01-23,100,Rule learning,Research,73,17,2,2023
+2023-01-23,9,CLE admin,Admin,73,17,2,2023
+2023-01-23,92,Tutoring + related duties,Teaching,73,17,2,2023
+2023-01-23,76,Tutoring + related duties,Teaching,73,17,2,2023
+2023-01-23,82,Tutoring + related duties,Teaching,73,17,2,2023
+2023-01-24,50,CLE talks,Community,73,17,2,2023
+2023-01-24,50,Tutoring + related duties,Teaching,73,17,2,2023
+2023-01-24,20,Tutoring + related duties,Teaching,73,17,2,2023
+2023-01-24,95,Tutoring + related duties,Teaching,73,17,2,2023
+2023-01-24,30,Tutoring + related duties,Teaching,73,17,2,2023
+2023-01-24,50,Tutoring + related duties,Teaching,73,17,2,2023
+2023-01-24,50,Tutoring + related duties,Teaching,73,17,2,2023
+2023-01-25,28,Rule learning,Research,73,17,2,2023
+2023-01-25,56,Rule learning,Research,73,17,2,2023
+2023-01-25,50,Tutoring + related duties,Teaching,73,17,2,2023
+2023-01-25,32,Tutoring + related duties,Teaching,73,17,2,2023
+2023-01-25,50,Tutoring + related duties,Teaching,73,17,2,2023
+2023-01-25,10,Tutoring + related duties,Teaching,73,17,2,2023
+2023-01-26,24,Rule learning,Research,73,17,2,2023
+2023-01-26,50,Supervision,Research,73,17,2,2023
+2023-01-26,53,Tutoring + related duties,Teaching,73,17,2,2023
+2023-01-26,75,Rule generalisation,Research,73,17,2,2023
+2023-01-26,160,Rule generalisation,Research,73,17,2,2023
+2023-01-27,29,Rule learning,Research,73,17,2,2023
+2023-01-27,1,CLE admin,Admin,73,17,2,2023
+2023-01-27,22,Rule generalisation,Research,73,17,2,2023
+2023-01-27,63,Rule generalisation,Research,73,17,2,2023
+2023-01-27,107,Rule generalisation,Research,73,17,2,2023
+2023-01-27,27,Rule generalisation,Research,73,17,2,2023
+2023-01-27,8,Rule generalisation,Research,73,17,2,2023
+2023-01-30,3,CLE admin,Admin,74,17,2,2023
+2023-01-30,115,Tutoring + related duties,Teaching,74,17,2,2023
+2023-01-30,92,Tutoring + related duties,Teaching,74,17,2,2023
+2023-01-30,212,Rule generalisation,Research,74,17,2,2023
+2023-01-30,7,Rule generalisation,Research,74,17,2,2023
+2023-01-31,45,Rule learning,Research,74,17,2,2023
+2023-01-31,50,CLE talks,Community,74,17,2,2023
+2023-01-31,12,Tutoring + related duties,Teaching,74,17,2,2023
+2023-01-31,50,Tutoring + related duties,Teaching,74,17,2,2023
+2023-01-31,125,Tutoring + related duties,Teaching,74,17,2,2023
+2023-01-31,50,Tutoring + related duties,Teaching,74,17,2,2023
+2023-01-31,50,Tutoring + related duties,Teaching,74,17,2,2023
+2023-02-01,9,Tutoring + related duties,Teaching,74,18,2,2023
+2023-02-01,50,Tutoring + related duties,Teaching,74,18,2,2023
+2023-02-01,197,Rule generalisation,Research,74,18,2,2023
+2023-02-01,24,Rule generalisation,Research,74,18,2,2023
+2023-02-01,22,Rule generalisation,Research,74,18,2,2023
+2023-02-02,71,Rule learning,Research,74,18,2,2023
+2023-02-02,15,Rule learning,Research,74,18,2,2023
+2023-02-02,83,Rule learning,Research,74,18,2,2023
+2023-02-02,8,Tutoring + related duties,Teaching,74,18,2,2023
+2023-02-02,95,Tutoring + related duties,Teaching,74,18,2,2023
+2023-02-02,76,Rule generalisation,Research,74,18,2,2023
+2023-02-02,76,Rule generalisation,Research,74,18,2,2023
+2023-02-03,125,Reading,Research,74,18,2,2023
+2023-02-03,24,Reading,Research,74,18,2,2023
+2023-02-03,30,Tutoring + related duties,Teaching,74,18,2,2023
+2023-02-06,27,Rule learning,Research,75,18,2,2023
+2023-02-06,3,CLE admin,Admin,75,18,2,2023
+2023-02-06,22,Reading,Research,75,18,2,2023
+2023-02-06,70,Reading,Research,75,18,2,2023
+2023-02-06,120,Reading,Research,75,18,2,2023
+2023-02-06,78,Tutoring + related duties,Teaching,75,18,2,2023
+2023-02-06,11,Tutoring + related duties,Teaching,75,18,2,2023
+2023-02-06,77,Tutoring + related duties,Teaching,75,18,2,2023
+2023-02-07,16,Rule learning,Research,75,18,2,2023
+2023-02-07,50,CLE talks,Community,75,18,2,2023
+2023-02-07,50,Tutoring + related duties,Teaching,75,18,2,2023
+2023-02-07,35,Tutoring + related duties,Teaching,75,18,2,2023
+2023-02-07,85,Tutoring + related duties,Teaching,75,18,2,2023
+2023-02-07,50,Tutoring + related duties,Teaching,75,18,2,2023
+2023-02-07,50,Tutoring + related duties,Teaching,75,18,2,2023
+2023-02-08,87,Reading,Research,75,18,2,2023
+2023-02-08,5,PhD admin,Admin,75,18,2,2023
+2023-02-08,50,Tutoring + related duties,Teaching,75,18,2,2023
+2023-02-08,19,Tutoring + related duties,Teaching,75,18,2,2023
+2023-02-08,50,Tutoring + related duties,Teaching,75,18,2,2023
+2023-02-08,99,Rule generalisation,Research,75,18,2,2023
+2023-02-09,41,Rule learning,Research,75,18,2,2023
+2023-02-09,45,Supervision,Research,75,18,2,2023
+2023-02-09,7,Rule generalisation,Research,75,18,2,2023
+2023-02-09,20,Rule generalisation,Research,75,18,2,2023
+2023-02-10,76,Reading,Research,75,18,2,2023
+2023-02-10,6,PhD admin,Admin,75,18,2,2023
+2023-02-10,194,Rule generalisation,Research,75,18,2,2023
+2023-02-10,58,Rule generalisation,Research,75,18,2,2023
+2023-02-13,3,Tutoring + related duties,Teaching,76,18,2,2023
+2023-02-13,112,Rule generalisation,Research,76,18,2,2023
+2023-02-13,152,Rule generalisation,Research,76,18,2,2023
+2023-02-13,11,Rule generalisation,Research,76,18,2,2023
+2023-02-13,82,Rule generalisation,Research,76,18,2,2023
+2023-02-14,66,Tutoring + related duties,Teaching,76,18,2,2023
+2023-02-14,138,Tutoring + related duties,Teaching,76,18,2,2023
+2023-02-14,99,Rule generalisation,Research,76,18,2,2023
+2023-02-15,168,Reviewing,Community,76,18,2,2023
+2023-02-15,41,Reviewing,Community,76,18,2,2023
+2023-02-15,27,Reviewing,Community,76,18,2,2023
+2023-02-15,50,Tutoring + related duties,Teaching,76,18,2,2023
+2023-02-15,12,Tutoring + related duties,Teaching,76,18,2,2023
+2023-02-16,13,Rule learning,Research,76,18,2,2023
+2023-02-16,45,Rule learning,Research,76,18,2,2023
+2023-02-16,7,Rule learning,Research,76,18,2,2023
+2023-02-16,60,Reviewing,Community,76,18,2,2023
+2023-02-16,43,Tutoring + related duties,Teaching,76,18,2,2023
+2023-02-16,11,Tutoring + related duties,Teaching,76,18,2,2023
+2023-02-16,12,Rule generalisation,Research,76,18,2,2023
+2023-02-16,7,Rule generalisation,Research,76,18,2,2023
+2023-02-17,22,Tutoring + related duties,Teaching,76,18,2,2023
+2023-02-17,64,Tutoring + related duties,Teaching,76,18,2,2023
+2023-02-17,83,Tutoring + related duties,Teaching,76,18,2,2023
+2023-02-17,67,Tutoring + related duties,Teaching,76,18,2,2023
+2023-02-17,67,Tutoring + related duties,Teaching,76,18,2,2023
+2023-02-20,62,Rule learning,Research,77,18,2,2023
+2023-02-20,102,Reading,Research,77,18,2,2023
+2023-02-20,23,Reading,Research,77,18,2,2023
+2023-02-20,13,PhD admin,Admin,77,18,2,2023
+2023-02-20,50,Tutoring + related duties,Teaching,77,18,2,2023
+2023-02-20,2,Tutoring + related duties,Teaching,77,18,2,2023
+2023-02-21,10,Rule learning,Research,77,18,2,2023
+2023-02-21,90,MSc supervision,Community,77,18,2,2023
+2023-02-22,26,Rule learning,Research,77,18,2,2023
+2023-02-22,30,Reading groups,Community,77,18,2,2023
+2023-02-22,47,Tutoring + related duties,Teaching,77,18,2,2023
+2023-02-23,60,Supervision,Research,77,18,2,2023
+2023-02-23,7,Tutoring + related duties,Teaching,77,18,2,2023
+2023-02-23,8,Tutoring + related duties,Teaching,77,18,2,2023
+2023-02-23,118,Tutoring + related duties,Teaching,77,18,2,2023
+2023-02-23,6,Tutoring + related duties,Teaching,77,18,2,2023
+2023-02-23,42,Rule generalisation,Research,77,18,2,2023
+2023-02-23,76,Rule generalisation,Research,77,18,2,2023
+2023-02-24,184,Rule learning,Research,77,18,2,2023
+2023-02-24,28,Tutoring + related duties,Teaching,77,18,2,2023
+2023-02-24,6,Tutoring + related duties,Teaching,77,18,2,2023
+2023-02-24,25,Tutoring + related duties,Teaching,77,18,2,2023
+2023-02-24,87,Tutoring + related duties,Teaching,77,18,2,2023
+2023-02-27,14,Rule learning,Research,78,18,2,2023
+2023-02-27,9,Rule learning,Research,78,18,2,2023
+2023-02-27,43,Rule learning,Research,78,18,2,2023
+2023-02-27,3,CLE admin,Admin,78,18,2,2023
+2023-02-27,5,Tutoring + related duties,Teaching,78,18,2,2023
+2023-02-27,5,Tutoring + related duties,Teaching,78,18,2,2023
+2023-02-27,50,Tutoring + related duties,Teaching,78,18,2,2023
+2023-02-27,33,Tutoring + related duties,Teaching,78,18,2,2023
+2023-02-27,18,Tutoring + related duties,Teaching,78,18,2,2023
+2023-02-27,92,Tutoring + related duties,Teaching,78,18,2,2023
+2023-02-27,14,Tutoring + related duties,Teaching,78,18,2,2023
+2023-02-27,7,Rule generalisation,Research,78,18,2,2023
+2023-02-28,83,Rule learning,Research,78,18,2,2023
+2023-02-28,50,CLE talks,Community,78,18,2,2023
+2023-02-28,9,Tutoring + related duties,Teaching,78,18,2,2023
+2023-02-28,18,Tutoring + related duties,Teaching,78,18,2,2023
+2023-02-28,20,Tutoring + related duties,Teaching,78,18,2,2023
+2023-02-28,50,Tutoring + related duties,Teaching,78,18,2,2023
+2023-02-28,50,Tutoring + related duties,Teaching,78,18,2,2023
+2023-03-01,15,Rule learning,Research,78,19,2,2023
+2023-03-01,16,Reading,Research,78,19,2,2023
+2023-03-01,40,Teaching,Teaching,78,19,2,2023
+2023-03-01,32,Teaching,Teaching,78,19,2,2023
+2023-03-01,49,Teaching,Teaching,78,19,2,2023
+2023-03-01,25,Tutoring + related duties,Teaching,78,19,2,2023
+2023-03-01,7,Tutoring + related duties,Teaching,78,19,2,2023
+2023-03-01,40,Tutoring + related duties,Teaching,78,19,2,2023
+2023-03-01,10,Tutoring + related duties,Teaching,78,19,2,2023
+2023-03-01,50,Tutoring + related duties,Teaching,78,19,2,2023
+2023-03-01,20,Tutoring + related duties,Teaching,78,19,2,2023
+2023-03-01,71,Rule generalisation,Research,78,19,2,2023
+2023-03-02,7,Teaching,Teaching,78,19,2,2023
+2023-03-02,114,Teaching,Teaching,78,19,2,2023
+2023-03-02,21,Tutoring + related duties,Teaching,78,19,2,2023
+2023-03-02,75,Tutoring + related duties,Teaching,78,19,2,2023
+2023-03-02,63,Tutoring + related duties,Teaching,78,19,2,2023
+2023-03-02,103,Tutoring + related duties,Teaching,78,19,2,2023
+2023-03-02,41,Tutoring + related duties,Teaching,78,19,2,2023
+2023-03-03,90,Rule learning,Research,78,19,2,2023
+2023-03-03,19,Rule learning,Research,78,19,2,2023
+2023-03-03,17,Rule learning,Research,78,19,2,2023
+2023-03-03,10,Teaching,Teaching,78,19,2,2023
+2023-03-03,33,Tutoring + related duties,Teaching,78,19,2,2023
+2023-03-03,58,Tutoring + related duties,Teaching,78,19,2,2023
+2023-03-04,147,Rule learning,Research,78,19,2,2023
+2023-03-04,128,Tutoring + related duties,Teaching,78,19,2,2023
+2023-03-06,11,CLE admin,Admin,79,19,2,2023
+2023-03-06,419,Teaching,Teaching,79,19,2,2023
+2023-03-06,97,Teaching,Teaching,79,19,2,2023
+2023-03-07,30,Teaching,Teaching,79,19,2,2023
+2023-03-07,34,Teaching,Teaching,79,19,2,2023
+2023-03-07,120,Teaching,Teaching,79,19,2,2023
+2023-03-07,50,Tutoring + related duties,Teaching,79,19,2,2023
+2023-03-07,50,Tutoring + related duties,Teaching,79,19,2,2023
+2023-03-07,50,Tutoring + related duties,Teaching,79,19,2,2023
+2023-03-08,96,Teaching,Teaching,79,19,2,2023
+2023-03-08,139,Teaching,Teaching,79,19,2,2023
+2023-03-08,80,Teaching,Teaching,79,19,2,2023
+2023-03-08,9,Teaching,Teaching,79,19,2,2023
+2023-03-08,57,Tutoring + related duties,Teaching,79,19,2,2023
+2023-03-08,67,Tutoring + related duties,Teaching,79,19,2,2023
+2023-03-09,226,Teaching,Teaching,79,19,2,2023
+2023-03-09,147,Teaching,Teaching,79,19,2,2023
+2023-03-09,83,Tutoring + related duties,Teaching,79,19,2,2023
+2023-03-09,42,Tutoring + related duties,Teaching,79,19,2,2023
+2023-03-09,8,Tutoring + related duties,Teaching,79,19,2,2023
+2023-03-10,3,CLE admin,Admin,79,19,2,2023
+2023-03-10,95,Teaching,Teaching,79,19,2,2023
+2023-03-10,76,Teaching,Teaching,79,19,2,2023
+2023-03-10,149,Tutoring + related duties,Teaching,79,19,2,2023
+2023-03-11,136,Teaching,Teaching,79,19,2,2023
+2023-03-11,126,Teaching,Teaching,79,19,2,2023
+2023-03-11,157,Teaching,Teaching,79,19,2,2023
+2023-03-13,6,CLE admin,Admin,80,19,2,2023
+2023-03-13,63,Teaching,Teaching,80,19,2,2023
+2023-03-13,141,Teaching,Teaching,80,19,2,2023
+2023-03-13,23,Teaching,Teaching,80,19,2,2023
+2023-03-13,35,Teaching,Teaching,80,19,2,2023
+2023-03-13,58,Tutoring + related duties,Teaching,80,19,2,2023
+2023-03-13,137,Tutoring + related duties,Teaching,80,19,2,2023
+2023-03-13,11,Tutoring + related duties,Teaching,80,19,2,2023
+2023-03-14,105,Teaching,Teaching,80,19,2,2023
+2023-03-14,50,Tutoring + related duties,Teaching,80,19,2,2023
+2023-03-14,44,Tutoring + related duties,Teaching,80,19,2,2023
+2023-03-14,24,Tutoring + related duties,Teaching,80,19,2,2023
+2023-03-14,50,Tutoring + related duties,Teaching,80,19,2,2023
+2023-03-14,50,Tutoring + related duties,Teaching,80,19,2,2023
+2023-03-15,85,Teaching,Teaching,80,19,2,2023
+2023-03-15,133,Teaching,Teaching,80,19,2,2023
+2023-03-15,91,Teaching,Teaching,80,19,2,2023
+2023-03-15,60,Teaching,Teaching,80,19,2,2023
+2023-03-15,50,Tutoring + related duties,Teaching,80,19,2,2023
+2023-03-16,197,Teaching,Teaching,80,19,2,2023
+2023-03-16,233,Teaching,Teaching,80,19,2,2023
+2023-03-16,97,Teaching,Teaching,80,19,2,2023
+2023-03-16,3,Tutoring + related duties,Teaching,80,19,2,2023
+2023-03-17,96,Teaching,Teaching,80,19,2,2023
+2023-03-17,73,Teaching,Teaching,80,19,2,2023
+2023-03-17,179,Teaching,Teaching,80,19,2,2023
+2023-03-17,91,Teaching,Teaching,80,19,2,2023
+2023-03-17,7,Tutoring + related duties,Teaching,80,19,2,2023
+2023-03-20,61,Teaching,Teaching,81,19,2,2023
+2023-03-20,178,Teaching,Teaching,81,19,2,2023
+2023-03-20,130,Teaching,Teaching,81,19,2,2023
+2023-03-20,97,Tutoring + related duties,Teaching,81,19,2,2023
+2023-03-21,12,Rule learning,Research,81,19,2,2023
+2023-03-21,38,Teaching,Teaching,81,19,2,2023
+2023-03-21,120,Teaching,Teaching,81,19,2,2023
+2023-03-21,65,Tutoring + related duties,Teaching,81,19,2,2023
+2023-03-21,32,Tutoring + related duties,Teaching,81,19,2,2023
+2023-03-21,50,Tutoring + related duties,Teaching,81,19,2,2023
+2023-03-21,10,Tutoring + related duties,Teaching,81,19,2,2023
+2023-03-22,214,Teaching,Teaching,81,19,2,2023
+2023-03-22,35,Teaching,Teaching,81,19,2,2023
+2023-03-22,69,Teaching,Teaching,81,19,2,2023
+2023-03-22,50,Tutoring + related duties,Teaching,81,19,2,2023
+2023-03-22,65,Tutoring + related duties,Teaching,81,19,2,2023
+2023-03-23,4,CLE admin,Admin,81,19,2,2023
+2023-03-23,34,Teaching,Teaching,81,19,2,2023
+2023-03-23,122,Teaching,Teaching,81,19,2,2023
+2023-03-23,26,Teaching,Teaching,81,19,2,2023
+2023-03-23,58,Teaching,Teaching,81,19,2,2023
+2023-03-23,90,Talks/conferences,Community,81,19,2,2023
+2023-03-23,7,Tutoring + related duties,Teaching,81,19,2,2023
+2023-03-24,26,Teaching,Teaching,81,19,2,2023
+2023-03-24,158,Teaching,Teaching,81,19,2,2023
+2023-03-24,51,Supervision,Research,81,19,2,2023
+2023-03-24,16,Tutoring + related duties,Teaching,81,19,2,2023
+2023-03-24,17,Tutoring + related duties,Teaching,81,19,2,2023
+2023-03-24,25,Tutoring + related duties,Teaching,81,19,2,2023
+2023-03-24,106,Rule generalisation,Research,81,19,2,2023
+2023-03-24,31,Rule generalisation,Research,81,19,2,2023
+2023-03-27,83,Rule learning,Research,82,19,2,2023
+2023-03-27,15,MSc supervision,Community,82,19,2,2023
+2023-03-27,60,Tutoring + related duties,Teaching,82,19,2,2023
+2023-03-27,113,Tutoring + related duties,Teaching,82,19,2,2023
+2023-03-27,59,Tutoring + related duties,Teaching,82,19,2,2023
+2023-03-27,73,Tutoring + related duties,Teaching,82,19,2,2023
+2023-03-28,62,Rule learning,Research,82,19,2,2023
+2023-03-28,71,Rule learning,Research,82,19,2,2023
+2023-03-28,50,CLE talks,Community,82,19,2,2023
+2023-03-28,30,Tutoring + related duties,Teaching,82,19,2,2023
+2023-03-28,25,Tutoring + related duties,Teaching,82,19,2,2023
+2023-03-28,50,Tutoring + related duties,Teaching,82,19,2,2023
+2023-03-28,50,Tutoring + related duties,Teaching,82,19,2,2023
+2023-03-29,60,MSc supervision,Community,82,19,2,2023
+2023-03-29,100,Word segmentation,Research,82,19,2,2023
+2023-03-29,93,Word segmentation,Research,82,19,2,2023
+2023-03-29,46,Word segmentation,Research,82,19,2,2023
+2023-03-29,25,Teaching,Teaching,82,19,2,2023
+2023-03-29,35,Tutoring + related duties,Teaching,82,19,2,2023
+2023-03-29,3,Tutoring + related duties,Teaching,82,19,2,2023
+2023-03-29,55,Tutoring + related duties,Teaching,82,19,2,2023
+2023-03-29,29,Tutoring + related duties,Teaching,82,19,2,2023
+2023-03-29,15,Tutoring + related duties,Teaching,82,19,2,2023
+2023-03-29,113,Rule generalisation,Research,82,19,2,2023
+2023-03-29,49,Rule generalisation,Research,82,19,2,2023
+2023-03-29,10,Rule generalisation,Research,82,19,2,2023
+2023-03-29,44,Rule generalisation,Research,82,19,2,2023
+2023-03-30,45,Rule learning,Research,82,19,2,2023
+2023-03-30,20,Rule learning,Research,82,19,2,2023
+2023-03-30,14,Rule learning,Research,82,19,2,2023
+2023-03-30,10,MSc supervision,Community,82,19,2,2023
+2023-03-30,6,Tutoring + related duties,Teaching,82,19,2,2023
+2023-03-30,3,Tutoring + related duties,Teaching,82,19,2,2023
+2023-03-30,4,Tutoring + related duties,Teaching,82,19,2,2023
+2023-03-30,71,Rule generalisation,Research,82,19,2,2023
+2023-03-30,59,Rule generalisation,Research,82,19,2,2023
+2023-03-30,147,Rule generalisation,Research,82,19,2,2023
+2023-03-30,44,Rule generalisation,Research,82,19,2,2023
+2023-03-31,91,Rule learning,Research,82,19,2,2023
+2023-03-31,10,Tutoring + related duties,Teaching,82,19,2,2023
+2023-03-31,76,Rule generalisation,Research,82,19,2,2023
+2023-03-31,78,Rule generalisation,Research,82,19,2,2023
+2023-03-31,90,Rule generalisation,Research,82,19,2,2023
+2023-04-03,1,CLE admin,Admin,83,20,2,2023
+2023-04-03,30,Teaching,Teaching,83,20,2,2023
+2023-04-03,65,Tutoring + related duties,Teaching,83,20,2,2023
+2023-04-03,63,Tutoring + related duties,Teaching,83,20,2,2023
+2023-04-03,49,Rule generalisation,Research,83,20,2,2023
+2023-04-03,44,Rule generalisation,Research,83,20,2,2023
+2023-04-03,72,Rule generalisation,Research,83,20,2,2023
+2023-04-04,95,Rule learning,Research,83,20,2,2023
+2023-04-04,7,Tutoring + related duties,Teaching,83,20,2,2023
+2023-04-04,50,Tutoring + related duties,Teaching,83,20,2,2023
+2023-04-04,50,Tutoring + related duties,Teaching,83,20,2,2023
+2023-04-04,20,Rule generalisation,Research,83,20,2,2023
+2023-04-04,25,Rule generalisation,Research,83,20,2,2023
+2023-04-04,169,Rule generalisation,Research,83,20,2,2023
+2023-04-05,34,Rule learning,Research,83,20,2,2023
+2023-04-05,24,Rule learning,Research,83,20,2,2023
+2023-04-05,10,Rule learning,Research,83,20,2,2023
+2023-04-05,146,Rule learning,Research,83,20,2,2023
+2023-04-05,10,Tutoring + related duties,Teaching,83,20,2,2023
+2023-04-05,28,Tutoring + related duties,Teaching,83,20,2,2023
+2023-04-05,50,Tutoring + related duties,Teaching,83,20,2,2023
+2023-04-05,63,Rule generalisation,Research,83,20,2,2023
+2023-04-05,58,Rule generalisation,Research,83,20,2,2023
+2023-04-06,55,Rule learning,Research,83,20,2,2023
+2023-04-06,80,Reading groups,Community,83,20,2,2023
+2023-04-06,65,Supervision,Research,83,20,2,2023
+2023-04-06,122,Tutoring + related duties,Teaching,83,20,2,2023
+2023-04-06,75,Tutoring + related duties,Teaching,83,20,2,2023
+2023-04-06,30,Tutoring + related duties,Teaching,83,20,2,2023
+2023-04-06,6,Tutoring + related duties,Teaching,83,20,2,2023
+2023-04-06,58,Rule generalisation,Research,83,20,2,2023
+2023-04-07,40,Tutoring + related duties,Teaching,83,20,2,2023
+2023-04-07,98,Tutoring + related duties,Teaching,83,20,2,2023
+2023-04-07,29,Tutoring + related duties,Teaching,83,20,2,2023
+2023-04-11,49,Tutoring + related duties,Teaching,84,20,2,2023
+2023-04-11,81,Tutoring + related duties,Teaching,84,20,2,2023
+2023-04-11,52,Tutoring + related duties,Teaching,84,20,2,2023
+2023-04-11,125,Rule generalisation,Research,84,20,2,2023
+2023-04-11,30,Rule generalisation,Research,84,20,2,2023
+2023-04-12,16,Rule learning,Research,84,20,2,2023
+2023-04-12,8,Tutoring + related duties,Teaching,84,20,2,2023
+2023-04-12,61,Rule generalisation,Research,84,20,2,2023
+2023-04-12,143,Rule generalisation,Research,84,20,2,2023
+2023-04-12,233,Rule generalisation,Research,84,20,2,2023
+2023-04-13,89,Rule learning,Research,84,20,2,2023
+2023-04-13,92,Rule learning,Research,84,20,2,2023
+2023-04-13,14,Tutoring + related duties,Teaching,84,20,2,2023
+2023-04-13,192,Rule generalisation,Research,84,20,2,2023
+2023-04-14,35,Rule learning,Research,84,20,2,2023
+2023-04-14,60,MSc supervision,Community,84,20,2,2023
+2023-04-14,113,Tutoring + related duties,Teaching,84,20,2,2023
+2023-04-14,12,Tutoring + related duties,Teaching,84,20,2,2023
+2023-04-14,15,Tutoring + related duties,Teaching,84,20,2,2023
+2023-04-14,61,Tutoring + related duties,Teaching,84,20,2,2023
+2023-04-14,19,Rule generalisation,Research,84,20,2,2023
+2023-04-14,30,Rule generalisation,Research,84,20,2,2023
+2023-04-14,40,Rule generalisation,Research,84,20,2,2023
+2023-04-17,68,Rule learning,Research,85,20,2,2023
+2023-04-17,3,CLE admin,Admin,85,20,2,2023
+2023-04-17,60,Supervision,Research,85,20,2,2023
+2023-04-17,110,Tutoring + related duties,Teaching,85,20,2,2023
+2023-04-17,53,Tutoring + related duties,Teaching,85,20,2,2023
+2023-04-17,79,Tutoring + related duties,Teaching,85,20,2,2023
+2023-04-17,110,Rule generalisation,Research,85,20,2,2023
+2023-04-18,94,Rule learning,Research,85,20,2,2023
+2023-04-18,90,CLE talks,Community,85,20,2,2023
+2023-04-18,60,MSc supervision,Community,85,20,2,2023
+2023-04-18,130,Tutoring + related duties,Teaching,85,20,2,2023
+2023-04-18,26,Tutoring + related duties,Teaching,85,20,2,2023
+2023-04-18,35,Tutoring + related duties,Teaching,85,20,2,2023
+2023-04-19,91,Rule learning,Research,85,20,2,2023
+2023-04-19,15,Rule learning,Research,85,20,2,2023
+2023-04-19,16,Rule learning,Research,85,20,2,2023
+2023-04-19,32,Tutoring + related duties,Teaching,85,20,2,2023
+2023-04-19,211,Tutoring + related duties,Teaching,85,20,2,2023
+2023-04-19,3,Tutoring + related duties,Teaching,85,20,2,2023
+2023-04-19,101,Tutoring + related duties,Teaching,85,20,2,2023
+2023-04-19,86,Tutoring + related duties,Teaching,85,20,2,2023
+2023-04-20,150,Rule learning,Research,85,20,2,2023
+2023-04-20,55,Rule learning,Research,85,20,2,2023
+2023-04-20,28,Rule learning,Research,85,20,2,2023
+2023-04-20,31,Rule learning,Research,85,20,2,2023
+2023-04-20,15,Rule learning,Research,85,20,2,2023
+2023-04-20,38,Rule learning,Research,85,20,2,2023
+2023-04-20,124,Tutoring + related duties,Teaching,85,20,2,2023
+2023-04-20,12,Tutoring + related duties,Teaching,85,20,2,2023
+2023-04-20,9,Tutoring + related duties,Teaching,85,20,2,2023
+2023-04-20,14,Tutoring + related duties,Teaching,85,20,2,2023
+2023-04-21,20,Rule learning,Research,85,20,2,2023
+2023-04-21,86,Tutoring + related duties,Teaching,85,20,2,2023
+2023-04-21,145,Rule generalisation,Research,85,20,2,2023
+2023-04-24,4,CLE admin,Admin,86,20,2,2023
+2023-04-24,12,CLE admin,Admin,86,20,2,2023
+2023-04-24,35,CLE admin,Admin,86,20,2,2023
+2023-04-24,25,Reading groups,Community,86,20,2,2023
+2023-04-24,36,Reading groups,Community,86,20,2,2023
+2023-04-24,80,Teaching,Teaching,86,20,2,2023
+2023-04-24,29,Tutoring + related duties,Teaching,86,20,2,2023
+2023-04-24,91,Rule generalisation,Research,86,20,2,2023
+2023-04-24,37,Rule generalisation,Research,86,20,2,2023
+2023-04-24,35,Rule generalisation,Research,86,20,2,2023
+2023-04-24,58,Rule generalisation,Research,86,20,2,2023
+2023-04-24,16,Rule generalisation,Research,86,20,2,2023
+2023-04-25,8,Rule learning,Research,86,20,2,2023
+2023-04-25,80,CLE talks,Community,86,20,2,2023
+2023-04-25,75,Reading groups,Community,86,20,2,2023
+2023-04-25,28,Rule generalisation,Research,86,20,2,2023
+2023-04-25,45,Rule generalisation,Research,86,20,2,2023
+2023-04-25,117,Rule generalisation,Research,86,20,2,2023
+2023-04-26,36,Rule learning,Research,86,20,2,2023
+2023-04-26,66,Rule learning,Research,86,20,2,2023
+2023-04-26,9,Rule generalisation,Research,86,20,2,2023
+2023-04-26,36,Rule generalisation,Research,86,20,2,2023
+2023-04-26,192,Rule generalisation,Research,86,20,2,2023
+2023-04-26,97,Rule generalisation,Research,86,20,2,2023
+2023-04-27,16,Rule learning,Research,86,20,2,2023
+2023-04-27,7,Rule learning,Research,86,20,2,2023
+2023-04-27,102,Rule learning,Research,86,20,2,2023
+2023-04-27,192,Teaching,Teaching,86,20,2,2023
+2023-04-27,136,Teaching,Teaching,86,20,2,2023
+2023-04-27,5,Tutoring + related duties,Teaching,86,20,2,2023
+2023-04-28,200,Teaching,Teaching,86,20,2,2023
+2023-04-28,13,Tutoring + related duties,Teaching,86,20,2,2023
+2023-05-01,175,Rule learning,Research,87,21,2,2023
+2023-05-01,149,Rule learning,Research,87,21,2,2023
+2023-05-01,9,CLE admin,Admin,87,21,2,2023
+2023-05-01,38,Reading groups,Community,87,21,2,2023
+2023-05-01,38,Rule generalisation,Research,87,21,2,2023
+2023-05-02,90,CLE talks,Community,87,21,2,2023
+2023-05-02,29,Teaching,Teaching,87,21,2,2023
+2023-05-02,60,MSc supervision,Community,87,21,2,2023
+2023-05-02,93,Supervision,Research,87,21,2,2023
+2023-05-02,75,Tutoring + related duties,Teaching,87,21,2,2023
+2023-05-03,65,Reading groups,Community,87,21,2,2023
+2023-05-03,60,Talks/conferences,Community,87,21,2,2023
+2023-05-03,60,Talks/conferences,Community,87,21,2,2023
+2023-05-03,70,Tutoring + related duties,Teaching,87,21,2,2023
+2023-05-03,28,Tutoring + related duties,Teaching,87,21,2,2023
+2023-05-03,108,Tutoring + related duties,Teaching,87,21,2,2023
+2023-05-03,50,Tutoring + related duties,Teaching,87,21,2,2023
+2023-05-04,39,Rule learning,Research,87,21,2,2023
+2023-05-04,11,Tutoring + related duties,Teaching,87,21,2,2023
+2023-05-04,146,Tutoring + related duties,Teaching,87,21,2,2023
+2023-05-04,196,Tutoring + related duties,Teaching,87,21,2,2023
+2023-05-04,41,Tutoring + related duties,Teaching,87,21,2,2023
+2023-05-05,250,Teaching,Teaching,87,21,2,2023
+2023-05-05,23,Teaching,Teaching,87,21,2,2023
+2023-05-05,64,Tutoring + related duties,Teaching,87,21,2,2023
+2023-05-05,111,Tutoring + related duties,Teaching,87,21,2,2023
+2023-05-08,6,CLE admin,Admin,88,21,2,2023
+2023-05-08,119,Teaching,Teaching,88,21,2,2023
+2023-05-08,221,Teaching,Teaching,88,21,2,2023
+2023-05-08,129,Teaching,Teaching,88,21,2,2023
+2023-05-08,35,MSc supervision,Community,88,21,2,2023
+2023-05-08,35,Rule generalisation,Research,88,21,2,2023
+2023-05-09,70,CLE talks,Community,88,21,2,2023
+2023-05-09,56,Teaching,Teaching,88,21,2,2023
+2023-05-09,98,Teaching,Teaching,88,21,2,2023
+2023-05-09,20,Teaching,Teaching,88,21,2,2023
+2023-05-09,85,Supervision,Research,88,21,2,2023
+2023-05-10,139,Teaching,Teaching,88,21,2,2023
+2023-05-10,216,Teaching,Teaching,88,21,2,2023
+2023-05-10,30,Teaching,Teaching,88,21,2,2023
+2023-05-10,60,Teaching,Teaching,88,21,2,2023
+2023-05-10,2,Teaching,Teaching,88,21,2,2023
+2023-05-12,5,CLE admin,Admin,88,21,2,2023
+2023-05-13,135,Teaching,Teaching,88,21,2,2023
+2023-05-14,135,Teaching,Teaching,88,21,2,2023
+2023-05-16,90,CLE talks,Community,89,21,2,2023
+2023-05-16,90,Supervision,Research,89,21,2,2023
+2023-05-22,21,CLE admin,Admin,90,21,2,2023
+2023-05-23,49,Rule learning,Research,90,21,2,2023
+2023-05-23,90,CLE talks,Community,90,21,2,2023
+2023-05-23,60,Reading groups,Community,90,21,2,2023
+2023-05-23,50,MSc supervision,Community,90,21,2,2023
+2023-05-23,90,Supervision,Research,90,21,2,2023
+2023-05-24,38,Reading groups,Community,90,21,2,2023
+2023-05-24,26,Tutoring + related duties,Teaching,90,21,2,2023
+2023-05-24,18,Tutoring + related duties,Teaching,90,21,2,2023
+2023-05-24,246,Rule generalisation,Research,90,21,2,2023
+2023-05-25,9,CLE admin,Admin,90,21,2,2023
+2023-05-25,90,Rule generalisation,Research,90,21,2,2023
+2023-05-25,15,Rule generalisation,Research,90,21,2,2023
+2023-05-25,166,Rule generalisation,Research,90,21,2,2023
+2023-05-25,120,Rule generalisation,Research,90,21,2,2023
+2023-05-26,47,Word segmentation,Research,90,21,2,2023
+2023-05-26,188,Rule generalisation,Research,90,21,2,2023
+2023-05-30,82,Word segmentation,Research,91,21,2,2023
+2023-05-30,44,Word segmentation,Research,91,21,2,2023
+2023-05-30,73,Word segmentation,Research,91,21,2,2023
+2023-05-30,20,Word segmentation,Research,91,21,2,2023
+2023-05-30,105,Word segmentation,Research,91,21,2,2023
+2023-05-31,46,MSc supervision,Community,91,21,2,2023
+2023-05-31,24,Word segmentation,Research,91,21,2,2023
+2023-05-31,145,Word segmentation,Research,91,21,2,2023
+2023-05-31,145,Word segmentation,Research,91,21,2,2023
+2023-06-01,25,Reading,Research,91,22,2,2023
+2023-06-01,39,Word segmentation,Research,91,22,2,2023
+2023-06-01,81,Word segmentation,Research,91,22,2,2023
+2023-06-01,23,Rule generalisation,Research,91,22,2,2023
+2023-06-01,54,Rule generalisation,Research,91,22,2,2023
+2023-06-01,74,Rule generalisation,Research,91,22,2,2023
+2023-06-01,60,Rule generalisation,Research,91,22,2,2023
+2023-06-01,21,Rule generalisation,Research,91,22,2,2023
+2023-06-02,42,Reading,Research,91,22,2,2023
+2023-06-02,110,Reading,Research,91,22,2,2023
+2023-06-02,7,Rule generalisation,Research,91,22,2,2023
+2023-06-02,97,Rule generalisation,Research,91,22,2,2023
+2023-06-05,2,Word segmentation,Research,92,22,2,2023
+2023-06-05,6,Supervision,Research,92,22,2,2023
+2023-06-05,10,Rule generalisation,Research,92,22,2,2023
+2023-06-05,20,Rule generalisation,Research,92,22,2,2023
+2023-06-06,157,Rule generalisation,Research,92,22,2,2023
+2023-06-08,45,Supervision,Research,92,22,2,2023
+2023-06-09,148,Rule generalisation,Research,92,22,2,2023
+2023-06-09,60,Rule generalisation,Research,92,22,2,2023
+2023-06-12,138,Word segmentation,Research,93,22,2,2023
+2023-06-12,154,Word segmentation,Research,93,22,2,2023
+2023-06-13,35,MSc supervision,Community,93,22,2,2023
+2023-06-13,182,Word segmentation,Research,93,22,2,2023
+2023-06-13,119,Rule generalisation,Research,93,22,2,2023
+2023-06-14,96,Rule generalisation,Research,93,22,2,2023
+2023-06-14,133,Rule generalisation,Research,93,22,2,2023
+2023-06-15,6,Rule learning,Research,93,22,2,2023
+2023-06-15,60,Supervision,Research,93,22,2,2023
+2023-06-15,131,Rule generalisation,Research,93,22,2,2023
+2023-06-15,147,Rule generalisation,Research,93,22,2,2023
+2023-06-16,42,MSc supervision,Community,93,22,2,2023
+2023-06-16,125,Word segmentation,Research,93,22,2,2023
+2023-06-16,132,Rule generalisation,Research,93,22,2,2023
+2023-06-19,17,Rule learning,Research,94,22,2,2023
+2023-06-19,17,Rule learning,Research,94,22,2,2023
+2023-06-19,69,Reading,Research,94,22,2,2023
+2023-06-19,39,MSc supervision,Community,94,22,2,2023
+2023-06-19,13,Word segmentation,Research,94,22,2,2023
+2023-06-19,32,Word segmentation,Research,94,22,2,2023
+2023-06-19,13,Word segmentation,Research,94,22,2,2023
+2023-06-19,68,Word segmentation,Research,94,22,2,2023
+2023-06-19,80,Word segmentation,Research,94,22,2,2023
+2023-06-20,87,Rule learning,Research,94,22,2,2023
+2023-06-20,35,Rule learning,Research,94,22,2,2023
+2023-06-20,15,Rule learning,Research,94,22,2,2023
+2023-06-20,35,Rule learning,Research,94,22,2,2023
+2023-06-20,60,Reading groups,Community,94,22,2,2023
+2023-06-20,25,Supervision,Research,94,22,2,2023
+2023-06-21,72,Rule learning,Research,94,22,2,2023
+2023-06-21,110,Talks/conferences,Community,94,22,2,2023
+2023-06-23,47,Rule learning,Research,94,22,2,2023
+2023-06-23,43,Rule learning,Research,94,22,2,2023
+2023-06-23,7,CLE admin,Admin,94,22,2,2023
+2023-06-23,90,MSc supervision,Community,94,22,2,2023
+2023-06-23,41,Word segmentation,Research,94,22,2,2023
+2023-06-23,41,Word segmentation,Research,94,22,2,2023
+2023-06-23,20,Tutoring + related duties,Teaching,94,22,2,2023
+2023-06-23,52,Rule generalisation,Research,94,22,2,2023
+2023-06-23,19,Rule generalisation,Research,94,22,2,2023
+2023-06-26,40,Word segmentation,Research,95,22,2,2023
+2023-06-26,80,Word segmentation,Research,95,22,2,2023
+2023-06-26,135,Word segmentation,Research,95,22,2,2023
+2023-06-27,10,MSc supervision,Community,95,22,2,2023
+2023-06-27,60,MSc supervision,Community,95,22,2,2023
+2023-06-27,85,Word segmentation,Research,95,22,2,2023
+2023-06-27,118,Word segmentation,Research,95,22,2,2023
+2023-06-27,14,Word segmentation,Research,95,22,2,2023
+2023-06-29,20,Rule learning,Research,95,22,2,2023
+2023-06-29,69,Rule learning,Research,95,22,2,2023
+2023-06-29,70,MSc supervision,Community,95,22,2,2023
+2023-06-29,14,MSc supervision,Community,95,22,2,2023
+2023-06-29,25,Word segmentation,Research,95,22,2,2023
+2023-06-29,75,Supervision,Research,95,22,2,2023
+2023-06-30,25,Annual review,Research,95,22,2,2023
+2023-06-30,160,Rule generalisation,Research,95,22,2,2023
+2023-06-30,123,Rule generalisation,Research,95,22,2,2023
+2023-07-03,36,Rule generalisation,Research,96,23,2,2023
+2023-07-03,148,Rule generalisation,Research,96,23,2,2023
+2023-07-03,17,Rule generalisation,Research,96,23,2,2023
+2023-07-03,6,PhD admin,Admin,96,23,2,2023
+2023-07-03,144,Rule generalisation,Research,96,23,2,2023
+2023-07-04,184,Rule generalisation,Research,96,23,2,2023
+2023-07-04,184,Rule generalisation,Research,96,23,2,2023
+2023-07-05,70,Rule learning,Research,96,23,2,2023
+2023-07-05,31,Rule generalisation,Research,96,23,2,2023
+2023-07-05,196,Rule generalisation,Research,96,23,2,2023
+2023-07-05,59,Rule generalisation,Research,96,23,2,2023
+2023-07-06,40,Rule learning,Research,96,23,2,2023
+2023-07-06,45,Rule learning,Research,96,23,2,2023
+2023-07-06,16,MSc supervision,Community,96,23,2,2023
+2023-07-06,90,Supervision,Research,96,23,2,2023
+2023-07-06,58,Rule generalisation,Research,96,23,2,2023
+2023-07-07,50,Rule learning,Research,96,23,2,2023
+2023-07-07,180,Rule generalisation,Research,96,23,2,2023
+2023-07-07,9,Rule generalisation,Research,96,23,2,2023
+2023-07-10,25,Rule learning,Research,97,23,2,2023
+2023-07-10,23,Word segmentation,Research,97,23,2,2023
+2023-07-10,137,Rule generalisation,Research,97,23,2,2023
+2023-07-10,138,Rule generalisation,Research,97,23,2,2023
+2023-07-11,133,Rule generalisation,Research,97,23,2,2023
+2023-07-11,58,Rule generalisation,Research,97,23,2,2023
+2023-07-11,54,Rule generalisation,Research,97,23,2,2023
+2023-07-11,81,Rule generalisation,Research,97,23,2,2023
+2023-07-12,78,MSc supervision,Community,97,23,2,2023
+2023-07-12,2,Word segmentation,Research,97,23,2,2023
+2023-07-12,195,Rule generalisation,Research,97,23,2,2023
+2023-07-12,8,Rule generalisation,Research,97,23,2,2023
+2023-07-12,22,Rule generalisation,Research,97,23,2,2023
+2023-07-13,85,Supervision,Research,97,23,2,2023
+2023-07-13,130,Rule generalisation,Research,97,23,2,2023
+2023-07-13,110,Rule generalisation,Research,97,23,2,2023
+2023-07-17,10,Non-thesis project,Research,98,23,2,2023
+2023-07-17,25,MSc supervision,Community,98,23,2,2023
+2023-07-17,9,Word segmentation,Research,98,23,2,2023
+2023-07-17,103,Word segmentation,Research,98,23,2,2023
+2023-07-17,14,PhD admin,Admin,98,23,2,2023
+2023-07-17,142,Rule generalisation,Research,98,23,2,2023
+2023-07-17,23,Rule generalisation,Research,98,23,2,2023
+2023-07-18,135,Non-thesis project,Research,98,23,2,2023
+2023-07-18,30,Non-thesis project,Research,98,23,2,2023
+2023-07-18,49,Rule generalisation,Research,98,23,2,2023
+2023-07-19,11,CLE admin,Admin,98,23,2,2023
+2023-07-19,132,Non-thesis project,Research,98,23,2,2023
+2023-07-19,164,Non-thesis project,Research,98,23,2,2023
+2023-07-20,131,Non-thesis project,Research,98,23,2,2023
+2023-07-20,45,MSc supervision,Community,98,23,2,2023
+2023-07-20,90,Supervision,Research,98,23,2,2023
+2023-07-24,134,Annual review,Research,99,23,2,2023
+2023-07-24,38,Talks/conferences,Community,99,23,2,2023
+2023-07-24,19,Non-thesis project,Research,99,23,2,2023
+2023-07-24,9,Rule generalisation,Research,99,23,2,2023
+2023-07-24,42,Rule generalisation,Research,99,23,2,2023
+2023-07-24,20,Rule generalisation,Research,99,23,2,2023
+2023-07-25,39,Annual review,Research,99,23,2,2023
+2023-07-25,152,Reading,Research,99,23,2,2023
+2023-07-25,81,Reading,Research,99,23,2,2023
+2023-07-25,6,Rule generalisation,Research,99,23,2,2023
+2023-07-25,9,Rule generalisation,Research,99,23,2,2023
+2023-07-25,40,Rule generalisation,Research,99,23,2,2023
+2023-07-26,96,Annual review,Research,99,23,2,2023
+2023-07-26,32,CLE admin,Admin,99,23,2,2023
+2023-07-26,52,Rule generalisation,Research,99,23,2,2023
+2023-07-26,72,Rule generalisation,Research,99,23,2,2023
+2023-07-26,4,Rule generalisation,Research,99,23,2,2023
+2023-07-26,13,Rule generalisation,Research,99,23,2,2023
+2023-07-27,123,Rule generalisation,Research,99,23,2,2023
+2023-07-27,90,Supervision,Research,99,23,2,2023
+2023-07-27,24,Rule generalisation,Research,99,23,2,2023
+2023-07-27,65,Rule generalisation,Research,99,23,2,2023
+2023-07-31,134,Rule generalisation,Research,100,23,2,2023
+2023-07-31,20,Tutoring + related duties,Teaching,100,23,2,2023
+2023-07-31,192,Rule generalisation,Research,100,23,2,2023
+2023-08-01,147,Talks/conferences,Community,100,24,2,2023
+2023-08-01,203,Talks/conferences,Community,100,24,2,2023
+2023-08-01,16,Rule generalisation,Research,100,24,2,2023
+2023-08-02,90,Annual review,Research,100,24,2,2023
+2023-08-02,178,Talks/conferences,Community,100,24,2,2023
+2023-08-03,105,Rule generalisation,Research,100,24,2,2023
+2023-08-03,179,Rule generalisation,Research,100,24,2,2023
+2023-08-03,70,Supervision,Research,100,24,2,2023
+2023-08-03,75,Talks/conferences,Community,100,24,2,2023
+2023-08-14,181,Annual review,Research,102,24,2,2023
+2023-08-15,89,Annual review,Research,102,24,2,2023
+2023-08-15,21,Annual review,Research,102,24,2,2023
+2023-08-15,23,CLE admin,Admin,102,24,2,2023
+2023-08-15,14,Tutoring + related duties,Teaching,102,24,2,2023
+2023-08-15,77,Rule generalisation,Research,102,24,2,2023
+2023-08-15,21,Rule generalisation,Research,102,24,2,2023
+2023-08-16,195,Annual review,Research,102,24,2,2023
+2023-08-16,70,Annual review,Research,102,24,2,2023
+2023-08-16,76,Annual review,Research,102,24,2,2023
+2023-08-17,67,Annual review,Research,102,24,2,2023
+2023-08-17,129,Annual review,Research,102,24,2,2023
+2023-08-17,98,Supervision,Research,102,24,2,2023
+2023-08-21,140,Annual review,Research,103,24,2,2023
+2023-08-21,16,Tutoring + related duties,Teaching,103,24,2,2023
+2023-08-21,97,Rule generalisation,Research,103,24,2,2023
+2023-08-22,95,Annual review,Research,103,24,2,2023
+2023-08-28,24,CLE admin,Admin,104,24,2,2023
+2023-08-28,20,Non-thesis project,Research,104,24,2,2023
+2023-08-28,39,Rule generalisation,Research,104,24,2,2023
+2023-08-28,3,Rule generalisation,Research,104,24,2,2023
+2023-08-29,162,Rule generalisation,Research,104,24,2,2023
+2023-08-29,97,Rule generalisation,Research,104,24,2,2023
+2023-08-30,189,Reading,Research,104,24,2,2023
+2023-08-30,55,Rule generalisation,Research,104,24,2,2023
+2023-08-30,114,Rule generalisation,Research,104,24,2,2023
+2023-08-31,24,Reading,Research,104,24,2,2023
+2023-08-31,136,Reading,Research,104,24,2,2023
+2023-08-31,62,Reading,Research,104,24,2,2023
+2023-08-31,85,Supervision,Research,104,24,2,2023
+2023-08-31,37,Rule generalisation,Research,104,24,2,2023
+2023-09-01,6,Rule learning,Research,104,25,2,2023
+2023-09-01,14,Tutoring + related duties,Teaching,104,25,2,2023
+2023-09-01,132,Rule generalisation,Research,104,25,2,2023
+2023-09-01,167,Rule generalisation,Research,104,25,2,2023
+2023-09-01,64,Rule generalisation,Research,104,25,2,2023
+2023-09-04,172,Rule generalisation,Research,105,25,3,2023
+2023-09-04,133,Rule generalisation,Research,105,25,3,2023
+2023-09-04,109,Rule generalisation,Research,105,25,3,2023
+2023-09-05,8,CLE admin,Admin,105,25,3,2023
+2023-09-05,54,Reading,Research,105,25,3,2023
+2023-09-05,15,Rule generalisation,Research,105,25,3,2023
+2023-09-05,138,Rule generalisation,Research,105,25,3,2023
+2023-09-06,12,Rule generalisation,Research,105,25,3,2023
+2023-09-06,147,Rule generalisation,Research,105,25,3,2023
+2023-09-06,109,Rule generalisation,Research,105,25,3,2023
+2023-09-06,109,Rule generalisation,Research,105,25,3,2023
+2023-09-07,90,Supervision,Research,105,25,3,2023
+2023-09-07,113,Rule generalisation,Research,105,25,3,2023
+2023-09-07,165,Rule generalisation,Research,105,25,3,2023
+2023-09-08,191,Rule generalisation,Research,105,25,3,2023
+2023-09-08,45,Rule generalisation,Research,105,25,3,2023
+2023-09-11,35,Reading groups,Community,106,25,3,2023
+2023-09-11,57,Rule generalisation,Research,106,25,3,2023
+2023-09-11,55,Rule generalisation,Research,106,25,3,2023
+2023-09-11,141,Rule generalisation,Research,106,25,3,2023
+2023-09-12,65,Reading groups,Community,106,25,3,2023
+2023-09-12,60,Tutoring + related duties,Teaching,106,25,3,2023
+2023-09-12,13,Tutoring + related duties,Teaching,106,25,3,2023
+2023-09-12,27,Rule generalisation,Research,106,25,3,2023
+2023-09-12,58,Rule generalisation,Research,106,25,3,2023
+2023-09-12,59,Rule generalisation,Research,106,25,3,2023
+2023-09-13,91,PhD admin,Admin,106,25,3,2023
+2023-09-13,24,Rule generalisation,Research,106,25,3,2023
+2023-09-13,69,Rule generalisation,Research,106,25,3,2023
+2023-09-13,16,Rule generalisation,Research,106,25,3,2023
+2023-09-13,78,Rule generalisation,Research,106,25,3,2023
+2023-09-14,185,Tutoring + related duties,Teaching,106,25,3,2023
+2023-09-14,120,Tutoring + related duties,Teaching,106,25,3,2023
+2023-09-14,27,Rule generalisation,Research,106,25,3,2023
+2023-09-15,35,Tutoring + related duties,Teaching,106,25,3,2023
+2023-09-15,127,Rule generalisation,Research,106,25,3,2023
+2023-09-15,25,Rule generalisation,Research,106,25,3,2023
+2023-09-15,107,Rule generalisation,Research,106,25,3,2023
+2023-09-18,11,CLE admin,Admin,107,25,3,2023
+2023-09-18,9,CLE admin,Admin,107,25,3,2023
+2023-09-18,35,CLE admin,Admin,107,25,3,2023
+2023-09-18,19,Tutoring + related duties,Teaching,107,25,3,2023
+2023-09-18,86,Rule generalisation,Research,107,25,3,2023
+2023-09-18,47,Rule generalisation,Research,107,25,3,2023
+2023-09-19,80,CLE talks,Community,107,25,3,2023
+2023-09-19,50,Tutoring + related duties,Teaching,107,25,3,2023
+2023-09-19,159,Tutoring + related duties,Teaching,107,25,3,2023
+2023-09-19,56,Tutoring + related duties,Teaching,107,25,3,2023
+2023-09-20,129,Rule generalisation,Research,107,25,3,2023
+2023-09-20,46,Rule generalisation,Research,107,25,3,2023
+2023-09-20,63,Tutoring + related duties,Teaching,107,25,3,2023
+2023-09-20,120,Tutoring + related duties,Teaching,107,25,3,2023
+2023-09-20,9,Tutoring + related duties,Teaching,107,25,3,2023
+2023-09-20,11,Tutoring + related duties,Teaching,107,25,3,2023
+2023-09-21,113,Rule generalisation,Research,107,25,3,2023
+2023-09-21,90,Supervision,Research,107,25,3,2023
+2023-09-21,60,Tutoring + related duties,Teaching,107,25,3,2023
+2023-09-21,150,Tutoring + related duties,Teaching,107,25,3,2023
+2023-09-22,160,Rule generalisation,Research,107,25,3,2023
+2023-09-22,195,Rule generalisation,Research,107,25,3,2023
+2023-09-25,130,Rule generalisation,Research,108,25,3,2023
+2023-09-25,5,Rule generalisation,Research,108,25,3,2023
+2023-09-25,60,Rule generalisation,Research,108,25,3,2023
+2023-09-25,142,Rule generalisation,Research,108,25,3,2023
+2023-09-26,75,Rule generalisation,Research,108,25,3,2023
+2023-09-26,174,Rule generalisation,Research,108,25,3,2023
+2023-09-26,34,Rule generalisation,Research,108,25,3,2023
+2023-09-26,59,Rule generalisation,Research,108,25,3,2023
+2023-09-26,24,Reading groups,Community,108,25,3,2023
+2023-09-27,40,Rule generalisation,Research,108,25,3,2023
+2023-09-27,111,Rule generalisation,Research,108,25,3,2023
+2023-09-27,184,Rule generalisation,Research,108,25,3,2023
+2023-09-28,3,CLE admin,Admin,108,25,3,2023
+2023-09-28,87,Rule generalisation,Research,108,25,3,2023
+2023-09-28,93,Rule generalisation,Research,108,25,3,2023
+2023-09-28,125,Rule generalisation,Research,108,25,3,2023
+2023-09-28,55,Supervision,Research,108,25,3,2023
+2023-09-29,8,Tutoring + related duties,Teaching,108,25,3,2023
+2023-10-02,13,CLE admin,Admin,109,26,3,2023
+2023-10-02,36,Tutoring + related duties,Teaching,109,26,3,2023
+2023-10-02,152,Rule generalisation,Research,109,26,3,2023
+2023-10-02,102,Rule generalisation,Research,109,26,3,2023
+2023-10-03,82,CLE talks,Community,109,26,3,2023
+2023-10-03,60,Tutoring + related duties,Teaching,109,26,3,2023
+2023-10-03,113,Rule generalisation,Research,109,26,3,2023
+2023-10-03,43,Rule generalisation,Research,109,26,3,2023
+2023-10-04,60,Tutoring + related duties,Teaching,109,26,3,2023
+2023-10-04,60,Rule generalisation,Research,109,26,3,2023
+2023-10-04,88,Rule generalisation,Research,109,26,3,2023
+2023-10-05,5,CLE admin,Admin,109,26,3,2023
+2023-10-05,65,Reading groups,Community,109,26,3,2023
+2023-10-05,60,Tutoring + related duties,Teaching,109,26,3,2023
+2023-10-05,30,Tutoring + related duties,Teaching,109,26,3,2023
+2023-10-05,34,Tutoring + related duties,Teaching,109,26,3,2023
+2023-10-05,112,Rule generalisation,Research,109,26,3,2023
+2023-10-05,50,Rule generalisation,Research,109,26,3,2023
+2023-10-05,47,Rule generalisation,Research,109,26,3,2023
+2023-10-06,15,Tutoring + related duties,Teaching,109,26,3,2023
+2023-10-06,10,Rule generalisation,Research,109,26,3,2023
+2023-10-06,37,Rule generalisation,Research,109,26,3,2023
+2023-10-06,161,Rule generalisation,Research,109,26,3,2023
+2023-10-09,9,CLE admin,Admin,110,26,3,2023
+2023-10-09,110,Tutoring + related duties,Teaching,110,26,3,2023
+2023-10-09,35,Rule generalisation,Research,110,26,3,2023
+2023-10-09,12,Rule generalisation,Research,110,26,3,2023
+2023-10-09,12,Rule generalisation,Research,110,26,3,2023
+2023-10-09,96,Rule generalisation,Research,110,26,3,2023
+2023-10-10,15,Reading groups,Community,110,26,3,2023
+2023-10-10,32,Reading,Research,110,26,3,2023
+2023-10-10,60,Tutoring + related duties,Teaching,110,26,3,2023
+2023-10-10,11,Tutoring + related duties,Teaching,110,26,3,2023
+2023-10-11,102,Reading,Research,110,26,3,2023
+2023-10-11,60,Tutoring + related duties,Teaching,110,26,3,2023
+2023-10-11,10,Tutoring + related duties,Teaching,110,26,3,2023
+2023-10-11,110,Rule generalisation,Research,110,26,3,2023
+2023-10-12,65,Supervision,Research,110,26,3,2023
+2023-10-12,65,Tutoring + related duties,Teaching,110,26,3,2023
+2023-10-12,29,Tutoring + related duties,Teaching,110,26,3,2023
+2023-10-16,62,Tutoring + related duties,Teaching,111,26,3,2023
+2023-10-16,16,Tutoring + related duties,Teaching,111,26,3,2023
+2023-10-16,34,Tutoring + related duties,Teaching,111,26,3,2023
+2023-10-17,10,Rule learning,Research,111,26,3,2023
+2023-10-17,102,Rule learning,Research,111,26,3,2023
+2023-10-17,63,Rule generalisation,Research,111,26,3,2023
+2023-10-17,11,Stimuli commissions,Community,111,26,3,2023
+2023-10-17,136,Stimuli commissions,Community,111,26,3,2023
+2023-10-17,9,Tutoring + related duties,Teaching,111,26,3,2023
+2023-10-17,50,Tutoring + related duties,Teaching,111,26,3,2023
+2023-10-18,200,Talks/conferences,Community,111,26,3,2023
+2023-10-18,60,Rule generalisation,Research,111,26,3,2023
+2023-10-18,72,Tutoring + related duties,Teaching,111,26,3,2023
+2023-10-18,59,Tutoring + related duties,Teaching,111,26,3,2023
+2023-10-19,108,Rule generalisation,Research,111,26,3,2023
+2023-10-19,15,Rule generalisation,Research,111,26,3,2023
+2023-10-19,39,Rule generalisation,Research,111,26,3,2023
+2023-10-19,75,Supervision,Research,111,26,3,2023
+2023-10-19,60,Tutoring + related duties,Teaching,111,26,3,2023
+2023-10-19,30,Tutoring + related duties,Teaching,111,26,3,2023
+2023-10-19,75,Tutoring + related duties,Teaching,111,26,3,2023
+2023-10-20,22,Simulating H0s,Research,111,26,3,2023
+2023-10-20,110,Rule generalisation,Research,111,26,3,2023
+2023-10-20,111,Rule generalisation,Research,111,26,3,2023
+2023-10-23,6,CLE admin,Admin,112,26,3,2023
+2023-10-23,28,Rule generalisation,Research,112,26,3,2023
+2023-10-23,100,Rule generalisation,Research,112,26,3,2023
+2023-10-23,73,Reading groups,Community,112,26,3,2023
+2023-10-24,13,CLE admin,Admin,112,26,3,2023
+2023-10-24,90,CLE talks,Community,112,26,3,2023
+2023-10-24,124,Rule generalisation,Research,112,26,3,2023
+2023-10-24,60,Reading groups,Community,112,26,3,2023
+2023-10-25,125,Stimuli commissions,Community,112,26,3,2023
+2023-10-25,206,Reviewing,Community,112,26,3,2023
+2023-10-25,50,Reviewing,Community,112,26,3,2023
+2023-10-25,60,Tutoring + related duties,Teaching,112,26,3,2023
+2023-10-25,7,Tutoring + related duties,Teaching,112,26,3,2023
+2023-10-25,30,Tutoring + related duties,Teaching,112,26,3,2023
+2023-10-25,27,Rule generalisation,Research,112,26,3,2023
+2023-10-26,195,Stimuli commissions,Community,112,26,3,2023
+2023-10-26,25,Stimuli commissions,Community,112,26,3,2023
+2023-10-26,24,Supervision,Research,112,26,3,2023
+2023-10-26,60,Tutoring + related duties,Teaching,112,26,3,2023
+2023-10-26,82,Tutoring + related duties,Teaching,112,26,3,2023
+2023-10-27,8,CLE admin,Admin,112,26,3,2023
+2023-10-27,139,Stimuli commissions,Community,112,26,3,2023
+2023-10-30,13,CLE admin,Admin,113,26,3,2023
+2023-10-30,131,Stimuli commissions,Community,113,26,3,2023
+2023-10-30,80,Tutoring + related duties,Teaching,113,26,3,2023
+2023-10-30,78,Tutoring + related duties,Teaching,113,26,3,2023
+2023-10-30,135,Tutoring + related duties,Teaching,113,26,3,2023
+2023-10-31,90,CLE talks,Community,113,26,3,2023
+2023-10-31,17,Simulating H0s,Research,113,26,3,2023
+2023-10-31,22,Simulating H0s,Research,113,26,3,2023
+2023-10-31,71,Stimuli commissions,Community,113,26,3,2023
+2023-10-31,40,Reviewing,Community,113,26,3,2023
+2023-10-31,30,Tutoring + related duties,Teaching,113,26,3,2023
+2023-10-31,64,Rule generalisation,Research,113,26,3,2023
+2023-10-31,39,Rule generalisation,Research,113,26,3,2023
+2023-11-01,30,Tutoring + related duties,Teaching,113,27,3,2023
+2023-11-01,60,Tutoring + related duties,Teaching,113,27,3,2023
+2023-11-01,5,Tutoring + related duties,Teaching,113,27,3,2023
+2023-11-01,27,Tutoring + related duties,Teaching,113,27,3,2023
+2023-11-01,103,Rule generalisation,Research,113,27,3,2023
+2023-11-01,172,Rule generalisation,Research,113,27,3,2023
+2023-11-02,70,Supervision,Research,113,27,3,2023
+2023-11-02,45,Rule generalisation,Research,113,27,3,2023
+2023-11-02,118,Rule generalisation,Research,113,27,3,2023
+2023-11-03,150,Rule generalisation,Research,113,27,3,2023
+2023-11-03,150,Rule generalisation,Research,113,27,3,2023
+2023-11-06,60,Talks/conferences,Community,114,27,3,2023
+2023-11-06,10,Tutoring + related duties,Teaching,114,27,3,2023
+2023-11-06,51,Tutoring + related duties,Teaching,114,27,3,2023
+2023-11-07,65,Reading groups,Community,114,27,3,2023
+2023-11-07,14,Reading groups,Community,114,27,3,2023
+2023-11-07,47,Reading groups,Community,114,27,3,2023
+2023-11-07,15,Reading groups,Community,114,27,3,2023
+2023-11-07,37,Talks/conferences,Community,114,27,3,2023
+2023-11-07,106,Tutoring + related duties,Teaching,114,27,3,2023
+2023-11-08,203,Reading,Research,114,27,3,2023
+2023-11-08,40,Talks/conferences,Community,114,27,3,2023
+2023-11-08,60,Tutoring + related duties,Teaching,114,27,3,2023
+2023-11-08,24,Tutoring + related duties,Teaching,114,27,3,2023
+2023-11-08,90,Tutoring + related duties,Teaching,114,27,3,2023
+2023-11-08,2,Tutoring + related duties,Teaching,114,27,3,2023
+2023-11-09,10,Reading,Research,114,27,3,2023
+2023-11-09,155,Reading,Research,114,27,3,2023
+2023-11-09,90,Supervision,Research,114,27,3,2023
+2023-11-09,60,Tutoring + related duties,Teaching,114,27,3,2023
+2023-11-09,29,Tutoring + related duties,Teaching,114,27,3,2023
+2023-11-09,30,Tutoring + related duties,Teaching,114,27,3,2023
+2023-11-09,14,Tutoring + related duties,Teaching,114,27,3,2023
+2023-11-10,40,Rule learning,Research,114,27,3,2023
+2023-11-10,165,Rule learning,Research,114,27,3,2023
+2023-11-10,120,Tutoring + related duties,Teaching,114,27,3,2023
+2023-11-13,128,Tutoring + related duties,Teaching,115,27,3,2023
+2023-11-13,171,Tutoring + related duties,Teaching,115,27,3,2023
+2023-11-13,15,Tutoring + related duties,Teaching,115,27,3,2023
+2023-11-13,30,Tutoring + related duties,Teaching,115,27,3,2023
+2023-11-14,120,Tutoring + related duties,Teaching,115,27,3,2023
+2023-11-14,172,Tutoring + related duties,Teaching,115,27,3,2023
+2023-11-14,54,Tutoring + related duties,Teaching,115,27,3,2023
+2023-11-14,37,Tutoring + related duties,Teaching,115,27,3,2023
+2023-11-14,19,Tutoring + related duties,Teaching,115,27,3,2023
+2023-11-15,60,Tutoring + related duties,Teaching,115,27,3,2023
+2023-11-15,51,Tutoring + related duties,Teaching,115,27,3,2023
+2023-11-15,241,Tutoring + related duties,Teaching,115,27,3,2023
+2023-11-15,17,Tutoring + related duties,Teaching,115,27,3,2023
+2023-11-15,30,Tutoring + related duties,Teaching,115,27,3,2023
+2023-11-15,29,Tutoring + related duties,Teaching,115,27,3,2023
+2023-11-16,67,Supervision,Research,115,27,3,2023
+2023-11-16,60,Tutoring + related duties,Teaching,115,27,3,2023
+2023-11-16,168,Tutoring + related duties,Teaching,115,27,3,2023
+2023-11-16,119,Tutoring + related duties,Teaching,115,27,3,2023
+2023-11-17,30,CLE admin,Admin,115,27,3,2023
+2023-11-17,174,Tutoring + related duties,Teaching,115,27,3,2023
+2023-11-17,20,Tutoring + related duties,Teaching,115,27,3,2023
+2023-11-17,94,Tutoring + related duties,Teaching,115,27,3,2023
+2023-11-20,8,CLE admin,Admin,116,27,3,2023
+2023-11-20,90,Talks/conferences,Community,116,27,3,2023
+2023-11-20,50,Tutoring + related duties,Teaching,116,27,3,2023
+2023-11-20,125,Tutoring + related duties,Teaching,116,27,3,2023
+2023-11-20,50,Tutoring + related duties,Teaching,116,27,3,2023
+2023-11-21,90,CLE talks,Community,116,27,3,2023
+2023-11-21,58,Reading groups,Community,116,27,3,2023
+2023-11-21,60,Reading groups,Community,116,27,3,2023
+2023-11-21,84,Tutoring + related duties,Teaching,116,27,3,2023
+2023-11-21,30,Tutoring + related duties,Teaching,116,27,3,2023
+2023-11-21,45,Tutoring + related duties,Teaching,116,27,3,2023
+2023-11-21,35,Tutoring + related duties,Teaching,116,27,3,2023
+2023-11-21,30,Tutoring + related duties,Teaching,116,27,3,2023
+2023-11-22,60,Tutoring + related duties,Teaching,116,27,3,2023
+2023-11-22,59,Tutoring + related duties,Teaching,116,27,3,2023
+2023-11-22,240,Tutoring + related duties,Teaching,116,27,3,2023
+2023-11-23,8,Rule learning,Research,116,27,3,2023
+2023-11-23,64,Rule learning,Research,116,27,3,2023
+2023-11-23,19,Simulating H0s,Research,116,27,3,2023
+2023-11-23,60,Tutoring + related duties,Teaching,116,27,3,2023
+2023-11-23,94,Tutoring + related duties,Teaching,116,27,3,2023
+2023-11-23,30,Tutoring + related duties,Teaching,116,27,3,2023
+2023-11-23,45,Rule generalisation,Research,116,27,3,2023
+2023-11-27,19,Simulating H0s,Research,117,27,3,2023
+2023-11-27,90,Talks/conferences,Community,117,27,3,2023
+2023-11-27,101,Tutoring + related duties,Teaching,117,27,3,2023
+2023-11-27,12,Rule generalisation,Research,117,27,3,2023
+2023-11-27,210,Rule generalisation,Research,117,27,3,2023
+2023-11-27,15,Rule generalisation,Research,117,27,3,2023
+2023-11-28,208,Rule generalisation,Research,117,27,3,2023
+2023-11-28,46,Rule generalisation,Research,117,27,3,2023
+2023-11-28,60,Tutoring + related duties,Teaching,117,27,3,2023
+2023-11-28,36,Tutoring + related duties,Teaching,117,27,3,2023
+2023-11-28,30,Tutoring + related duties,Teaching,117,27,3,2023
+2023-11-29,100,Rule generalisation,Research,117,27,3,2023
+2023-11-29,60,Tutoring + related duties,Teaching,117,27,3,2023
+2023-11-29,60,Tutoring + related duties,Teaching,117,27,3,2023
+2023-11-29,89,Tutoring + related duties,Teaching,117,27,3,2023
+2023-11-29,80,Tutoring + related duties,Teaching,117,27,3,2023
+2023-11-30,89,Rule generalisation,Research,117,27,3,2023
+2023-11-30,90,Supervision,Research,117,27,3,2023
+2023-12-01,83,Rule generalisation,Research,117,28,3,2023
+2023-12-01,40,Rule generalisation,Research,117,28,3,2023
+2023-12-01,85,Rule generalisation,Research,117,28,3,2023
+2023-12-04,10,Stimuli commissions,Community,118,28,3,2023
+2023-12-04,125,Non-thesis project,Research,118,28,3,2023
+2023-12-04,191,Non-thesis project,Research,118,28,3,2023
+2023-12-05,90,CLE talks,Community,118,28,3,2023
+2023-12-05,15,Reading groups,Community,118,28,3,2023
+2023-12-05,60,Reading groups,Community,118,28,3,2023
+2023-12-05,94,Stimuli commissions,Community,118,28,3,2023
+2023-12-07,97,Supervision,Research,118,28,3,2023
+2023-12-07,165,Non-thesis project,Research,118,28,3,2023
+2023-12-07,120,Non-thesis project,Research,118,28,3,2023
+2023-12-08,95,Tutoring + related duties,Teaching,118,28,3,2023
+2023-12-11,16,CLE admin,Admin,119,28,3,2023
+2023-12-11,150,Non-thesis project,Research,119,28,3,2023
+2023-12-12,176,Non-thesis project,Research,119,28,3,2023
+2023-12-12,2,Tutoring + related duties,Teaching,119,28,3,2023
+2023-12-13,55,Non-thesis project,Research,119,28,3,2023
+2023-12-13,170,Non-thesis project,Research,119,28,3,2023
+2023-12-13,190,Non-thesis project,Research,119,28,3,2023
+2023-12-14,105,Stimuli commissions,Community,119,28,3,2023
+2023-12-14,78,Tutoring + related duties,Teaching,119,28,3,2023
+2023-12-14,121,Tutoring + related duties,Teaching,119,28,3,2023
+2023-12-14,116,Tutoring + related duties,Teaching,119,28,3,2023
+2023-12-15,45,Stimuli commissions,Community,119,28,3,2023
+2023-12-15,93,Tutoring + related duties,Teaching,119,28,3,2023
+2023-12-15,54,Tutoring + related duties,Teaching,119,28,3,2023
+2023-12-15,133,Tutoring + related duties,Teaching,119,28,3,2023
+2023-12-15,25,Tutoring + related duties,Teaching,119,28,3,2023
+2023-12-16,40,Stimuli commissions,Community,119,28,3,2023
+2023-12-16,108,Tutoring + related duties,Teaching,119,28,3,2023
+2023-12-16,39,Tutoring + related duties,Teaching,119,28,3,2023
+2023-12-16,138,Tutoring + related duties,Teaching,119,28,3,2023
+2023-12-16,27,Tutoring + related duties,Teaching,119,28,3,2023
+2023-12-18,79,Tutoring + related duties,Teaching,120,28,3,2023
+2023-12-18,95,Tutoring + related duties,Teaching,120,28,3,2023
+2023-12-19,161,Stimuli commissions,Community,120,28,3,2023
+2024-01-10,9,Tutoring + related duties,Teaching,123,29,3,2024
+2024-01-10,10,Tutoring + related duties,Teaching,123,29,3,2024
+2024-01-11,400,Talks/conferences,Community,123,29,3,2024
+2024-01-11,24,Non-thesis project,Research,123,29,3,2024
+2024-01-15,29,CLE admin,Admin,124,29,3,2024
+2024-01-15,8,CLE admin,Admin,124,29,3,2024
+2024-01-15,134,Non-thesis project,Research,124,29,3,2024
+2024-01-15,62,Non-thesis project,Research,124,29,3,2024
+2024-01-15,27,Tutoring + related duties,Teaching,124,29,3,2024
+2024-01-16,90,CLE talks,Community,124,29,3,2024
+2024-01-16,60,Reading groups,Community,124,29,3,2024
+2024-01-16,49,Reading groups,Community,124,29,3,2024
+2024-01-16,47,Word segmentation,Research,124,29,3,2024
+2024-01-16,37,Non-thesis project,Research,124,29,3,2024
+2024-01-16,23,Non-thesis project,Research,124,29,3,2024
+2024-01-16,60,Tutoring + related duties,Teaching,124,29,3,2024
+2024-01-16,45,Tutoring + related duties,Teaching,124,29,3,2024
+2024-01-17,55,Rule learning,Research,124,29,3,2024
+2024-01-17,25,Word segmentation,Research,124,29,3,2024
+2024-01-17,264,Word segmentation,Research,124,29,3,2024
+2024-01-17,60,Tutoring + related duties,Teaching,124,29,3,2024
+2024-01-18,150,Rule learning,Research,124,29,3,2024
+2024-01-18,79,Rule learning,Research,124,29,3,2024
+2024-01-18,105,Word segmentation,Research,124,29,3,2024
+2024-01-18,47,Supervision,Research,124,29,3,2024
+2024-01-19,24,Rule learning,Research,124,29,3,2024
+2024-01-19,61,Rule learning,Research,124,29,3,2024
+2024-01-19,182,Simulating H0s,Research,124,29,3,2024
+2024-01-19,125,Word segmentation,Research,124,29,3,2024
+2024-01-22,3,Rule learning,Research,125,29,3,2024
+2024-01-22,7,CLE admin,Admin,125,29,3,2024
+2024-01-22,77,Simulating H0s,Research,125,29,3,2024
+2024-01-22,69,Simulating H0s,Research,125,29,3,2024
+2024-01-22,70,Simulating H0s,Research,125,29,3,2024
+2024-01-22,64,Simulating H0s,Research,125,29,3,2024
+2024-01-22,35,Word segmentation,Research,125,29,3,2024
+2024-01-22,13,Tutoring + related duties,Teaching,125,29,3,2024
+2024-01-22,29,Tutoring + related duties,Teaching,125,29,3,2024
+2024-01-23,43,Rule learning,Research,125,29,3,2024
+2024-01-23,90,CLE talks,Community,125,29,3,2024
+2024-01-23,49,AFHEA accreditation,Teaching,125,29,3,2024
+2024-01-23,9,Word segmentation,Research,125,29,3,2024
+2024-01-23,95,Word segmentation,Research,125,29,3,2024
+2024-01-23,99,Non-thesis project,Research,125,29,3,2024
+2024-01-23,60,Tutoring + related duties,Teaching,125,29,3,2024
+2024-01-23,30,Tutoring + related duties,Teaching,125,29,3,2024
+2024-01-24,250,Rule learning,Research,125,29,3,2024
+2024-01-24,60,Tutoring + related duties,Teaching,125,29,3,2024
+2024-01-25,6,Rule learning,Research,125,29,3,2024
+2024-01-25,105,Rule generalisation,Research,125,29,3,2024
+2024-01-25,149,Rule generalisation,Research,125,29,3,2024
+2024-01-25,49,Rule generalisation,Research,125,29,3,2024
+2024-01-25,70,Supervision,Research,125,29,3,2024
+2024-01-26,196,Rule generalisation,Research,125,29,3,2024
+2024-01-26,120,Rule generalisation,Research,125,29,3,2024
+2024-01-29,9,CLE admin,Admin,126,29,3,2024
+2024-01-29,10,Simulating H0s,Research,126,29,3,2024
+2024-01-29,254,Rule generalisation,Research,126,29,3,2024
+2024-01-29,50,Rule generalisation,Research,126,29,3,2024
+2024-01-30,90,CLE talks,Community,126,29,3,2024
+2024-01-30,40,Talks/conferences,Community,126,29,3,2024
+2024-01-30,30,Non-thesis project,Research,126,29,3,2024
+2024-01-30,60,Tutoring + related duties,Teaching,126,29,3,2024
+2024-01-30,44,Tutoring + related duties,Teaching,126,29,3,2024
+2024-01-30,31,Rule generalisation,Research,126,29,3,2024
+2024-01-30,40,Rule generalisation,Research,126,29,3,2024
+2024-01-31,30,Simulating H0s,Research,126,29,3,2024
+2024-01-31,60,Tutoring + related duties,Teaching,126,29,3,2024
+2024-01-31,50,Tutoring + related duties,Teaching,126,29,3,2024
+2024-01-31,62,Rule generalisation,Research,126,29,3,2024
+2024-01-31,77,Rule generalisation,Research,126,29,3,2024
+2024-01-31,124,Rule generalisation,Research,126,29,3,2024
+2024-02-01,225,Simulating H0s,Research,126,30,3,2024
+2024-02-01,64,Simulating H0s,Research,126,30,3,2024
+2024-02-01,40,AFHEA accreditation,Teaching,126,30,3,2024
+2024-02-01,32,AFHEA accreditation,Teaching,126,30,3,2024
+2024-02-02,29,AFHEA accreditation,Teaching,126,30,3,2024
+2024-02-02,204,Rule generalisation,Research,126,30,3,2024
+2024-02-05,10,CLE admin,Admin,127,30,3,2024
+2024-02-05,90,Tutoring + related duties,Teaching,127,30,3,2024
+2024-02-05,100,Rule generalisation,Research,127,30,3,2024
+2024-02-05,180,Rule generalisation,Research,127,30,3,2024
+2024-02-06,90,CLE talks,Community,127,30,3,2024
+2024-02-06,60,Tutoring + related duties,Teaching,127,30,3,2024
+2024-02-06,120,Tutoring + related duties,Teaching,127,30,3,2024
+2024-02-06,35,Tutoring + related duties,Teaching,127,30,3,2024
+2024-02-06,140,Rule generalisation,Research,127,30,3,2024
+2024-02-07,180,AFHEA accreditation,Teaching,127,30,3,2024
+2024-02-07,200,Rule generalisation,Research,127,30,3,2024
+2024-02-08,65,Supervision,Research,127,30,3,2024
+2024-02-08,130,Rule generalisation,Research,127,30,3,2024
+2024-02-09,142,Rule structure generalisation,Research,127,30,3,2024
+2024-02-09,176,Reading,Research,127,30,3,2024
+2024-02-09,115,Non-thesis project,Research,127,30,3,2024
+2024-02-18,73,AFHEA accreditation,Teaching,128,30,3,2024
+2024-02-18,46,AFHEA accreditation,Teaching,128,30,3,2024
+2024-02-22,195,Rule structure generalisation,Research,129,30,3,2024
+2024-02-22,14,Rule structure generalisation,Research,129,30,3,2024
+2024-02-22,70,Rule structure generalisation,Research,129,30,3,2024
+2024-02-22,90,Supervision,Research,129,30,3,2024
+2024-02-22,7,Tutoring + related duties,Teaching,129,30,3,2024
+2024-02-23,96,Rule generalisation,Research,129,30,3,2024
+2024-02-23,173,Rule generalisation,Research,129,30,3,2024
+2024-02-26,6,CLE admin,Admin,130,30,3,2024
+2024-02-26,100,AFHEA accreditation,Teaching,130,30,3,2024
+2024-02-26,91,AFHEA accreditation,Teaching,130,30,3,2024
+2024-02-26,59,Reading groups,Community,130,30,3,2024
+2024-02-26,90,Tutoring + related duties,Teaching,130,30,3,2024
+2024-02-26,15,Rule generalisation,Research,130,30,3,2024
+2024-02-27,90,CLE talks,Community,130,30,3,2024
+2024-02-27,34,AFHEA accreditation,Teaching,130,30,3,2024
+2024-02-27,49,Reading groups,Community,130,30,3,2024
+2024-02-27,60,Tutoring + related duties,Teaching,130,30,3,2024
+2024-02-27,60,Tutoring + related duties,Teaching,130,30,3,2024
+2024-02-27,30,Tutoring + related duties,Teaching,130,30,3,2024
+2024-02-27,85,Rule generalisation,Research,130,30,3,2024
+2024-02-28,76,Rule structure generalisation,Research,130,30,3,2024
+2024-02-28,23,Rule structure generalisation,Research,130,30,3,2024
+2024-02-28,5,Rule structure generalisation,Research,130,30,3,2024
+2024-02-28,25,Word segmentation,Research,130,30,3,2024
+2024-02-28,60,Tutoring + related duties,Teaching,130,30,3,2024
+2024-02-29,44,Rule structure generalisation,Research,130,30,3,2024
+2024-02-29,90,Supervision,Research,130,30,3,2024
+2024-02-29,11,Tutoring + related duties,Teaching,130,30,3,2024
+2024-02-29,78,Rule generalisation,Research,130,30,3,2024
+2024-03-01,123,Rule structure generalisation,Research,130,31,3,2024
+2024-03-01,173,AFHEA accreditation,Teaching,130,31,3,2024
+2024-03-01,49,AFHEA accreditation,Teaching,130,31,3,2024
+2024-03-04,184,Rule structure generalisation,Research,131,31,3,2024
+2024-03-04,10,CLE admin,Admin,131,31,3,2024
+2024-03-04,30,Reading,Research,131,31,3,2024
+2024-03-04,40,Tutoring + related duties,Teaching,131,31,3,2024
+2024-03-04,32,Tutoring + related duties,Teaching,131,31,3,2024
+2024-03-05,90,CLE talks,Community,131,31,3,2024
+2024-03-05,38,Reading groups,Community,131,31,3,2024
+2024-03-05,30,Simulating H0s,Research,131,31,3,2024
+2024-03-05,60,Tutoring + related duties,Teaching,131,31,3,2024
+2024-03-05,30,Tutoring + related duties,Teaching,131,31,3,2024
+2024-03-05,30,Tutoring + related duties,Teaching,131,31,3,2024
+2024-03-05,63,Tutoring + related duties,Teaching,131,31,3,2024
+2024-03-05,17,Rule generalisation,Research,131,31,3,2024
+2024-03-05,51,Rule generalisation,Research,131,31,3,2024
+2024-03-06,90,Reading groups,Community,131,31,3,2024
+2024-03-06,20,Simulating H0s,Research,131,31,3,2024
+2024-03-06,180,AFHEA accreditation,Teaching,131,31,3,2024
+2024-03-07,106,Rule structure generalisation,Research,131,31,3,2024
+2024-03-07,54,Rule structure generalisation,Research,131,31,3,2024
+2024-03-07,19,Rule structure generalisation,Research,131,31,3,2024
+2024-03-07,160,Rule structure generalisation,Research,131,31,3,2024
+2024-03-07,9,Word segmentation,Research,131,31,3,2024
+2024-03-07,65,Supervision,Research,131,31,3,2024
+2024-03-08,12,Rule learning,Research,131,31,3,2024
+2024-03-11,91,Rule structure generalisation,Research,132,31,3,2024
+2024-03-11,133,Rule structure generalisation,Research,132,31,3,2024
+2024-03-11,15,CLE admin,Admin,132,31,3,2024
+2024-03-11,54,Tutoring + related duties,Teaching,132,31,3,2024
+2024-03-11,31,Tutoring + related duties,Teaching,132,31,3,2024
+2024-03-12,23,Rule structure generalisation,Research,132,31,3,2024
+2024-03-12,85,Rule structure generalisation,Research,132,31,3,2024
+2024-03-12,10,AFHEA accreditation,Teaching,132,31,3,2024
+2024-03-12,59,Reading groups,Community,132,31,3,2024
+2024-03-12,74,Reading groups,Community,132,31,3,2024
+2024-03-12,60,Tutoring + related duties,Teaching,132,31,3,2024
+2024-03-12,60,Tutoring + related duties,Teaching,132,31,3,2024
+2024-03-12,30,Tutoring + related duties,Teaching,132,31,3,2024
+2024-03-13,127,Rule structure generalisation,Research,132,31,3,2024
+2024-03-13,60,Tutoring + related duties,Teaching,132,31,3,2024
+2024-03-13,83,Rule generalisation,Research,132,31,3,2024
+2024-03-13,122,Rule generalisation,Research,132,31,3,2024
+2024-03-14,90,Supervision,Research,132,31,3,2024
+2024-03-14,97,Rule generalisation,Research,132,31,3,2024
+2024-03-15,208,Rule generalisation,Research,132,31,3,2024
+2024-03-15,47,Rule generalisation,Research,132,31,3,2024
+2024-03-18,12,CLE admin,Admin,133,31,3,2024
+2024-03-18,59,Talks/conferences,Community,133,31,3,2024
+2024-03-18,59,Tutoring + related duties,Teaching,133,31,3,2024
+2024-03-18,242,Rule generalisation,Research,133,31,3,2024
+2024-03-19,35,Rule learning,Research,133,31,3,2024
+2024-03-19,50,Reading groups,Community,133,31,3,2024
+2024-03-19,60,Tutoring + related duties,Teaching,133,31,3,2024
+2024-03-19,120,Tutoring + related duties,Teaching,133,31,3,2024
+2024-03-19,30,Tutoring + related duties,Teaching,133,31,3,2024
+2024-03-20,50,Rule structure generalisation,Research,133,31,3,2024
+2024-03-20,71,Rule structure generalisation,Research,133,31,3,2024
+2024-03-20,65,Reading groups,Community,133,31,3,2024
+2024-03-20,60,Tutoring + related duties,Teaching,133,31,3,2024
+2024-03-21,176,Rule structure generalisation,Research,133,31,3,2024
+2024-03-21,148,Rule structure generalisation,Research,133,31,3,2024
+2024-03-21,75,Supervision,Research,133,31,3,2024
+2024-03-22,250,Rule generalisation,Research,133,31,3,2024
+2024-03-22,5,Rule generalisation,Research,133,31,3,2024
+2024-03-22,118,Rule generalisation,Research,133,31,3,2024
+2024-03-23,23,AFHEA accreditation,Teaching,133,31,3,2024
+2024-03-23,48,Rule generalisation,Research,133,31,3,2024
+2024-03-23,59,Rule generalisation,Research,133,31,3,2024
+2024-03-23,45,Rule generalisation,Research,133,31,3,2024
+2024-03-23,68,Rule generalisation,Research,133,31,3,2024
+2024-03-23,189,Rule generalisation,Research,133,31,3,2024
+2024-03-25,14,CLE admin,Admin,134,31,3,2024
+2024-03-25,170,Rule generalisation,Research,134,31,3,2024
+2024-03-25,40,Rule generalisation,Research,134,31,3,2024
+2024-03-26,90,CLE talks,Community,134,31,3,2024
+2024-03-26,60,AFHEA accreditation,Teaching,134,31,3,2024
+2024-03-26,55,AFHEA accreditation,Teaching,134,31,3,2024
+2024-03-26,60,Tutoring + related duties,Teaching,134,31,3,2024
+2024-03-27,92,Rule learning,Research,134,31,3,2024
+2024-03-27,40,Rule learning,Research,134,31,3,2024
+2024-03-27,15,Rule learning,Research,134,31,3,2024
+2024-03-27,47,AFHEA accreditation,Teaching,134,31,3,2024
+2024-03-28,22,Rule structure generalisation,Research,134,31,3,2024
+2024-03-28,90,Supervision,Research,134,31,3,2024
+2024-03-28,90,Talks/conferences,Community,134,31,3,2024
+2024-04-01,29,Rule learning,Research,135,32,3,2024
+2024-04-01,115,AFHEA accreditation,Teaching,135,32,3,2024
+2024-04-01,176,AFHEA accreditation,Teaching,135,32,3,2024
+2024-04-01,13,Rule generalisation,Research,135,32,3,2024
+2024-04-02,44,Rule structure generalisation,Research,135,32,3,2024
+2024-04-02,43,Reading groups,Community,135,32,3,2024
+2024-04-02,5,Reading groups,Community,135,32,3,2024
+2024-04-02,30,Tutoring + related duties,Teaching,135,32,3,2024
+2024-04-02,30,Tutoring + related duties,Teaching,135,32,3,2024
+2024-04-03,114,Rule learning,Research,135,32,3,2024
+2024-04-03,30,Rule learning,Research,135,32,3,2024
+2024-04-03,75,Reading groups,Community,135,32,3,2024
+2024-04-03,180,AFHEA accreditation,Teaching,135,32,3,2024
+2024-04-04,60,Rule learning,Research,135,32,3,2024
+2024-04-04,60,Rule learning,Research,135,32,3,2024
+2024-04-04,36,Rule structure generalisation,Research,135,32,3,2024
+2024-04-04,80,Talks/conferences,Community,135,32,3,2024
+2024-04-04,45,Reading,Research,135,32,3,2024
+2024-04-04,90,Supervision,Research,135,32,3,2024
+2024-04-04,36,Rule generalisation,Research,135,32,3,2024
+2024-04-05,239,Rule structure generalisation,Research,135,32,3,2024
+2024-04-05,87,Rule structure generalisation,Research,135,32,3,2024
+2024-04-05,46,Rule structure generalisation,Research,135,32,3,2024
+2024-04-05,10,Rule structure generalisation,Research,135,32,3,2024
+2024-04-05,11,AFHEA accreditation,Teaching,135,32,3,2024
+2024-04-05,60,Tutoring + related duties,Teaching,135,32,3,2024
+2024-04-08,91,Rule structure generalisation,Research,136,32,3,2024
+2024-04-08,176,Tutoring + related duties,Teaching,136,32,3,2024
+2024-04-08,110,Tutoring + related duties,Teaching,136,32,3,2024
+2024-04-09,100,Rule structure generalisation,Research,136,32,3,2024
+2024-04-09,135,Rule structure generalisation,Research,136,32,3,2024
+2024-04-09,25,Rule structure generalisation,Research,136,32,3,2024
+2024-04-09,60,Reading groups,Community,136,32,3,2024
+2024-04-09,60,Reading groups,Community,136,32,3,2024
+2024-04-10,30,Tutoring + related duties,Teaching,136,32,3,2024
+2024-04-10,151,AFHEA accreditation,Teaching,136,32,3,2024
+2024-04-10,50,AFHEA accreditation,Teaching,136,32,3,2024
+2024-04-10,85,AFHEA accreditation,Teaching,136,32,3,2024
+2024-04-11,96,Rule learning,Research,136,32,3,2024
+2024-04-11,7,Tutoring + related duties,Teaching,136,32,3,2024
+2024-04-11,60,AFHEA accreditation,Teaching,136,32,3,2024
+2024-04-11,58,AFHEA accreditation,Teaching,136,32,3,2024
+2024-04-11,11,Tutoring + related duties,Teaching,136,32,3,2024
+2024-04-15,256,Rule learning,Research,137,32,3,2024
+2024-04-15,151,Rule learning,Research,137,32,3,2024
+2024-04-15,8,CLE admin,Admin,137,32,3,2024
+2024-04-15,14,AFHEA accreditation,Teaching,137,32,3,2024
+2024-04-16,90,CLE talks,Community,137,32,3,2024
+2024-04-16,112,Reading groups,Community,137,32,3,2024
+2024-04-16,60,Stimuli commissions,Community,137,32,3,2024
+2024-04-17,18,Rule learning,Research,137,32,3,2024
+2024-04-17,32,Rule learning,Research,137,32,3,2024
+2024-04-17,57,Rule learning,Research,137,32,3,2024
+2024-04-17,91,Rule learning,Research,137,32,3,2024
+2024-04-17,9,Tutoring + related duties,Teaching,137,32,3,2024
+2024-04-17,20,Reading groups,Community,137,32,3,2024
+2024-04-17,90,Reading groups,Community,137,32,3,2024
+2024-04-18,35,Rule structure generalisation,Research,137,32,3,2024
+2024-04-18,55,Rule structure generalisation,Research,137,32,3,2024
+2024-04-18,90,Supervision,Research,137,32,3,2024
+2024-04-18,15,Tutoring + related duties,Teaching,137,32,3,2024
+2024-04-19,60,Rule structure generalisation,Research,137,32,3,2024
+2024-04-19,84,Stimuli commissions,Community,137,32,3,2024
+2024-04-19,150,Stimuli commissions,Community,137,32,3,2024
+2024-04-19,227,Stimuli commissions,Community,137,32,3,2024
+2024-04-22,173,Rule structure generalisation,Research,138,32,3,2024
+2024-04-22,15,CLE admin,Admin,138,32,3,2024
+2024-04-22,55,AFHEA accreditation,Teaching,138,32,3,2024
+2024-04-22,53,Stimuli commissions,Community,138,32,3,2024
+2024-04-22,16,Rule generalisation,Research,138,32,3,2024
+2024-04-22,49,Rule generalisation,Research,138,32,3,2024
+2024-04-23,14,Rule learning,Research,138,32,3,2024
+2024-04-23,55,Rule learning,Research,138,32,3,2024
+2024-04-23,20,Rule learning,Research,138,32,3,2024
+2024-04-23,90,CLE talks,Community,138,32,3,2024
+2024-04-23,43,AFHEA accreditation,Teaching,138,32,3,2024
+2024-04-23,60,AFHEA accreditation,Teaching,138,32,3,2024
+2024-04-24,165,Rule learning,Research,138,32,3,2024
+2024-04-24,147,Rule learning,Research,138,32,3,2024
+2024-04-25,85,Rule learning,Research,138,32,3,2024
+2024-04-25,27,Rule structure generalisation,Research,138,32,3,2024
+2024-04-25,9,AFHEA accreditation,Teaching,138,32,3,2024
+2024-04-25,90,Supervision,Research,138,32,3,2024
+2024-04-26,5,Rule learning,Research,138,32,3,2024
+2024-04-26,20,Rule learning,Research,138,32,3,2024
+2024-04-26,29,Rule learning,Research,138,32,3,2024
+2024-04-26,27,Rule learning,Research,138,32,3,2024
+2024-04-26,71,Stimuli commissions,Community,138,32,3,2024
+2024-04-26,5,Stimuli commissions,Community,138,32,3,2024
+2024-04-26,52,Stimuli commissions,Community,138,32,3,2024
+2024-04-26,176,Stimuli commissions,Community,138,32,3,2024
+2024-04-29,20,Rule structure generalisation,Research,139,32,3,2024
+2024-04-29,20,CLE admin,Admin,139,32,3,2024
+2024-04-29,85,Simulating H0s,Research,139,32,3,2024
+2024-04-29,81,AFHEA accreditation,Teaching,139,32,3,2024
+2024-04-29,76,AFHEA accreditation,Teaching,139,32,3,2024
+2024-04-29,30,Tutoring + related duties,Teaching,139,32,3,2024
+2024-04-29,104,Stimuli commissions,Community,139,32,3,2024
+2024-04-30,6,Tutoring + related duties,Teaching,139,32,3,2024
+2024-04-30,209,Rule generalisation,Research,139,32,3,2024
+2024-05-01,20,Tutoring + related duties,Teaching,139,33,3,2024
+2024-05-01,167,Rule generalisation,Research,139,33,3,2024
+2024-05-02,92,Rule learning,Research,139,33,3,2024
+2024-05-02,11,AFHEA accreditation,Teaching,139,33,3,2024
+2024-05-02,30,Tutoring + related duties,Teaching,139,33,3,2024
+2024-05-02,78,Tutoring + related duties,Teaching,139,33,3,2024
+2024-05-02,30,Tutoring + related duties,Teaching,139,33,3,2024
+2024-05-02,15,Stimuli commissions,Community,139,33,3,2024
+2024-05-03,175,Rule learning,Research,139,33,3,2024
+2024-05-03,74,Rule learning,Research,139,33,3,2024
+2024-05-03,73,Tutoring + related duties,Teaching,139,33,3,2024
+2024-05-06,113,AFHEA accreditation,Teaching,140,33,3,2024
+2024-05-06,8,AFHEA accreditation,Teaching,140,33,3,2024
+2024-05-06,51,AFHEA accreditation,Teaching,140,33,3,2024
+2024-05-06,93,Reading groups,Community,140,33,3,2024
+2024-05-06,16,Tutoring + related duties,Teaching,140,33,3,2024
+2024-05-06,91,Tutoring + related duties,Teaching,140,33,3,2024
+2024-05-07,60,Reading groups,Community,140,33,3,2024
+2024-05-07,60,Tutoring + related duties,Teaching,140,33,3,2024
+2024-05-07,6,Stimuli commissions,Community,140,33,3,2024
+2024-05-07,45,Stimuli commissions,Community,140,33,3,2024
+2024-05-07,30,Rule generalisation,Research,140,33,3,2024
+2024-05-07,70,Rule generalisation,Research,140,33,3,2024
+2024-05-08,29,Rule generalisation,Research,140,33,3,2024
+2024-05-09,128,Rule generalisation,Research,140,33,3,2024
+2024-05-09,93,Rule generalisation,Research,140,33,3,2024
+2024-05-10,95,Rule learning,Research,140,33,3,2024
+2024-05-13,7,CLE admin,Admin,141,33,3,2024
+2024-05-14,90,CLE talks,Community,141,33,3,2024
+2024-05-16,39,Reviewing,Community,141,33,3,2024
+2024-05-16,59,Rule generalisation,Research,141,33,3,2024
+2024-05-27,22,CLE admin,Admin,143,33,3,2024
+2024-05-27,102,Talks/conferences,Community,143,33,3,2024
+2024-05-27,83,Reading groups,Community,143,33,3,2024
+2024-05-27,28,Reading groups,Community,143,33,3,2024
+2024-05-27,66,Reviewing,Community,143,33,3,2024
+2024-05-28,140,Rule learning,Research,143,33,3,2024
+2024-05-28,90,CLE talks,Community,143,33,3,2024
+2024-05-28,40,Talks/conferences,Community,143,33,3,2024
+2024-05-28,60,Reading groups,Community,143,33,3,2024
+2024-05-28,35,Reviewing,Community,143,33,3,2024
+2024-05-28,26,Rule generalisation,Research,143,33,3,2024
+2024-05-29,124,Rule learning,Research,143,33,3,2024
+2024-05-29,101,Reading groups,Community,143,33,3,2024
+2024-05-29,41,Reviewing,Community,143,33,3,2024
+2024-05-29,115,Reviewing,Community,143,33,3,2024
+2024-05-29,60,Talks/conferences,Community,143,33,3,2024
+2024-05-30,69,Tutoring + related duties,Teaching,143,33,3,2024
+2024-05-30,55,Tutoring + related duties,Teaching,143,33,3,2024
+2024-05-30,16,Tutoring + related duties,Teaching,143,33,3,2024
+2024-05-30,44,Talks/conferences,Community,143,33,3,2024
+2024-05-30,72,Reviewing,Community,143,33,3,2024
+2024-05-30,18,Reviewing,Community,143,33,3,2024
+2024-05-30,60,Reviewing,Community,143,33,3,2024
+2024-05-30,40,Supervision,Research,143,33,3,2024
+2024-05-31,105,Reviewing,Community,143,33,3,2024
+2024-05-31,142,Rule generalisation,Research,143,33,3,2024
+2024-06-03,144,Rule generalisation,Research,144,34,3,2024
+2024-06-03,344,Rule generalisation,Research,144,34,3,2024
+2024-06-04,390,Talks/conferences,Community,144,34,3,2024
+2024-06-04,85,Rule generalisation,Research,144,34,3,2024
+2024-06-05,60,Talks/conferences,Community,144,34,3,2024
+2024-06-05,150,Talks/conferences,Community,144,34,3,2024
+2024-06-05,40,Rule generalisation,Research,144,34,3,2024
+2024-06-05,75,Rule generalisation,Research,144,34,3,2024
+2024-06-06,80,Rule structure generalisation,Research,144,34,3,2024
+2024-06-06,9,CLE admin,Admin,144,34,3,2024
+2024-06-06,35,Talks/conferences,Community,144,34,3,2024
+2024-06-06,90,Supervision,Research,144,34,3,2024
+2024-06-06,39,Rule generalisation,Research,144,34,3,2024
+2024-06-06,20,Rule generalisation,Research,144,34,3,2024
+2024-06-06,56,Rule generalisation,Research,144,34,3,2024
+2024-06-06,14,Rule generalisation,Research,144,34,3,2024
+2024-06-07,14,Rule structure generalisation,Research,144,34,3,2024
+2024-06-07,48,Rule structure generalisation,Research,144,34,3,2024
+2024-06-07,118,Tutoring + related duties,Teaching,144,34,3,2024
+2024-06-07,60,Reading groups,Community,144,34,3,2024
+2024-06-10,100,Tutoring + related duties,Teaching,145,34,3,2024
+2024-06-10,90,Tutoring + related duties,Teaching,145,34,3,2024
+2024-06-10,90,Tutoring + related duties,Teaching,145,34,3,2024
+2024-06-10,18,CLE admin,Admin,145,34,3,2024
+2024-06-11,24,Rule structure generalisation,Research,145,34,3,2024
+2024-06-11,20,Rule structure generalisation,Research,145,34,3,2024
+2024-06-11,135,Rule structure generalisation,Research,145,34,3,2024
+2024-06-11,90,CLE talks,Community,145,34,3,2024
+2024-06-11,60,Reading groups,Community,145,34,3,2024
+2024-06-11,13,Reading groups,Community,145,34,3,2024
+2024-06-11,30,Tutoring + related duties,Teaching,145,34,3,2024
+2024-06-12,45,Rule structure generalisation,Research,145,34,3,2024
+2024-06-12,10,Rule structure generalisation,Research,145,34,3,2024
+2024-06-12,128,Tutoring + related duties,Teaching,145,34,3,2024
+2024-06-12,60,Reading groups,Community,145,34,3,2024
+2024-06-12,199,Rule generalisation,Research,145,34,3,2024
+2024-06-13,48,Rule structure generalisation,Research,145,34,3,2024
+2024-06-13,90,Tutoring + related duties,Teaching,145,34,3,2024
+2024-06-13,90,Tutoring + related duties,Teaching,145,34,3,2024
+2024-06-13,70,Tutoring + related duties,Teaching,145,34,3,2024
+2024-06-14,39,Rule structure generalisation,Research,145,34,3,2024
+2024-06-14,90,Tutoring + related duties,Teaching,145,34,3,2024
+2024-06-14,70,Tutoring + related duties,Teaching,145,34,3,2024
+2024-06-14,90,Tutoring + related duties,Teaching,145,34,3,2024
+2024-06-17,26,Rule structure generalisation,Research,146,34,3,2024
+2024-06-17,85,Rule structure generalisation,Research,146,34,3,2024
+2024-06-17,25,Rule structure generalisation,Research,146,34,3,2024
+2024-06-17,20,Rule structure generalisation,Research,146,34,3,2024
+2024-06-17,108,Rule structure generalisation,Research,146,34,3,2024
+2024-06-17,45,Rule structure generalisation,Research,146,34,3,2024
+2024-06-17,40,Rule generalisation,Research,146,34,3,2024
+2024-06-17,112,Rule generalisation,Research,146,34,3,2024
+2024-06-18,11,Rule structure generalisation,Research,146,34,3,2024
+2024-06-18,30,Rule structure generalisation,Research,146,34,3,2024
+2024-06-18,120,Tutoring + related duties,Teaching,146,34,3,2024
+2024-06-18,75,Rule generalisation,Research,146,34,3,2024
+2024-06-19,67,Rule structure generalisation,Research,146,34,3,2024
+2024-06-19,139,Rule structure generalisation,Research,146,34,3,2024
+2024-06-19,15,Talks/conferences,Community,146,34,3,2024
+2024-06-20,110,Rule structure generalisation,Research,146,34,3,2024
+2024-06-20,174,Rule structure generalisation,Research,146,34,3,2024
+2024-06-20,70,Supervision,Research,146,34,3,2024
+2024-06-20,32,Rule generalisation,Research,146,34,3,2024
+2024-06-21,119,Rule learning,Research,146,34,3,2024
+2024-06-21,28,Rule learning,Research,146,34,3,2024
+2024-06-21,19,Rule learning,Research,146,34,3,2024
+2024-06-21,65,Rule learning,Research,146,34,3,2024
+2024-06-24,60,Rule learning,Research,147,34,3,2024
+2024-06-24,58,Rule learning,Research,147,34,3,2024
+2024-06-24,213,Rule learning,Research,147,34,3,2024
+2024-06-24,88,Rule learning,Research,147,34,3,2024
+2024-06-24,74,Rule learning,Research,147,34,3,2024
+2024-06-25,120,Rule learning,Research,147,34,3,2024
+2024-06-25,60,Tutoring + related duties,Teaching,147,34,3,2024
+2024-06-25,60,Reading groups,Community,147,34,3,2024
+2024-06-25,135,Reading groups,Community,147,34,3,2024
+2024-06-26,43,Rule structure generalisation,Research,147,34,3,2024
+2024-06-26,60,Reading groups,Community,147,34,3,2024
+2024-06-26,55,Rule generalisation,Research,147,34,3,2024
+2024-06-26,280,Rule generalisation,Research,147,34,3,2024
+2024-06-27,8,Supervision,Research,147,34,3,2024
+2024-06-27,60,Supervision,Research,147,34,3,2024
+2024-06-27,149,Rule generalisation,Research,147,34,3,2024
+2024-06-27,85,Rule generalisation,Research,147,34,3,2024
+2024-06-28,38,Rule learning,Research,147,34,3,2024
+2024-07-01,10,Rule learning,Research,148,35,3,2024
+2024-07-01,226,Rule structure generalisation,Research,148,35,3,2024
+2024-07-01,266,Rule structure generalisation,Research,148,35,3,2024
+2024-07-02,19,Rule learning,Research,148,35,3,2024
+2024-07-02,17,Rule learning,Research,148,35,3,2024
+2024-07-02,301,Rule structure generalisation,Research,148,35,3,2024
+2024-07-02,10,Rule structure generalisation,Research,148,35,3,2024
+2024-07-02,19,Simulating H0s,Research,148,35,3,2024
+2024-07-02,58,Simulating H0s,Research,148,35,3,2024
+2024-07-03,168,Rule structure generalisation,Research,148,35,3,2024
+2024-07-03,57,Rule structure generalisation,Research,148,35,3,2024
+2024-07-03,90,Reading groups,Community,148,35,3,2024
+2024-07-03,15,Simulating H0s,Research,148,35,3,2024
+2024-07-04,161,Simulating H0s,Research,148,35,3,2024
+2024-07-04,90,Supervision,Research,148,35,3,2024
+2024-07-04,166,Rule generalisation,Research,148,35,3,2024
+2024-07-05,86,Rule generalisation,Research,148,35,3,2024
+2024-07-08,44,Reading groups,Community,149,35,3,2024
+2024-07-08,63,Rule generalisation,Research,149,35,3,2024
+2024-07-09,28,Annual review,Research,149,35,3,2024
+2024-07-09,87,Reviewing,Community,149,35,3,2024
+2024-07-09,80,Reviewing,Community,149,35,3,2024
+2024-07-10,60,Reading groups,Community,149,35,3,2024
+2024-07-10,73,Reviewing,Community,149,35,3,2024
+2024-07-10,80,Reviewing,Community,149,35,3,2024
+2024-07-10,26,Reviewing,Community,149,35,3,2024
+2024-07-11,60,Tutoring + related duties,Teaching,149,35,3,2024
+2024-07-11,70,Supervision,Research,149,35,3,2024
+2024-07-11,30,Tutoring + related duties,Teaching,149,35,3,2024
+2024-07-11,74,Rule generalisation,Research,149,35,3,2024
+2024-07-12,204,Simulating H0s,Research,149,35,3,2024
+2024-07-12,143,Rule generalisation,Research,149,35,3,2024
+2024-07-15,35,Reading groups,Community,150,35,3,2024
+2024-07-15,47,Reading groups,Community,150,35,3,2024
+2024-07-15,101,Reading groups,Community,150,35,3,2024
+2024-07-15,23,Rule generalisation,Research,150,35,3,2024
+2024-07-16,59,Rule structure generalisation,Research,150,35,3,2024
+2024-07-16,60,Reading groups,Community,150,35,3,2024
+2024-07-16,60,Rule generalisation,Research,150,35,3,2024
+2024-07-16,65,Rule generalisation,Research,150,35,3,2024
+2024-07-16,73,Rule generalisation,Research,150,35,3,2024
+2024-07-17,120,Tutoring + related duties,Teaching,150,35,3,2024
+2024-07-18,178,Rule generalisation,Research,150,35,3,2024
+2024-07-22,167,Rule generalisation,Research,151,35,3,2024
+2024-07-22,70,Rule generalisation,Research,151,35,3,2024
+2024-07-23,55,Rule generalisation,Research,151,35,3,2024
+2024-07-23,267,Rule generalisation,Research,151,35,3,2024
+2024-08-07,20,Rule structure generalisation,Research,153,36,3,2024
+2024-08-07,65,Rule structure generalisation,Research,153,36,3,2024
+2024-08-07,72,Rule structure generalisation,Research,153,36,3,2024
+2024-08-07,16,CLE admin,Admin,153,36,3,2024
+2024-08-07,197,Rule generalisation,Research,153,36,3,2024
+2024-08-08,44,Rule structure generalisation,Research,153,36,3,2024
+2024-08-08,45,Rule structure generalisation,Research,153,36,3,2024
+2024-08-08,10,Rule structure generalisation,Research,153,36,3,2024
+2024-08-08,90,Supervision,Research,153,36,3,2024
+2024-08-08,30,Talks/conferences,Community,153,36,3,2024
+2024-08-08,30,Tutoring + related duties,Teaching,153,36,3,2024
+2024-08-09,27,Rule structure generalisation,Research,153,36,3,2024
+2024-08-09,97,Rule structure generalisation,Research,153,36,3,2024
+2024-08-12,74,Rule structure generalisation,Research,154,36,3,2024
+2024-08-12,111,Rule structure generalisation,Research,154,36,3,2024
+2024-08-12,155,Rule structure generalisation,Research,154,36,3,2024
+2024-08-13,81,Rule structure generalisation,Research,154,36,3,2024
+2024-08-13,55,Rule structure generalisation,Research,154,36,3,2024
+2024-08-13,70,Rule structure generalisation,Research,154,36,3,2024
+2024-08-13,90,Rule structure generalisation,Research,154,36,3,2024
+2024-08-13,63,Reading,Research,154,36,3,2024
+2024-08-13,50,Reading,Research,154,36,3,2024
+2024-08-14,125,Rule structure generalisation,Research,154,36,3,2024
+2024-08-14,70,Rule structure generalisation,Research,154,36,3,2024
+2024-08-14,34,Reading groups,Community,154,36,3,2024
+2024-08-14,80,Reading groups,Community,154,36,3,2024
+2024-08-15,54,Rule structure generalisation,Research,154,36,3,2024
+2024-08-15,45,Supervision,Research,154,36,3,2024
+2024-08-15,180,Talks/conferences,Community,154,36,3,2024
+2024-08-15,22,Rule generalisation,Research,154,36,3,2024
+2024-08-16,148,Rule structure generalisation,Research,154,36,3,2024
+2024-08-16,214,Rule structure generalisation,Research,154,36,3,2024
+2024-08-16,35,Supervision,Research,154,36,3,2024
+2024-08-22,57,Rule structure generalisation,Research,155,36,3,2024
+2024-08-22,8,Rule structure generalisation,Research,155,36,3,2024
+2024-08-22,75,Supervision,Research,155,36,3,2024
+2024-08-22,60,Tutoring + related duties,Teaching,155,36,3,2024
+2024-08-22,83,Rule generalisation,Research,155,36,3,2024
+2024-08-23,30,Organising talks/conferences,Community,155,36,3,2024
+2024-08-23,44,Reading groups,Community,155,36,3,2024
+2024-08-23,60,Reading groups,Community,155,36,3,2024
+2024-08-23,235,Reading,Research,155,36,3,2024
+2024-08-23,76,Reading,Research,155,36,3,2024
+2024-08-26,180,Rule structure generalisation,Research,156,36,3,2024
+2024-08-26,200,Rule structure generalisation,Research,156,36,3,2024
+2024-08-26,19,CLE admin,Admin,156,36,3,2024
+2024-08-27,113,Rule structure generalisation,Research,156,36,3,2024
+2024-08-27,141,Rule structure generalisation,Research,156,36,3,2024
+2024-08-27,70,Thesis,Research,156,36,3,2024
+2024-08-27,23,Rule generalisation,Research,156,36,3,2024
+2024-08-28,206,Thesis,Research,156,36,3,2024
+2024-08-29,200,Organising talks/conferences,Community,156,36,3,2024
+2024-08-29,95,Supervision,Research,156,36,3,2024
+2024-09-02,55,Rule structure generalisation,Research,157,37,4,2024
+2024-09-02,175,Rule structure generalisation,Research,157,37,4,2024
+2024-09-02,18,Rule structure generalisation,Research,157,37,4,2024
+2024-09-02,34,CLE admin,Admin,157,37,4,2024
+2024-09-03,235,Rule structure generalisation,Research,157,37,4,2024
+2024-09-03,235,Rule structure generalisation,Research,157,37,4,2024
+2024-09-04,480,Talks/conferences,Community,157,37,4,2024
+2024-09-05,480,Talks/conferences,Community,157,37,4,2024
+2024-09-06,480,Talks/conferences,Community,157,37,4,2024
+2024-09-09,21,CLE admin,Admin,158,37,4,2024
+2024-09-09,21,CLE admin,Admin,158,37,4,2024
+2024-09-09,174,Rule generalisation,Research,158,37,4,2024
+2024-09-09,181,Rule generalisation,Research,158,37,4,2024
+2024-09-09,39,Rule generalisation,Research,158,37,4,2024
+2024-09-10,46,Reading groups,Community,158,37,4,2024
+2024-09-10,28,Tutoring + related duties,Teaching,158,37,4,2024
+2024-09-10,203,Rule generalisation,Research,158,37,4,2024
+2024-09-10,110,Rule generalisation,Research,158,37,4,2024
+2024-09-11,90,Reading groups,Community,158,37,4,2024
+2024-09-11,112,Rule generalisation,Research,158,37,4,2024
+2024-09-12,160,Rule structure generalisation,Research,158,37,4,2024
+2024-09-12,5,CLE admin,Admin,158,37,4,2024
+2024-09-12,19,Stimuli commissions,Community,158,37,4,2024
+2024-09-12,3,Rule generalisation,Research,158,37,4,2024
+2024-09-12,223,Rule generalisation,Research,158,37,4,2024
+2024-09-13,205,Rule structure generalisation,Research,158,37,4,2024
+2024-09-13,150,Rule structure generalisation,Research,158,37,4,2024
+2024-09-13,7,CLE admin,Admin,158,37,4,2024
+2024-09-16,110,CLE admin,Admin,159,37,4,2024
+2024-09-16,86,Reading groups,Community,159,37,4,2024
+2024-09-16,33,Stimuli commissions,Community,159,37,4,2024
+2024-09-16,22,Stimuli commissions,Community,159,37,4,2024
+2024-09-16,12,Stimuli commissions,Community,159,37,4,2024
+2024-09-16,32,Stimuli commissions,Community,159,37,4,2024
+2024-09-16,35,Thesis,Research,159,37,4,2024
+2024-09-16,79,Thesis,Research,159,37,4,2024
+2024-09-17,120,Rule structure generalisation,Research,159,37,4,2024
+2024-09-17,14,CLE admin,Admin,159,37,4,2024
+2024-09-17,90,CLE talks,Community,159,37,4,2024
+2024-09-18,139,Rule structure generalisation,Research,159,37,4,2024
+2024-09-18,92,Rule structure generalisation,Research,159,37,4,2024
+2024-09-18,90,Reading groups,Community,159,37,4,2024
+2024-09-18,12,Thesis,Research,159,37,4,2024
+2024-09-19,115,Rule structure generalisation,Research,159,37,4,2024
+2024-09-19,90,Supervision,Research,159,37,4,2024
+2024-09-19,120,Tutoring + related duties,Teaching,159,37,4,2024
+2024-09-20,193,Rule structure generalisation,Research,159,37,4,2024
+2024-09-20,123,Rule structure generalisation,Research,159,37,4,2024
+2024-09-23,130,Rule structure generalisation,Research,160,37,4,2024
+2024-09-23,210,Rule structure generalisation,Research,160,37,4,2024
+2024-09-24,138,Rule structure generalisation,Research,160,37,4,2024
+2024-09-24,120,Rule structure generalisation,Research,160,37,4,2024
+2024-09-24,90,CLE talks,Community,160,37,4,2024
+2024-09-24,20,Tutoring + related duties,Teaching,160,37,4,2024
+2024-09-24,30,Tutoring + related duties,Teaching,160,37,4,2024
+2024-09-25,240,Rule structure generalisation,Research,160,37,4,2024
+2024-09-25,115,Rule structure generalisation,Research,160,37,4,2024
+2024-09-25,80,Reading groups,Community,160,37,4,2024
+2024-09-25,75,Talks/conferences,Community,160,37,4,2024
+2024-09-26,29,Rule structure generalisation,Research,160,37,4,2024
+2024-09-26,7,Rule structure generalisation,Research,160,37,4,2024
+2024-09-26,42,Reading groups,Community,160,37,4,2024
+2024-09-26,60,Reading groups,Community,160,37,4,2024
+2024-09-26,45,Supervision,Research,160,37,4,2024
+2024-09-27,236,Rule structure generalisation,Research,160,37,4,2024
+2024-09-27,48,Rule structure generalisation,Research,160,37,4,2024
+2024-09-27,8,CLE admin,Admin,160,37,4,2024
+2024-09-27,28,Stimuli commissions,Community,160,37,4,2024
+2024-09-30,26,Rule learning,Research,161,37,4,2024
+2024-09-30,59,Rule structure generalisation,Research,161,37,4,2024
+2024-09-30,47,Rule structure generalisation,Research,161,37,4,2024
+2024-09-30,25,Reading groups,Community,161,37,4,2024
+2024-09-30,79,Thesis,Research,161,37,4,2024
+2024-09-30,70,PhD admin,Admin,161,37,4,2024
+2024-10-01,30,Rule structure generalisation,Research,161,38,4,2024
+2024-10-01,20,Rule structure generalisation,Research,161,38,4,2024
+2024-10-01,21,Rule structure generalisation,Research,161,38,4,2024
+2024-10-01,60,Rule structure generalisation,Research,161,38,4,2024
+2024-10-01,90,CLE talks,Community,161,38,4,2024
+2024-10-01,60,Reading groups,Community,161,38,4,2024
+2024-10-02,114,Rule structure generalisation,Research,161,38,4,2024
+2024-10-02,155,Rule structure generalisation,Research,161,38,4,2024
+2024-10-02,7,Rule structure generalisation,Research,161,38,4,2024
+2024-10-03,27,Rule structure generalisation,Research,161,38,4,2024
+2024-10-03,130,Rule structure generalisation,Research,161,38,4,2024
+2024-10-03,60,Supervision,Research,161,38,4,2024
+2024-10-03,180,Tutoring + related duties,Teaching,161,38,4,2024
+2024-10-04,151,Rule structure generalisation,Research,161,38,4,2024
+2024-10-04,114,Rule structure generalisation,Research,161,38,4,2024
+2024-10-04,5,CLE admin,Admin,161,38,4,2024
+2024-10-07,217,Rule generalisation,Research,162,38,4,2024
+2024-10-07,168,Rule generalisation,Research,162,38,4,2024
+2024-10-07,24,Thesis,Research,162,38,4,2024
+2024-10-08,127,Rule structure generalisation,Research,162,38,4,2024
+2024-10-08,35,Rule structure generalisation,Research,162,38,4,2024
+2024-10-08,15,Rule structure generalisation,Research,162,38,4,2024
+2024-10-08,90,CLE talks,Community,162,38,4,2024
+2024-10-08,64,Rule generalisation,Research,162,38,4,2024
+2024-10-08,48,Reading groups,Community,162,38,4,2024
+2024-10-08,29,Reading groups,Community,162,38,4,2024
+2024-10-09,221,Rule structure generalisation,Research,162,38,4,2024
+2024-10-09,4,Rule structure generalisation,Research,162,38,4,2024
+2024-10-09,75,Talks/conferences,Community,162,38,4,2024
+2024-10-10,60,Rule structure generalisation,Research,162,38,4,2024
+2024-10-10,15,Rule structure generalisation,Research,162,38,4,2024
+2024-10-10,60,Reading groups,Community,162,38,4,2024
+2024-10-10,75,Supervision,Research,162,38,4,2024
+2024-10-10,80,Talks/conferences,Community,162,38,4,2024
+2024-10-10,71,Thesis,Research,162,38,4,2024
+2024-10-11,43,Rule structure generalisation,Research,162,38,4,2024
+2024-10-11,261,Rule structure generalisation,Research,162,38,4,2024
+2024-10-11,77,Rule structure generalisation,Research,162,38,4,2024
+2024-10-14,4,Rule structure generalisation,Research,163,38,4,2024
+2024-10-14,201,Rule structure generalisation,Research,163,38,4,2024
+2024-10-14,123,Rule structure generalisation,Research,163,38,4,2024
+2024-10-14,10,PhD admin,Admin,163,38,4,2024
+2024-10-14,125,Rule generalisation,Research,163,38,4,2024
+2024-10-15,110,Rule structure generalisation,Research,163,38,4,2024
+2024-10-15,230,Rule structure generalisation,Research,163,38,4,2024
+2024-10-15,86,Rule generalisation,Research,163,38,4,2024
+2024-10-16,184,Rule generalisation,Research,163,38,4,2024
+2024-10-16,53,Rule generalisation,Research,163,38,4,2024
+2024-10-18,11,CLE admin,Admin,163,38,4,2024
+2024-10-22,90,CLE talks,Community,164,38,4,2024
+2024-10-22,165,Rule generalisation,Research,164,38,4,2024
+2024-10-22,140,Rule generalisation,Research,164,38,4,2024
+2024-10-23,7,Thesis,Research,164,38,4,2024
+2024-10-23,65,Thesis,Research,164,38,4,2024
+2024-10-23,170,Rule generalisation,Research,164,38,4,2024
+2024-10-24,85,Reading groups,Community,164,38,4,2024
+2024-10-24,90,Supervision,Research,164,38,4,2024
+2024-10-24,185,Thesis,Research,164,38,4,2024
+2024-10-24,60,Tutoring + related duties,Teaching,164,38,4,2024
+2024-10-25,212,Thesis,Research,164,38,4,2024
+2024-10-28,176,Thesis,Research,165,38,4,2024
+2024-10-28,302,Thesis,Research,165,38,4,2024
+2024-10-29,6,Rule structure generalisation,Research,165,38,4,2024
+2024-10-29,214,Thesis,Research,165,38,4,2024
+2024-10-29,210,Thesis,Research,165,38,4,2024
+2024-10-30,90,Talks/conferences,Community,165,38,4,2024
+2024-10-30,204,Thesis,Research,165,38,4,2024
+2024-10-31,90,Supervision,Research,165,38,4,2024
+2024-10-31,120,Thesis,Research,165,38,4,2024
+2024-10-31,132,Thesis,Research,165,38,4,2024
+2024-11-01,140,Thesis,Research,165,39,4,2024
+2024-11-01,126,Thesis,Research,165,39,4,2024
+2024-11-01,112,Thesis,Research,165,39,4,2024
+2024-11-04,54,Rule structure generalisation,Research,166,39,4,2024
+2024-11-04,104,Rule structure generalisation,Research,166,39,4,2024
+2024-11-04,73,Thesis,Research,166,39,4,2024
+2024-11-04,60,Thesis,Research,166,39,4,2024
+2024-11-04,35,Thesis,Research,166,39,4,2024
+2024-11-05,229,Rule structure generalisation,Research,166,39,4,2024
+2024-11-05,34,Reading,Research,166,39,4,2024
+2024-11-05,124,Thesis,Research,166,39,4,2024
+2024-11-06,60,Rule learning,Research,166,39,4,2024
+2024-11-06,85,Rule learning,Research,166,39,4,2024
+2024-11-06,51,Rule learning,Research,166,39,4,2024
+2024-11-06,90,Talks/conferences,Community,166,39,4,2024
+2024-11-06,60,Talks/conferences,Community,166,39,4,2024
+2024-11-07,74,Rule learning,Research,166,39,4,2024
+2024-11-07,20,Rule learning,Research,166,39,4,2024
+2024-11-07,225,Rule learning,Research,166,39,4,2024
+2024-11-07,60,Reading groups,Community,166,39,4,2024
+2024-11-07,60,Tutoring + related duties,Teaching,166,39,4,2024
+2024-11-08,133,Rule learning,Research,166,39,4,2024
+2024-11-08,224,Rule learning,Research,166,39,4,2024
+2024-11-11,22,Rule learning,Research,167,39,4,2024
+2024-11-11,39,Rule generalisation,Research,167,39,4,2024
+2024-11-11,167,Rule generalisation,Research,167,39,4,2024
+2024-11-12,114,Rule structure generalisation,Research,167,39,4,2024
+2024-11-12,87,Rule structure generalisation,Research,167,39,4,2024
+2024-11-12,66,Thesis,Research,167,39,4,2024
+2024-11-12,63,Thesis,Research,167,39,4,2024
+2024-11-13,90,Talks/conferences,Community,167,39,4,2024
+2024-11-13,210,Thesis,Research,167,39,4,2024
+2024-11-14,85,Thesis,Research,167,39,4,2024
+2024-11-14,50,Thesis,Research,167,39,4,2024
+2024-11-14,60,Tutoring + related duties,Teaching,167,39,4,2024
+2024-11-15,45,Talks/conferences,Community,167,39,4,2024
+2024-11-15,90,Thesis,Research,167,39,4,2024
+2024-11-15,115,Thesis,Research,167,39,4,2024
+2024-11-18,153,Thesis,Research,168,39,4,2024
+2024-11-18,252,Thesis,Research,168,39,4,2024
+2024-11-19,207,Thesis,Research,168,39,4,2024
+2024-11-19,274,Thesis,Research,168,39,4,2024
+2024-11-20,6,CLE admin,Admin,168,39,4,2024
+2024-11-20,90,Talks/conferences,Community,168,39,4,2024
+2024-11-20,195,Thesis,Research,168,39,4,2024
+2024-11-21,60,Reading groups,Community,168,39,4,2024
+2024-11-21,35,Reading,Research,168,39,4,2024
+2024-11-21,60,Supervision,Research,168,39,4,2024
+2024-11-21,145,Thesis,Research,168,39,4,2024
+2024-11-21,60,Tutoring + related duties,Teaching,168,39,4,2024
+2024-11-22,75,Reading,Research,168,39,4,2024
+2024-11-22,105,Reading,Research,168,39,4,2024
+2024-11-22,178,Reading,Research,168,39,4,2024
+2024-11-25,7,CLE admin,Admin,169,39,4,2024
+2024-11-25,140,Thesis,Research,169,39,4,2024
+2024-11-25,203,Thesis,Research,169,39,4,2024
+2024-11-26,93,CLE talks,Community,169,39,4,2024
+2024-11-26,167,Thesis,Research,169,39,4,2024
+2024-11-26,142,Thesis,Research,169,39,4,2024
+2024-11-27,61,Thesis,Research,169,39,4,2024
+2024-11-27,26,Thesis,Research,169,39,4,2024
+2024-11-27,5,Thesis,Research,169,39,4,2024
+2024-11-27,237,Thesis,Research,169,39,4,2024
+2024-11-27,21,Thesis,Research,169,39,4,2024
+2024-11-28,133,Thesis,Research,169,39,4,2024
+2024-11-28,307,Thesis,Research,169,39,4,2024
+2024-11-29,18,CLE admin,Admin,169,39,4,2024
+2024-11-29,218,Thesis,Research,169,39,4,2024
+2024-11-29,52,Thesis,Research,169,39,4,2024
+2024-12-02,159,Rule structure generalisation,Research,170,40,4,2024
+2024-12-02,11,Thesis,Research,170,40,4,2024
+2024-12-02,145,Thesis,Research,170,40,4,2024
+2024-12-03,90,CLE talks,Community,170,40,4,2024
+2024-12-03,159,Thesis,Research,170,40,4,2024
+2024-12-03,93,Thesis,Research,170,40,4,2024
+2024-12-04,231,Thesis,Research,170,40,4,2024
+2024-12-05,80,Supervision,Research,170,40,4,2024
+2024-12-05,102,Thesis,Research,170,40,4,2024
+2024-12-05,60,Tutoring + related duties,Teaching,170,40,4,2024
+2024-12-06,18,CLE admin,Admin,170,40,4,2024
+2024-12-06,199,Thesis,Research,170,40,4,2024
+2024-12-09,277,Thesis,Research,171,40,4,2024
+2024-12-09,192,Thesis,Research,171,40,4,2024
+2024-12-10,90,CLE talks,Community,171,40,4,2024
+2024-12-10,113,Thesis,Research,171,40,4,2024
+2024-12-10,73,Thesis,Research,171,40,4,2024
+2024-12-11,35,Thesis,Research,171,40,4,2024
+2024-12-11,120,Thesis,Research,171,40,4,2024
+2024-12-12,124,Thesis,Research,171,40,4,2024
+2024-12-12,231,Thesis,Research,171,40,4,2024
+2024-12-13,50,Talks/conferences,Community,171,40,4,2024
+2024-12-13,106,Thesis,Research,171,40,4,2024
+2024-12-13,60,Thesis,Research,171,40,4,2024
+2024-12-13,75,Thesis,Research,171,40,4,2024
+2024-12-16,227,Thesis,Research,172,40,4,2024
+2024-12-16,219,Thesis,Research,172,40,4,2024
+2024-12-17,90,CLE talks,Community,172,40,4,2024
+2024-12-17,8,Tutoring + related duties,Teaching,172,40,4,2024
+2024-12-18,25,Thesis,Research,172,40,4,2024
+2024-12-18,235,Thesis,Research,172,40,4,2024
+2024-12-19,90,Supervision,Research,172,40,4,2024
+2024-12-19,140,Thesis,Research,172,40,4,2024
+2024-12-19,143,Thesis,Research,172,40,4,2024
+2024-12-20,210,Thesis,Research,172,40,4,2024
+2024-12-20,108,Thesis,Research,172,40,4,2024
+2024-12-30,197,Thesis,Research,174,40,4,2024
+2024-12-30,252,Thesis,Research,174,40,4,2024
+2024-12-31,420,Thesis,Research,174,40,4,2024
+2024-12-31,52,Thesis,Research,174,40,4,2024
+2025-01-01,86,Thesis,Research,174,41,4,2025
+2025-01-01,146,Thesis,Research,174,41,4,2025
+2025-01-02,56,Thesis,Research,174,41,4,2025
+2025-01-02,64,Thesis,Research,174,41,4,2025
+2025-01-02,287,Thesis,Research,174,41,4,2025
+2025-01-03,239,Thesis,Research,174,41,4,2025
+2025-01-04,120,Auditing courses,Coursework,174,41,4,2025
+2025-01-04,225,Viva,Research,174,41,4,2025
+2025-01-04,120,Viva,Research,174,41,4,2025
+2025-01-05,14,CLE admin,Admin,174,41,4,2025
+2025-01-05,8,CLE admin,Admin,174,41,4,2025
+2025-01-05,25,Auditing courses,Coursework,174,41,4,2025
+2025-01-05,35,Viva,Research,174,41,4,2025
+2025-01-05,139,Viva,Research,174,41,4,2025
+2025-01-05,30,Viva,Research,174,41,4,2025
+2025-01-05,35,Viva,Research,174,41,4,2025
+2025-01-06,256,Viva,Research,175,41,4,2025
+2025-01-06,14,Thesis,Research,175,41,4,2025
+2025-01-06,15,Thesis,Research,175,41,4,2025
+2025-01-06,134,Viva,Research,175,41,4,2025
+2025-01-07,47,Viva,Research,175,41,4,2025
+2025-01-07,81,Viva,Research,175,41,4,2025
+2025-01-07,74,Viva,Research,175,41,4,2025
+2025-01-08,480,Talks/conferences,Community,175,41,4,2025
+2025-01-09,74,Viva,Research,175,41,4,2025
+2025-01-13,23,Viva,Research,176,41,4,2025
+2025-01-13,38,Viva,Research,176,41,4,2025
+2025-01-13,61,Viva,Research,176,41,4,2025
+2025-01-14,90,CLE talks,Community,176,41,4,2025
+2025-01-14,110,Auditing courses,Coursework,176,41,4,2025
+2025-01-14,120,Viva,Research,176,41,4,2025
+2025-01-15,154,Viva,Research,176,41,4,2025
+2025-01-15,111,Viva,Research,176,41,4,2025
+2025-01-16,50,Auditing courses,Coursework,176,41,4,2025
+2025-01-16,40,Viva,Research,176,41,4,2025
+2025-01-16,233,Viva,Research,176,41,4,2025
+2025-01-16,80,Talks/conferences,Community,176,41,4,2025
+2025-01-20,42,Viva,Research,177,41,4,2025
+2025-01-20,140,Viva,Research,177,41,4,2025
+2025-01-21,110,Auditing courses,Coursework,177,41,4,2025
+2025-01-21,25,PhD admin,Admin,177,41,4,2025
+2025-01-21,67,Viva,Research,177,41,4,2025
+2025-01-23,50,Auditing courses,Coursework,177,41,4,2025
+2025-01-28,90,CLE talks,Community,178,41,4,2025
+2025-01-28,110,Auditing courses,Coursework,178,41,4,2025
+2025-01-29,90,Reading groups,Community,178,41,4,2025
+2025-01-29,40,Viva,Research,178,41,4,2025
+2025-01-30,50,Auditing courses,Coursework,178,41,4,2025
+2025-01-30,132,Reading groups,Community,178,41,4,2025
+2025-01-30,60,Tutoring + related duties,Teaching,178,41,4,2025
+2025-01-30,19,Viva,Research,178,41,4,2025
+2025-01-30,50,Viva,Research,178,41,4,2025
+2025-01-31,97,Viva,Research,178,41,4,2025
+2025-01-31,50,Viva,Research,178,41,4,2025
+2025-01-31,99,Viva,Research,178,41,4,2025
+2025-02-10,80,Viva,Research,180,42,4,2025
+2025-02-10,90,Viva,Research,180,42,4,2025
+2025-02-10,238,Viva,Research,180,42,4,2025
+2025-02-11,45,Viva,Research,180,42,4,2025
+2025-02-11,30,Viva,Research,180,42,4,2025
+2025-02-11,29,Viva,Research,180,42,4,2025
+2025-02-11,170,Viva,Research,180,42,4,2025
+2025-02-13,50,Reading groups,Community,180,42,4,2025
+2025-02-13,70,Reading groups,Community,180,42,4,2025
+2025-02-13,50,Auditing courses,Coursework,180,42,4,2025
+2025-02-13,114,Reading groups,Community,180,42,4,2025
+2025-02-24,190,Simulating H0s,Research,182,42,4,2025
+2025-02-24,25,Simulating H0s,Research,182,42,4,2025
+2025-02-24,123,Reviewing,Community,182,42,4,2025
+2025-02-25,3,CLE admin,Admin,182,42,4,2025
+2025-02-25,90,CLE talks,Community,182,42,4,2025
+2025-02-25,127,Simulating H0s,Research,182,42,4,2025
+2025-02-25,110,Auditing courses,Coursework,182,42,4,2025
+2025-02-26,70,Reviewing,Community,182,42,4,2025
+2025-02-27,145,Simulating H0s,Research,182,42,4,2025
+2025-02-27,60,Auditing courses,Coursework,182,42,4,2025
+2025-02-27,130,Reading groups,Community,182,42,4,2025
+2025-02-28,12,CLE admin,Admin,182,42,4,2025
+2025-02-28,173,Simulating H0s,Research,182,42,4,2025
+2025-02-28,183,Simulating H0s,Research,182,42,4,2025
+2025-03-03,216,Simulating H0s,Research,183,43,4,2025
+2025-03-03,135,Reviewing,Community,183,43,4,2025
+2025-03-04,90,CLE talks,Community,183,43,4,2025
+2025-03-04,57,Simulating H0s,Research,183,43,4,2025
+2025-03-04,77,Reviewing,Community,183,43,4,2025
+2025-03-04,117,Reviewing,Community,183,43,4,2025
+2025-03-05,59,Simulating H0s,Research,183,43,4,2025
+2025-03-05,120,Talks/conferences,Community,183,43,4,2025
+2025-03-06,50,Auditing courses,Coursework,183,43,4,2025
+2025-03-06,80,Reviewing,Community,183,43,4,2025
+2025-03-06,60,Tutoring + related duties,Teaching,183,43,4,2025
+2025-03-10,14,Reviewing,Community,184,43,4,2025
+2025-03-11,90,CLE talks,Community,184,43,4,2025
+2025-03-11,120,Auditing courses,Coursework,184,43,4,2025
+2025-03-13,60,Talks/conferences,Community,184,43,4,2025
+2025-03-18,75,Auditing courses,Coursework,185,43,4,2025
+2025-03-19,15,CLE admin,Admin,185,43,4,2025
+2025-03-19,60,Reading groups,Community,185,43,4,2025
+2025-03-20,60,Auditing courses,Coursework,185,43,4,2025
+2025-03-20,51,Reading groups,Community,185,43,4,2025
+2025-03-20,45,Reading groups,Community,185,43,4,2025
+2025-03-20,60,Tutoring + related duties,Teaching,185,43,4,2025
+2025-03-21,5,CLE admin,Admin,185,43,4,2025
+2025-03-21,30,Talks/conferences,Community,185,43,4,2025
+2025-03-25,90,CLE talks,Community,186,43,4,2025
+2025-03-25,95,Auditing courses,Coursework,186,43,4,2025
+2025-03-25,60,Talks/conferences,Community,186,43,4,2025
+2025-03-27,60,Reading groups,Community,186,43,4,2025
+2025-03-31,101,Thesis,Research,187,43,4,2025
+2025-03-31,50,Reading,Research,187,43,4,2025
+2025-03-31,102,Reading,Research,187,43,4,2025
+2025-03-31,17,Tutoring + related duties,Teaching,187,43,4,2025
+2025-04-01,90,CLE talks,Community,187,44,4,2025
+2025-04-01,115,Thesis,Research,187,44,4,2025
+2025-04-01,60,Thesis,Research,187,44,4,2025
+2025-04-01,90,Auditing courses,Coursework,187,44,4,2025
+2025-04-02,217,Thesis,Research,187,44,4,2025
+2025-04-02,110,Talks/conferences,Community,187,44,4,2025
+2025-04-03,85,Thesis,Research,187,44,4,2025
+2025-04-03,30,Thesis,Research,187,44,4,2025
+2025-04-03,85,Thesis,Research,187,44,4,2025
+2025-04-03,80,Talks/conferences,Community,187,44,4,2025
+2025-04-03,60,Reading groups,Community,187,44,4,2025
+2025-04-03,60,Tutoring + related duties,Teaching,187,44,4,2025
+2025-04-04,24,CLE admin,Admin,187,44,4,2025
+2025-04-04,242,Thesis,Research,187,44,4,2025
+2025-04-04,94,Thesis,Research,187,44,4,2025
+2025-04-07,219,Thesis,Research,188,44,4,2025
+2025-04-07,193,Thesis,Research,188,44,4,2025
+2025-04-08,90,CLE talks,Community,188,44,4,2025
+2025-04-08,152,Thesis,Research,188,44,4,2025
+2025-04-08,39,Thesis,Research,188,44,4,2025
+2025-04-08,32,Thesis,Research,188,44,4,2025
+2025-04-09,243,Thesis,Research,188,44,4,2025
+2025-04-09,46,Thesis,Research,188,44,4,2025
+2025-04-10,33,Reading groups,Community,188,44,4,2025
+2025-04-10,30,Reading groups,Community,188,44,4,2025
+2025-04-10,30,Tutoring + related duties,Teaching,188,44,4,2025
