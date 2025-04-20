@@ -5,13 +5,10 @@ lightbox: true
 # Bio
 
 I grew up in Canada on [Treaty 6 territory](https://en.wikipedia.org/wiki/Numbered_Treaties).
-After finishing high school, I lived for a year in a mountain city called Nelson in British Columbia, on the traditional unceded territory of the [Ktunaxa Nation](https://www.ktunaxa.org), to study [textile arts](https://selkirk.ca/programs/arts-technology/textile-arts-certificate).
-Nelson, small among huge green hills, is still my favourite place in the world.
-
-![Low clouds over Nelson, BC (photo by me)](imgs/nelson.jpg){width=70% group="gallery"}
-
-
+After finishing high school, I lived for a year in Nelson, BC, on the traditional unceded territory of the [Ktunaxa Nation](https://www.ktunaxa.org), to study [textile arts](https://selkirk.ca/programs/arts-technology/textile-arts-certificate).
+Creating with fibre has always been an important part of my life.
 But I left Nelson to pursue another love: language.
+
 I completed a [BA (Hons.) in Linguistics & German Language and Literature](https://www.ualberta.ca/en/linguistics/index.html) at the University of Alberta, then I moved to Germany for an [MA in Linguistics](https://www.linguistik.hu-berlin.de/en/standardseite-en) at the Humboldt-Universität zu Berlin and an [MSc in Cognitive Systems: Language, Learning, and Reasoning](https://www.uni-potsdam.de/en/studium/what-to-study/master/cognitive-systems) at the Universität Potsdam.
 
 
@@ -31,3 +28,5 @@ My PhD thesis is called *Segmentation, rule formation, and the emergence of gene
 
 In fall 2025, I'll begin as a Lecturer (roughly equivalent to the North American assistant professor) in the [Department of Psychology](https://ppls.ed.ac.uk/psychology) at the University of Edinburgh.
 I'll be joining a teaching team responsible for leading [undergraduate and postgraduate statistics courses](https://uoepsy.github.io) for students in Psychology.
+
+In my free time, I like to weave cloth, sew clothing, make quilts, and knit 🧶
