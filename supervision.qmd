@@ -1,0 +1,31 @@
+---
+toc: true
+---
+
+# Supervision
+
+I'm available to supervise UG and PG dissertations.
+
+I enjoy exploring how people learn and generalise---how they move from concrete surface representations (like words and chunks) to more abstract ones (like rules and patterns).
+Most of my work has focused on language, but I'm also happy to supervise projects on learning more broadly.
+
+If you're interested in working with me on any of the following topics, please do get in touch.
+
+- word segmentation
+- rule learning
+- rule generalisation
+- pedagogical theory and practice
+- psychology of learning
+
+
+Methods I'm happy to supervise:
+
+- behavioural experiments (especially psycholinguistic methods and artificial language learning)
+- corpus studies
+- computational modelling and simulation
+- statistical analysis, both frequentist and Bayesian
+
+
+# Previous supervisees
+
+Sigurd Farstad Iversen (MSc Language and Cognition, 2023)

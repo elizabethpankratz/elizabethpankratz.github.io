@@ -13,7 +13,7 @@ This fall, I'll be joining the University of Edinburgh's [Department of Psycholo
 
 <br>
 
-[e.c.pankratz@sms.ed.ac.uk](mailto:e.c.pankratz@sms.ed.ac.uk)
+[elizabeth.pankratz@ed.ac.uk](mailto:elizabeth.pankratz@ed.ac.uk)
 
 [{{< iconify mdi github size=Huge >}}](https://github.com/elizabethpankratz/)
 [{{< iconify academicons google-scholar size=Huge >}}](https://scholar.google.com/citations?user=EyIQz28AAAAJ)
