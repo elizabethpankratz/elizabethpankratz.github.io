@@ -22,7 +22,7 @@ I completed a [BA (Hons.) in Linguistics & German Language and Literature](https
 
 I then came to Scotland to do my PhD at the University of Edinburgh's [Centre for Language Evolution](https://cle.ppls.ed.ac.uk).
 My research was supervised by [Prof. Jennifer Culbertson](http://jennifer-culbertson.github.io) and [Prof. Simon Kirby](https://www.simonkirby.net).
-My PhD thesis is called *Segmentation, rule formation, and the emergence of generalisation*, and in it I investigated a range of language acquisition phenomena from a cognitive science perspective.
+My PhD thesis is called [Segmentation, rule formation, and the emergence of generalisation](https://era.ed.ac.uk/handle/1842/43523), and in it I investigated a range of language acquisition phenomena from a cognitive science perspective.
 
 
 ![The sun sets golden over Edinburgh and the Pentlands (photo by me)](imgs/edinburgh.jpeg){width=50% group="gallery"}

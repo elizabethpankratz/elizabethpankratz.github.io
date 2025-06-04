@@ -4,7 +4,7 @@ toc: true
 
 # My PhD research
 
-In my PhD thesis *Segmentation, rule formation, and the emergence of generalisation*, I used behavioural experiments and computational models to study
+In my PhD thesis [Segmentation, rule formation, and the emergence of generalisation](https://era.ed.ac.uk/handle/1842/43523), I used behavioural experiments and computational models to study
 
 - how people segment linguistic material (see [Pankratz et al., 2024](https://onlinelibrary.wiley.com/doi/10.1111/cogs.13429)!), 
 - how they learn rules from it, 
