@@ -1,7 +1,7 @@
 ---
 title: "Doctors hate this one weird synthesis matrix trick"
 date: "2024-04-12"
-categories: [PhD]
+categories: [PhD, Resources]
 image: "litreview2.png"
 ---
 

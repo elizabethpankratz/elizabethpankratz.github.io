@@ -9,7 +9,7 @@ I'm available to supervise UG and PG dissertations.
 I enjoy exploring how people learn and generalise---how they move from concrete surface representations (like words and chunks) to more abstract ones (like rules and patterns).
 Most of my work has focused on language, but I'm also happy to supervise projects on learning more broadly.
 
-If you're interested in working with me on any of the following topics, please do get in touch.
+Please do get in touch if you're interested in working with me on any of the following topics:
 
 - word segmentation
 - rule learning
@@ -24,6 +24,19 @@ Methods I'm happy to supervise:
 - corpus studies
 - computational modelling and simulation
 - statistical analysis, both frequentist and Bayesian
+
+
+# Resources for supervisees
+
+- [Organising notes on academic literature using a synthesis matrix](https://elizabethpankratz.github.io/posts/01-phd-litreview/) (blog post)
+- Coming soon: A step-by-step walkthrough of my preferred writing process (blog post)
+- Coming soon: How to structure an academic text using principles from storytelling (blog post)
+
+To develop your writing style, follow the principles in these fantastic books (I like to reread them every couple years):
+
+- [Style: Toward Clarity and Grace](https://www.goodreads.com/book/show/246853.Style) by Joseph M. Williams (1990)
+- [Stylish Academic Writing](https://www.goodreads.com/book/show/13540208-stylish-academic-writing) by Helen Sword (2012)
+
 
 
 # Previous supervisees
