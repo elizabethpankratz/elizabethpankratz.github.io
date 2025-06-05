@@ -28,15 +28,26 @@ Methods I'm happy to supervise:
 
 # Resources for supervisees
 
-- [Organising notes on academic literature using a synthesis matrix](https://elizabethpankratz.github.io/posts/01-phd-litreview/) (blog post)
-- Coming soon: A step-by-step walkthrough of my preferred writing process (blog post)
-- Coming soon: How to structure an academic text using principles from storytelling (blog post)
+### Managing your literature
 
-To develop your writing style, follow the principles in these fantastic books (I like to reread them every couple years):
+- Blog post I wrote on [organising notes on academic literature using a synthesis matrix](https://elizabethpankratz.github.io/posts/01-phd-litreview/).
+- UoE guidance on [reference management tools](https://edinburgh-uk.libguides.com/referencing).
+  - I like [Zotero](https://www.zotero.org/support/quick_start_guide).
+  - If you write in Microsoft Word, you might also like [EndNote](https://information-services.ed.ac.uk/computing/desktop-personal/software/main-software-deals/endnote).
+  
+  
+### Structuring your dissertation
 
-- [Style: Toward Clarity and Grace](https://www.goodreads.com/book/show/246853.Style) by Joseph M. Williams (1990)
-- [Stylish Academic Writing](https://www.goodreads.com/book/show/13540208-stylish-academic-writing) by Helen Sword (2012)
+- Excellent slides detailing the [anatomy of an academic article](https://www.overleaf.com/read/tncxzwhxwjqm#32dac2) (the same as a diss) by [Prof. Jennifer Culbertson](https://jennifer-culbertson.github.io).
+- Coming soon: How to structure academic writing using principles from storytelling (blog post)
 
+
+### Writing
+
+- To develop a clear and pleasant writing style, follow the principles in these fantastic books (I like to reread them every couple years):
+  - [Style: Toward Clarity and Grace](https://www.goodreads.com/book/show/246853.Style) by Joseph M. Williams (1990)
+  - [Stylish Academic Writing](https://www.goodreads.com/book/show/13540208-stylish-academic-writing) by Helen Sword (2012)
+- Coming soon: A step-by-step walkthrough of my favourite way to plan, draft, and revise a piece of writing (blog post)
 
 
 # Previous supervisees
