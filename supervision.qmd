@@ -33,16 +33,23 @@ Methods I'm happy to supervise:
 - Blog post I wrote on [organising notes on academic literature using a synthesis matrix](https://elizabethpankratz.github.io/posts/01-phd-litreview/).
 - UoE guidance on [reference management tools](https://edinburgh-uk.libguides.com/referencing).
   - I like [Zotero](https://www.zotero.org/support/quick_start_guide).
-  - If you write in Microsoft Word, you might also like [EndNote](https://information-services.ed.ac.uk/computing/desktop-personal/software/main-software-deals/endnote).
+  - If you want integration with Microsoft Word, you might also like [EndNote](https://information-services.ed.ac.uk/computing/desktop-personal/software/main-software-deals/endnote).
+  
+### Designing your experiment
+
+- [Excellent slides on developing an experiment](https://www.overleaf.com/project/61893e79109b4671090a1b3d) by [Prof. Jennifer Culbertson](https://jennifer-culbertson.github.io).
   
   
 ### Structuring your dissertation
 
-- Excellent slides detailing the [anatomy of an academic article](https://www.overleaf.com/read/tncxzwhxwjqm#32dac2) (the same as a diss) by [Prof. Jennifer Culbertson](https://jennifer-culbertson.github.io).
+- More excellent slides by [Prof. Jennifer Culbertson](https://jennifer-culbertson.github.io) on:
+  - the [anatomy of an academic article](https://www.overleaf.com/read/tncxzwhxwjqm#32dac2), and the same applies to a dissertation.
+  - the [anatomy of an abstract](https://www.overleaf.com/project/6180eac35af212e4fc9d1fe4).
+  - [how to report results](https://www.overleaf.com/project/61a619a5e834813ea3b6a932) (though note that for us, the quantitative analysis isn't optional!)
 - Coming soon: How to structure academic writing using principles from storytelling (blog post)
 
 
-### Writing
+### Finding your writerly voice
 
 - To develop a clear and pleasant writing style, follow the principles in these fantastic books (I like to reread them every couple years):
   - [Style: Toward Clarity and Grace](https://www.goodreads.com/book/show/246853.Style) by Joseph M. Williams (1990)
