@@ -5,9 +5,8 @@ lightbox: true
 # Bio
 
 I grew up in Canada on [Treaty 6 territory](https://en.wikipedia.org/wiki/Numbered_Treaties).
-After finishing high school, I lived for a year in Nelson, BC, on the traditional unceded territory of the [Ktunaxa Nation](https://www.ktunaxa.org), to study [textile arts](https://selkirk.ca/programs/arts-technology/textile-arts-certificate).
-Creating with fibre has always been an important part of my life.
-But I left Nelson to pursue another love: language.
+My postsecondary journey began with a year living in beautiful Nelson, BC, on the traditional unceded territory of the [Ktunaxa Nation](https://www.ktunaxa.org), to study [textile arts](https://selkirk.ca/programs/arts-technology/textile-arts-certificate).
+Then I went on to pursue another love: language.
 
 I completed a [BA (Hons.) in Linguistics & German Language and Literature](https://www.ualberta.ca/en/linguistics/index.html) at the University of Alberta, then I moved to Germany for an [MA in Linguistics](https://www.linguistik.hu-berlin.de/en/standardseite-en) at the Humboldt-Universität zu Berlin and an [MSc in Cognitive Systems: Language, Learning, and Reasoning](https://www.uni-potsdam.de/en/studium/what-to-study/master/cognitive-systems) at the Universität Potsdam.
 
@@ -20,14 +19,14 @@ I completed a [BA (Hons.) in Linguistics & German Language and Literature](https
 
 :::
 
-I then came to Scotland to do my PhD at the University of Edinburgh's [Centre for Language Evolution](https://cle.ppls.ed.ac.uk).
+I came to Scotland to do my PhD at the University of Edinburgh's [Centre for Language Evolution](https://cle.ppls.ed.ac.uk).
 My research was supervised by [Prof. Jennifer Culbertson](http://jennifer-culbertson.github.io) and [Prof. Simon Kirby](https://www.simonkirby.net).
-My PhD thesis is called [Segmentation, rule formation, and the emergence of generalisation](https://era.ed.ac.uk/handle/1842/43523), and in it I investigated a range of language acquisition phenomena from a cognitive science perspective.
+My PhD thesis is called [Segmentation, rule formation, and the emergence of generalisation](https://era.ed.ac.uk/handle/1842/43523), and in it I investigated a range of language acquisition phenomena from a cognitive science perspective, asking how humans' language learning and generalisation mechanisms might shape language itself.
 
 
 ![The sun sets golden over Edinburgh and the Pentlands (photo by me)](imgs/edinburgh.jpeg){width=50% group="gallery"}
 
-In fall 2025, I'll begin as a Lecturer (roughly equivalent to the North American assistant professor) in the [Department of Psychology](https://ppls.ed.ac.uk/psychology) at the University of Edinburgh.
-I'll be joining a teaching team responsible for leading [undergraduate and postgraduate statistics courses](https://uoepsy.github.io) for students in Psychology.
+Currently I'm a Lecturer (roughly equivalent to the North American assistant professor) in the [Department of Psychology](https://ppls.ed.ac.uk/psychology) at the University of Edinburgh.
+I'm part of a teaching team responsible for leading [undergraduate and postgraduate statistics courses](https://uoepsy.github.io) for students in Psychology.
 
 In my free time, I like to weave cloth, sew clothing, make quilts, and knit 🧶

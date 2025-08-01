@@ -6,14 +6,9 @@ about:
 
 # Dr. Elizabeth Pankratz (she/her) ✨
 
-Hi!
-I've recently finished my PhD at the University of Edinburgh's [Centre for Language Evolution](https://cle.ppls.ed.ac.uk).
+I am a Lecturer at the University of Edinburgh's [Department of Psychology](https://ppls.ed.ac.uk/psychology), where I teach statistics.
 
-This fall, I'll be joining the University of Edinburgh's [Department of Psychology](https://ppls.ed.ac.uk/psychology) as a Lecturer, teaching statistics.
-
-<br>
-
-[elizabeth.pankratz@ed.ac.uk](mailto:elizabeth.pankratz@ed.ac.uk)
+Contact me at elizabeth.pankratz (at) ed.ac.uk.
 
 [{{< iconify mdi github size=Huge >}}](https://github.com/elizabethpankratz/)
 [{{< iconify academicons google-scholar size=Huge >}}](https://scholar.google.com/citations?user=EyIQz28AAAAJ)
