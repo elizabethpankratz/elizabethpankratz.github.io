@@ -8,87 +8,37 @@ toc-depth: 1
 
 # Accreditation
 
-I'm accredited as an [Associate Fellow of Advance HE](https://www.advance-he.ac.uk/fellowship/associate-fellowship) (AFHEA).
+I'm an [Associate Fellow of Advance HE](https://www.advance-he.ac.uk/fellowship/associate-fellowship) (if you see AFHEA after my name, that's what that stands for!).
 
 
-# Lecturing and course design
+# Office hours and stats chats
 
-### Quantitative Methods for Linguistics and English Language
+I really like to do my office hours and stats chats in person.
+I tend to draw lots of little pictures to illustrate and explain things, so it's really useful to be able to sit together and look over the same pieces of paper.
+As such, by default, my office hours are all in person.
+But if you need an online meeting, we can meet over Teams too—please just let me know as far in advance as possible.
 
-University of Edinburgh, 2023
-
-- Created and held one guest lecture on frequentist inference and correctly interpreting p-values ([slides](https://uoelel.github.io/qml/slides/w11/#1))
-- Designed the accompanying tutorial materials ([tutorial](https://uoelel.github.io/qml/tutorials/tutorial-w11.html))
-
-### Statistics and Quantitative Methods (Bayesian)
-
-University of Edinburgh, 2023
-
-- Created and held three guest lectures and tutorials on modelling binary outcomes ([slides](https://stefanocoretta.github.io/sqmb/slides/w07/#1), [tutorial](https://stefanocoretta.github.io/sqmb/tutorials/tutorial-w07.html)), multiple predictors and interactions ([slides](https://stefanocoretta.github.io/sqmb/slides/w08/#1), [tutorial](https://stefanocoretta.github.io/sqmb/tutorials/tutorial-w08.html)), and continuous predictors and interactions ([slides](https://stefanocoretta.github.io/sqmb/slides/w09/#1), [tutorial](https://stefanocoretta.github.io/sqmb/tutorials/tutorial-w09.html))
-- Designed formative and summative assessments
+Book a time that suits you on [my Bookings page](https://edin.ac/47yMWuQ).
+If none of those times work for you, feel free to email me and propose a time that does.
 
 
-# Workshops
+# Currently teaching on
 
-### Bayes, stat! A crash course in Bayesian inference
-
-CLE retreat, 2023
-
-- Created and held two two-hour sessions giving a conceptual and practical introduction to Bayesian modelling in R using brms ([workshop website](https://elizabethpankratz.github.io/bayes_stat/))
+- [Data analysis for Psychology in R 1](https://uoepsy.github.io/dapr1/) (labs)
+- [Data analysis for Psychology in R 2](https://uoepsy.github.io/dapr2) (co-course organiser, lectures)
+- [Data analysis for Psychology in R 3](https://uoepsy.github.io/dapr3) (co-course organiser, labs)
 
 
-### Narrative design for academic storytelling
+# Previously taught on
 
-CLE retreat, 2022
-
-- Created and held one two-hour session on the fundamentals of narrative structure and how using it can improve academic writing ([workshop booklet PDF](documents/cle-narr-booklet.pdf))
-
-# Tutoring
-
-*Note: Tutoring in UK higher education is like TA-ing in the North American system.*
-
-### Data Analysis for Linguistics and English Language
-
-University of Edinburgh, 2023–2024
-
-- Honours (advanced undergraduate) course on data manipulation and visualisation using the Tidyverse in R
-
-
-### Quantitative Methods for Linguistics and English Language
-
-University of Edinburgh, 2023–2024
-
-- Postgraduate course on data manipulation, visualisation, and Bayesian and frequentist inference using R
-
-
-### Statistics and Quantitative Methods (Bayesian)
-
-University of Edinburgh, 2022–2023
-
-- Honours (advanced undergraduate) and postgraduate course on data manipulation, visualisation, and analysis in the Bayesian framework using R
-
-
-### LEL2D: Cross-linguistic Variation: Limits and Theories
-
-University of Edinburgh, 2022–2023
-
-- Pre-honours (early undergraduate) course on typological variation and its influence on linguistic theory
-
-
-### Simulating Language
-
-University of Edinburgh, 2022–2023
-
-- Honours (advanced undergraduate) and postgraduate course on implementing Bayesian models of language evolution using Python
-
-
-# Recognition
-
-In 2024 I was nominated for the University of Edinburgh's Student Tutor of the Year.
+- [Quantitative Methods for Linguistics and English Language](https://uoelel.github.io/qml/) (tutor, guest lecture on p-values)
+- [Statistics and Quantitative Methods (Bayesian)](https://stefanocoretta.github.io/sqmb/) (tutor; interim CO; three guest lectures; lecture, tutorial, and assessment design)
+- LEL2D: Cross-linguistic Variation: Limits and Theories (tutor)
+- [Simulating Language](https://smkirby.github.io/simlang2024-25/) (tutor)
 
 
 # Feedback?
 
 I'm very thankful for any feedback about my teaching!
-If I've taught you before and you have comments to share, you can email me or fill in [this anonymous form](https://forms.office.com/pages/responsepage.aspx?id=sAafLmkWiUWHiRCgaTTcYTfwH9luqYhFtny1RSFw3ytUOFRDNldKMjM1REJMMjBJT1BOQUtMU0o1Ri4u) (requires University of Edinburgh credentials).
+If I've taught you before and you have comments to share, you can email me or fill in [this anonymous form](https://forms.office.com/e/4pCUsw7suV) (requires University of Edinburgh sign-in).
 

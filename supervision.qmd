@@ -14,8 +14,8 @@ Please do get in touch if you're interested in working with me on any of the fol
 - word segmentation
 - rule learning
 - rule generalisation
-- pedagogical theory and practice
 - psychology of learning
+- scholarship of teaching and learning
 
 
 Methods I'm happy to supervise:
