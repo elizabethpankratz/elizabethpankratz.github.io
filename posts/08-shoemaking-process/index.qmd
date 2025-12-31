@@ -1,0 +1,217 @@
+---
+title: "Shoemaking step-by-step"
+date: "2025-12-31"
+categories: [Shoemaking]
+image: "imgs/161.png"
+lightbox: true
+toc: true
+---
+
+A post for reference! 
+This is a checklist of every step in my process for making hand-welted leather boots and shoes.
+
+But first, a proud shoe mama moment: I used this checklist to guide my latest project, these barefoot-style derby boots.
+
+![Side view. Zero-drop heel and minimal toe spring, but with a stack height of about 11mm (5mm outsole, 3mm midsole, 3mm insole), so more cushioned than many true barefoot shoes out there.](imgs/161.png){fig-align="center" group="gallery" fig-width="80%"}
+
+![Top view. These are my first properly foot-shaped boots, and they're sooo comfy.](imgs/158.png){fig-align="center" group="gallery"}
+
+![Bottom view. Chunky sole ready for stomping!](imgs/175.png){fig-align="center" group="gallery"}
+
+
+<br>
+
+OK! A few general notes on this step-by-step checklist:
+
+- It assumes the pattern has already been drafted.
+- It assumes a derby boot construction with a 360-degree welt and rubber soling that comes in a sheet.
+- It assumes veg tan upper leather (but if using chrome tan, can just skip the burnishing steps).
+- I've included my notes for both a regular tongue and a bellows tongue.
+- On the sewing:
+  - I sew the outer leather by hand using a saddle stitch about 3mm in from the leather's edge. For edge-to-edge stitching (only the spine of the quarters), I use a box stitch, aka x-and-bar stitch.
+  - For lining-only seams (again, only the spine of the quarters), I use a zigzag stitch on my sewing machine.
+- On the glues: Unless otherwise noted, the glue I use is Renia Aquilim, a water-based contact cement. Other glues that make an appearance are Hirschkleber (for attaching the stiffeners), very basic white PVA glue (for tacking down the lasted outers), and Renia Colle de Cologne (for securing the soling).
+- Shoemaking resources that have taught me a lot and helped inform this process:
+  - [the Carreducker blog](https://carreducker.blogspot.com)
+  - [Handcraft Your Own Shoes and Boots by Neda Hussain](https://www.waterstones.com/book/handcraft-your-own-shoes-and-boots/neda-hussain//9798385941018)
+  - [Making Handmade Shoes by Harry Rogers](https://www.amazon.co.uk/MAKING-HANDMADE-SHOES-STEP-STEP/dp/B0BM57TF35)
+
+<br>
+
+
+## Prepping stiffeners
+
+- [ ] Cut heel counter and toe puff from 2–3mm thick veg tan leather. 
+- [ ] Glass the skin sides of both stiffeners.
+- [ ] For the heel counter, skive only the upper edge down to nothing. Leave the lower edge with a bit more thickness (this'll make it easier to push the stiffener up in between the lining and the outer later on, and the feather edge can be cut and smoothed down once the heel counter is in place).
+- [ ] For the toe puff, skive all edges down to nothing. The thinner the long side (that'll end up at the feather edge), the easier it'll be to last.
+
+
+## Clicking (aka cutting out the pattern pieces) and prepping upper pieces
+
+- [ ] Write a list of all pattern pieces (listing both left and right pieces makes forgetting a piece, or forgetting to mirror one, less likely). For a pair of derby boots, we've got:
+    - Outer leather:
+        - Toe cap (L, R)
+        - Vamp (L, R)
+        - Quarters (L, L, R, R)
+        - Back strip (L, R)
+        - Tongue (L, R)
+    - Lining leather:
+        - Vamp (L, R)
+        - Quarters (L, L, R, R)
+        - Back strip (L, R)
+        - Insock (L, R)
+- [ ] Map out the natural stretch structure of the outer and lining leather, and mark any blemishes.
+- [ ] Lay out pattern pieces on leather, matching directions of stretch. Reserve the best leather for the vamps (most visible) and the least nice bits for the tongue and insock (least visible).
+- [ ] Trace pieces onto leather with silver pen.
+- [ ] Cut out pieces just inside silver lines.
+- [ ] Skive areas of over/underlay.
+- [ ] If dyeing public sides of leather, use a few coats of aniline dye, followed by dye sealer, followed by Tokonole.
+- [ ] Transfer pattern markings (e.g., alignment points, lasting allowances).
+- [ ] Outer: Burnish all edges that'll end up as a single layer (e.g., tongue edge, lower curve overlay on quarters, overlay on toe cap, overlay edges of back strip, overlay of vamp over tongue).
+
+
+## Closing (aka attaching outers and linings to create the upper)
+
+### Join toe cap and vamp
+
+- [ ] Sew outer toe cap to outer vamp.
+- [ ] Apply reinforcement tape over seam on flesh side.
+
+
+### Join spine of quarters
+
+- [ ] Outer and lining quarters: Sew spine of quarters together edge to edge.
+- [ ] Apply reinforcement tape over seam on flesh side.
+- [ ] Outer and lining back strip, quarters: Sew back strip to quarters, centered over spine seam.
+- [ ] Apply reinforcement tape over seams on flesh side.
+
+
+### Join outer/lining quarters
+
+- [ ] Outer quarters: Run reinforcement tape around topline and lacing edges of quarters (to reinforce where lacing holes will be punched).
+- [ ] Outer and lining quarters: Flesh sides together, cement quarters together just along topline and lacing edges (leaving the layers separate below, so that later, the heel stiffener can be sandwiched in between).
+
+
+#### If bellows tongue:
+
+- [ ] Bellows tongue and quarters: Cement lacing edges of bellows tongue to lacing edges of quarters lining.
+- [ ] Bellows tongue and quarters: Sew bellows tongue to quarters along topline/lacing edge. If back strip includes bootstrap, tack it down inside the boot as part of this seam.
+- [ ] Quarters: Burnish topline and lacing edges.
+- [ ] Quarters: Punch lacing holes and add grommets/hooks.
+- [ ] Quarters: Sew another seam through bellows tongue/lining/outer quarters on other side of eyelets, to reduce strain on lacing holes.
+
+
+#### If regular tongue:
+
+- [ ] Quarters: Sew outer and lining together around topline/lacing edges. If back strip includes bootstrap, tack it down inside the boot as part of this seam.
+- [ ] Quarters: Burnish topline and lacing edges.
+- [ ] Quarters: Punch lacing holes, add grommets/hooks.
+
+
+### Join tongue (both regular and bellows) and vamp
+
+- [ ] Outer and lining vamp: Flesh sides together, cement outer to lining ONLY along the convex curves that will be joined to the quarters, leaving tongue overlay unglued.
+- [ ] Vamp, tongue: Sandwich the tongue's underlay in between vamp outer and vamp lining, and sew it in place through all three layers.
+
+
+### Join vamp and quarters
+
+- [ ] Align quarters over vamp using markings transferred from pattern.
+- [ ] Quarters lining: cut a 12mm slit about 20mm back along the curve that overlays the vamp, so that the vamp can be sandwiched between the quarters outer and quarters lining.
+- [ ] Cement quarters to vamp along this curve.
+- [ ] Sew through all layers.
+
+**The uppers are done!** 💃
+
+
+## Insole and welt prep
+
+- [ ] Cut insole based on last sole pattern, with a few mm of ease on all sides, from sturdy veg tan (minimum 3mm thick).
+- [ ] Glass skin side of insole.
+- [ ] Wet insole, block it (skin side up) to last sole with nails and allow to mostly dry.
+- [ ] Cut welts: two strips 12mm wide, approx 70 cm long, from the same leather that will be used for the midsole later (I use 3mm veg tan).
+- [ ] Prepare welts (on flesh side: cut the shallow stitching valley 5mm from feather edge side; on skin side: cut the 5mm-wide under-feather-edge taper).
+- [ ] If dyeing sole edges later, dye tapered edge of welt now.
+- [ ] Trim blocked insole to last's feather edge, and bevel raised bits around feather edge flat.
+- [ ] Mark 6mm wide holdfast all around foot circumference (10mm from feather edge at toe and heel, 7mm at inside waist, 5mm elsewhere).
+- [ ] Carve holdfast about 1.5mm deep.
+- [ ] Mark hole spacing around holdfast (holes every 7mm, measured around outer circumference of holdfast).
+- [ ] Pre-punch holes in holdfast using waxed welting awl (not stitching awl).
+
+
+## Lasting
+
+- [ ] Cover last and inside of uppers with baby powder.
+- [ ] Last the linings, placing nails outside holdfast.
+- [ ] Cement lasted lining down onto holdfast.
+- [ ] Trim lining down to holdfast inner edge and skive down pleats at toe and heel.
+- [ ] Paste stiffeners on using Hirschkleber. (For heel counter, can apply just a bit of paste initially and use rounded screwdriver to persuade heel counter up in between outer and lining, then add more paste later once the stiffener is in position. Toe puff is a lot easier by comparison.)
+- [ ] Skive down pleats in stiffeners.
+- [ ] Last the outers over the stiffeners.
+- [ ] Cement outer leather down onto holdfast (PVA glue works well here).
+- [ ] Once glue is dry, remove lasting nails.
+- [ ] Trim outer down to holdfast inner edge and skive down pleats at toe and heel.
+- [ ] Dye skived bits to the same colour as the outer, just in case they are visible after welting.
+
+
+## Welting
+
+- [ ] Trace feather edge using silver pen.
+- [ ] Sew on welts through holdfast and lasted uppers, aiming for the welting awl to exit upper at the feather edge line.
+- [ ] Wet welts and hammer flat.
+- [ ] Fill in centre of holdfast with cork filler.
+- [ ] Hammer and rasp the sole surface down so it's fairly smooth. Doesn't need to be perfect.
+
+
+## Attaching the midsole
+
+- [ ] Use the circumference of the welted edge, plus a few mm ease, as a pattern to cut the midsole from 3mm veg tan.
+- [ ] Rough both skin side and flesh side of midsole.
+- [ ] Cement flesh side of midsole onto sole surface.
+- [ ] If using a fudge wheel, apply fudging to welt.
+- [ ] Mark stitching line about 4mm in from edge of welt.
+- [ ] Pre-punch welt stitching holes using stitching awl (not welting awl), taking care not to damage upper.
+- [ ] Sew welt and midsole together.
+- [ ] If midsole still overhangs welt, trim edge down. Doesn't need to be perfect—will sand all edges down later.
+
+
+## If building stacked leather heel
+
+- [ ] Take heel pattern off of midsole bottom.
+- [ ] Cut heel lift(s) from same leather as midsole.
+- [ ] Cement (using Renia Colle de Cologne) + peg (with pegging awl + wooden toothpicks) each successive heel lift layer.
+- [ ] Trim heel stack down to edge of midsole.
+
+
+## Attaching the rubber sheet soling
+
+- [ ] Take soling pattern(s) off of trimmed midsole/heel.
+- [ ] Cut rubber outsole pieces, including a bit of ease.
+- [ ] Rough the midsole leather and the upper face of the outsole.
+- [ ] Cement midsole and soling rubber together (two coats of Colle de Cologne); bind tightly with bike tubes/fabric strips for min 12h.
+- [ ] For extra security, fix rubber soling to midsole/welt using short tacks (esp useful at heel and toe).
+
+
+## Edge finishing
+
+- [ ] Once cement has set, trim down outsole rubber as much as possible.
+- [ ] Carefully sand down welt/midsole/outsole edges. I like to taper the sanding in at the inner waist to make an elegant curve.
+- [ ] Bevel welt's upper edge.
+- [ ] Remove dried glue bits from welt/sole edges with rubber crepe.
+- [ ] If dyeing edges, apply dye and dye sealer.
+- [ ] If needed, touch up dye on upper too.
+- [ ] Burnish welt/sole edges with Tokonole and canvas cloth.
+
+
+## The final steps
+
+- [ ] Remove the last! Try on the shoe! Celebrate!
+- [ ] If extra heel security is needed: Hammer tacks from top of insole into heel stack.
+- [ ] If adding lacing loop to tongue: Lace up boots, mark desired point on tongue to attach the loop, and then sew on a strip of leather (each strip about 12mm wide by 36–48mm long).
+- [ ] Cement insock to top of insole, in three phases: first the heel (easiest to reach and align), then midfoot (using the cemented heel bit as an anchor, slide insock forward over insole), and finally the hard-to-reach forefoot.
+
+
+<br>
+
+**All done** 🥾👢👞🥂✨

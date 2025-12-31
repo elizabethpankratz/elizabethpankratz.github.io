@@ -11,17 +11,6 @@ toc-depth: 1
 I'm an [Associate Fellow of Advance HE](https://www.advance-he.ac.uk/fellowship/associate-fellowship) (if you see AFHEA after my name, that's what that stands for!).
 
 
-# Office hours and stats chats
-
-I really like to do my office hours and stats chats in person.
-I tend to draw lots of little pictures to illustrate and explain things, so it's really useful to be able to sit together and look over the same pieces of paper.
-As such, by default, my office hours are all in person.
-But if you need an online meeting, we can meet over Teams too—please just let me know as far in advance as possible.
-
-Book a time that suits you on [my Bookings page](https://edin.ac/47yMWuQ).
-If none of those times work for you, feel free to email me and propose a time that does.
-
-
 # Currently teaching on
 
 - [Data analysis for Psychology in R 1](https://uoepsy.github.io/dapr1/) (labs)
@@ -29,12 +18,19 @@ If none of those times work for you, feel free to email me and propose a time th
 - [Data analysis for Psychology in R 3](https://uoepsy.github.io/dapr3) (co-course organiser, labs)
 
 
-# Previously taught on
+# Office hours and stats chats
 
-- [Quantitative Methods for Linguistics and English Language](https://uoelel.github.io/qml/) (tutor, guest lecture on p-values)
-- [Statistics and Quantitative Methods (Bayesian)](https://stefanocoretta.github.io/sqmb/) (tutor; interim CO; three guest lectures; lecture, tutorial, and assessment design)
-- LEL2D: Cross-linguistic Variation: Limits and Theories (tutor)
-- [Simulating Language](https://smkirby.github.io/simlang2024-25/) (tutor)
+I really like to do my office hours and stats chats **in person.**
+I draw lots of little pictures to illustrate and explain things, so it's really useful for us to be able to sit together and look at the same pieces of paper.
+But if you need an online meeting, we can meet over Teams too—please just let me know as far in advance as possible.
+
+
+<!-- # Previously taught on -->
+
+<!-- - [Quantitative Methods for Linguistics and English Language](https://uoelel.github.io/qml/) (tutor, guest lecture on p-values) -->
+<!-- - [Statistics and Quantitative Methods (Bayesian)](https://stefanocoretta.github.io/sqmb/) (tutor; interim CO; three guest lectures; lecture, tutorial, and assessment design) -->
+<!-- - LEL2D: Cross-linguistic Variation: Limits and Theories (tutor) -->
+<!-- - [Simulating Language](https://smkirby.github.io/simlang2024-25/) (tutor) -->
 
 
 # Feedback?
