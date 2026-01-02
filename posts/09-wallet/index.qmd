@@ -1,0 +1,48 @@
+---
+title: "Keys + cards + airtag leather wallet (free pattern)"
+date: "2026-01-02"
+categories: [Leatherwork, Patterns]
+image: "imgs/DSC_2004.png"
+lightbox: true
+toc: true
+---
+
+I wanted a simple wallet that would hold my day-to-day cards and keys, as well as an airtag. 
+This post shares a downloadable PDF of the pattern I came up with.
+
+
+::: {layout-ncol=2}
+
+![The card side of the wallet with two levels of pockets.](imgs/DSC_2008.png){group="gallery"}
+
+![The keys-and-airtag side of the wallet, all folded up.](imgs/DSC_2004.png){group="gallery"}
+
+![With the wings open, the keys are accessible. The airtag is hiding in its little panel.](imgs/DSC_1989.png){group="gallery"}
+
+![The airtag is inserted and removed through an opening in the panel's side seam.](imgs/DSC_1996.png){group="gallery"}
+:::
+
+
+**Wallet specs:**
+
+- Dimensions with wings folded in: approx 118mm *  70mm * 22mm.
+- Easily holds an airtag, a handful of keys, and up to four cards. 
+
+
+**Materials I used:**
+
+- **Leather:** 1.2–1.4mm-thick undyed veg tan leather. I used scraps left over from my barefoot boots, or the wallet requires one A4/letter-sized sheet.
+- **Thread:** Mercerised crochet cotton from a charity shop, waxed before sewing.
+- **Snaps:** Prym 15mm snaps, 2x front (the receiving end) and 2x back (the inserting end). Smaller snaps would also work fine.
+
+
+**Download PDF of the pattern and step-by-step instructions:**
+
+- [A4 paper](../../documents/key-card-airtag-A4.pdf){target="_blank"}
+- [letter paper](../../documents/key-card-airtag-letter.pdf){target="_blank"}
+
+Print the pattern page at 100% scale, and check the size of the printout using the scaling squares.
+
+<br>
+
+If you make this wallet, do shoot me an email and let me know how it turns out 😊
