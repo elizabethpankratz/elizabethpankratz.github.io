@@ -1,0 +1,226 @@
+---
+title: "Power analysis for linear mixed models (workshop materials)"
+date: "2026-03-17"
+categories: [stats, resources]
+image: "imgs/filler.png"
+toc: true
+format:
+  html:
+    code-fold: false
+    code-tools: true
+---
+
+This page contains material for the power analysis workshop I'm holding in Prof. Holly Branigan and Prof. Martin Pickering's lab meeting on 17 March, 2026.
+
+# Goals of the workshop
+
+- get comfy/-ier with the concept of statistical power
+- get comfy/-ier with thinking about plausible effect sizes
+- practice using `simr::makeLmer()` and `mixedpower()` to run power analyses
+
+# Get set up in R
+
+Copy and paste the following code:
+
+```{r setup}
+library(tidyverse)
+library(simr)
+library(mixedpower)
+```
+
+
+If you haven't installed `mixedpower`, run the following (it lives on GitHub, not CRAN, so `install.packages()` won't work):
+
+TODO
+
+
+
+# Build intuitions
+
+## Why do we care about power?
+
+Short answer: power analyses are useful because they tell us how many experimental participants we should try to recruit.
+
+
+## What is statistical power?
+
+In the world of null hypothesis significance testing (NHST), a statistical test can lead to one of two possible decisions:
+
+1. You reject the null hypothesis (H0).
+2. You fail to reject the H0.
+
+Ideally, these decisions would map directly to two different true states of the world:
+
+1. In reality, the H0 is false.
+2. In reality, the H0 is true.
+
+However, even if the H0 is really truly false, we are (alas!) not guaranteed to reject it.
+
+Every test has some probability of correctly rejecting the H0 (that is, rejecting the H0 when it really truly is false).
+That probability is known as "statistical power".
+
+TODO collapsed callout: classic 2x2 table
+
+Statistical power depends on three values:
+
+1. our accepted false positive rate (aka our alpha level, aka the probability of *incorrectly* rejecting the H0);
+2. the true size of the effect out there in reality; and
+3. the number of observations we have gathered.
+
+In Psychology and sister disciplines, we usually set our accepted false positive rate (1) at a 5% level of risk.
+
+Re (2), we don't know the true effect size (that's why we are doing stats about it!).
+But we can use our expert judgements and previous research make some educated guesses about what kinds of values are reasonable and/or theoretically interesting.
+
+<!-- - our expert judgements; -->
+<!-- the smallest effect size that would be theoretically interesting/relevant  (you'll see this abbreviated as SESOI, Smallest Effect Size Of Interest); and -->
+<!-- - previous research. -->
+
+Finally, we'll simulate a bunch of different sample sizes (3), so that we can see how many participants we need for a reasonably-powered study.
+
+
+
+## Simulation, you say?
+
+<!-- Yes—we do a priori power analyses (that is, power analyses before the main study is run) by simulating data that contains the effect we are interested in, then fitting a model to that data, and checking whether we  -->
+
+![](imgs/sim-schematic.png){fig-align="center"}
+
+Power analysis for experimental data should happen after piloting the experiment and before running the main thing (hence "a priori power analysis").
+
+Why run the pilot first?
+The pilot data helps us approximate how much variability we should expect from where, e.g.,
+
+- how much by-participant variability?
+- how much by-stimulus variability? 
+- how much residual variability?
+
+TODO collapsed callout: why doesn't a post-hoc power analysis make sense?
+
+
+# 1: Start simple(ish)
+
+Imagine we're running a lexical decision task to analyse the effect of a word's frequency on how quickly people identify it as a word in their language.
+
+Our outcome variable will be logged reaction times (RT), because many of you said you work with continuous outcomes, and today will be more pleasant if we spare ourselves the extra spice of the link function.
+(But the same principles apply!)
+
+For our predictor, because many of you said you work with categorical predictors, words will be grouped into two frequency classes: one for low-frequency words, one for high-frequency words.
+(But Section 2 below LINK TODO will use a continuous z-scored predictor!)
+
+Our variables for this analysis will be the following:
+
+- `logRT`: logged reaction times (smaller values = faster)
+- `wdFreq`: categorical, with two levels: `low`, `high`; within-participants 
+- `ppt_id`: categorical, one value per participant
+
+
+## Build up one iteration of the power analysis, step by step
+
+### Work out the maximal model
+
+Here's the model formula in R syntax:
+
+`logRT ~ wdFreq + (wdFreq | ppt_id)`
+
+This formula doesn't tell us much about what parameters the model will actually contain.
+
+If you want to see a mathematical version of the model specification where all the parameters are laid out explicitly, then you can uncollapse the box below.
+
+:::{.callout-tip collapse = 'true'}
+#### For the keen: Mathematical model specification
+
+$$
+\begin{align}
+\text{logRT}_i &= (\beta_0 + u_{0i}) + (\beta_1 + u_{1i}) \cdot \text{wdFreq} + \epsilon \\
+\epsilon &\sim \text{Normal}(0, \sigma) \\
+\pmatrix{u_{0i} \\ u_{1i}} &\sim \text{Normal}
+\begin{bmatrix}
+\pmatrix{0 \\ 0},
+\pmatrix{\sigma_{u_{0i}}^2 & 0 \\ 0 & \sigma_{u_{1i}}^2}
+\end{bmatrix}
+\\
+\end{align}
+$$
+
+**In words:**
+
+- Each participant $i$'s log RT equals
+  - the intercept $\beta_0$ plus each participant's intercept adjustment $u_{0i}$; plus
+  - the slope over `wdFreq` $\beta_1$ plus each participant's slope adjustment $u_{1i}$, all times `wdFreq`; plus
+  - some error $\epsilon$.
+- The error $\epsilon$ is sampled from a Normal distribution with mean 0 and standard deviation (SD) $\sigma$.
+- Each participant's adjustments to intercept $u_{0i}$ and slope $u_{1i}$ are sampled together from a bivariate Normal distribution.
+  - The mean of each dimension is 0.
+  - The spread of the distribution is defined by a variance-covariance matrix with the variance (SD$^2$) of each adjustment on the diagonal and the correlations between those adjustments on the off-diagonal. Here the correlations are assumed to be zero.
+  - NB: Because slope and intercept adjustments are uncorrelated in this example, I could also have written them being drawn from two separate univariate Normals, like in the $\epsilon$ line. However, the `simr` code below wants a variance-covariance matrix, even if the correlations are 0, so for consistency, I'm using the bivariate Normal version here.
+  
+**Parameter glossary:**
+
+- $i$ indexes participants
+- $\beta_0$ = fixed intercept
+- $u_{0i}$ = by-participant adjustment to fixed intercept
+- $\beta_1$ = fixed slope over `wdFreq`
+- $u_{1i}$ = by-participant adjustment to fixed slope
+- $\epsilon$ = error
+- $\sigma$ = standard deviation of errors
+- $\sigma_{0i}$ = SD of by-participant intercept adjustment
+- $\sigma_{1i}$ = SD of by-participant slope adjustment
+
+
+:::
+
+### Define how all variables are coded/transformed
+
+We already know that `logRT` is in log units, not ms.
+
+`wdFreq` will be sum-coded, aka effect-coded, aka deviation-coded, aka (because names for contrast coding schemes are basically meaningless these days): `low` will be coded as –0.5, and `high` as +0.5.
+
+Consequently, the intercept $\beta_0$ will represent the grand mean log RT, and the slope $\beta_1$ will represent the change in log RT as we move from `low` to `high`.
+
+
+**Prediction:** Do you think that $\beta_1$ should have a positive value or a negative value?
+
+
+### Make dataframe of all predictor values (design matrix)
+
+
+
+### Define parameter values
+
+
+#### Effects of interest
+
+
+#### Variance components
+
+
+### Set up artificial model with `simr::makeLmer()`
+
+
+### Run power analysis with `mixedpower::mixedpower()`
+
+
+
+## Iterate over all assumed true params
+
+
+# 2: Get spicy
+
+two preds + ixn, two groups (crossed)
+
+
+# Questions you submitted
+
+- report
+- maximal model
+- test params vs. mod comp
+
+
+# Session info
+
+```{r}
+#| code-fold: false
+
+sessionInfo()
+```

@@ -1,0 +1,1132 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.8.24">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+<meta name="dcterms.date" content="2026-03-17">
+
+<title>Power analysis for linear mixed models (workshop materials)</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+/* CSS for syntax highlighting */
+html { -webkit-text-size-adjust: 100%; }
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
+</style>
+
+
+<script src="index_files/libs/clipboard/clipboard.min.js"></script>
+<script src="index_files/libs/quarto-html/quarto.js" type="module"></script>
+<script src="index_files/libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="index_files/libs/quarto-html/axe/axe-check.js" type="module"></script>
+<script src="index_files/libs/quarto-html/popper.min.js"></script>
+<script src="index_files/libs/quarto-html/tippy.umd.min.js"></script>
+<script src="index_files/libs/quarto-html/anchor.min.js"></script>
+<link href="index_files/libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="index_files/libs/quarto-html/quarto-syntax-highlighting-dc55a5b9e770e841cd82e46aadbfb9b0.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="index_files/libs/bootstrap/bootstrap.min.js"></script>
+<link href="index_files/libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="index_files/libs/bootstrap/bootstrap-d6a003b94517c951b2d65075d42fb01b.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
+
+</head>
+
+<body class="quarto-light">
+
+<div id="quarto-content" class="page-columns page-rows-contents page-layout-article">
+<div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+  <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Table of contents</h2>
+   
+  <ul>
+  <li><a href="#goals-of-the-workshop" id="toc-goals-of-the-workshop" class="nav-link active" data-scroll-target="#goals-of-the-workshop">Goals of the workshop</a></li>
+  <li><a href="#get-set-up-in-r" id="toc-get-set-up-in-r" class="nav-link" data-scroll-target="#get-set-up-in-r">Get set up in R</a></li>
+  <li><a href="#build-intuitions" id="toc-build-intuitions" class="nav-link" data-scroll-target="#build-intuitions">Build intuitions</a>
+  <ul class="collapse">
+  <li><a href="#why-do-we-care-about-power" id="toc-why-do-we-care-about-power" class="nav-link" data-scroll-target="#why-do-we-care-about-power">Why do we care about power?</a></li>
+  <li><a href="#what-is-statistical-power" id="toc-what-is-statistical-power" class="nav-link" data-scroll-target="#what-is-statistical-power">What is statistical power?</a></li>
+  <li><a href="#simulation-you-say" id="toc-simulation-you-say" class="nav-link" data-scroll-target="#simulation-you-say">Simulation, you say?</a></li>
+  </ul></li>
+  <li><a href="#start-simpleish" id="toc-start-simpleish" class="nav-link" data-scroll-target="#start-simpleish">1: Start simple(ish)</a>
+  <ul class="collapse">
+  <li><a href="#build-up-one-iteration-of-the-power-analysis-step-by-step" id="toc-build-up-one-iteration-of-the-power-analysis-step-by-step" class="nav-link" data-scroll-target="#build-up-one-iteration-of-the-power-analysis-step-by-step">Build up one iteration of the power analysis, step by step</a>
+  <ul class="collapse">
+  <li><a href="#work-out-the-maximal-model" id="toc-work-out-the-maximal-model" class="nav-link" data-scroll-target="#work-out-the-maximal-model">Work out the maximal model</a></li>
+  <li><a href="#define-how-all-variables-are-codedtransformed" id="toc-define-how-all-variables-are-codedtransformed" class="nav-link" data-scroll-target="#define-how-all-variables-are-codedtransformed">Define how all variables are coded/transformed</a></li>
+  <li><a href="#make-dataframe-of-all-predictor-values-design-matrix" id="toc-make-dataframe-of-all-predictor-values-design-matrix" class="nav-link" data-scroll-target="#make-dataframe-of-all-predictor-values-design-matrix">Make dataframe of all predictor values (design matrix)</a></li>
+  <li><a href="#define-parameter-values" id="toc-define-parameter-values" class="nav-link" data-scroll-target="#define-parameter-values">Define parameter values</a></li>
+  <li><a href="#set-up-artificial-model-with-simrmakelmer" id="toc-set-up-artificial-model-with-simrmakelmer" class="nav-link" data-scroll-target="#set-up-artificial-model-with-simrmakelmer">Set up artificial model with <code>simr::makeLmer()</code></a></li>
+  <li><a href="#run-power-analysis-with-mixedpowermixedpower" id="toc-run-power-analysis-with-mixedpowermixedpower" class="nav-link" data-scroll-target="#run-power-analysis-with-mixedpowermixedpower">Run power analysis with <code>mixedpower::mixedpower()</code></a></li>
+  </ul></li>
+  <li><a href="#iterate-over-all-assumed-true-params" id="toc-iterate-over-all-assumed-true-params" class="nav-link" data-scroll-target="#iterate-over-all-assumed-true-params">Iterate over all assumed true params</a></li>
+  </ul></li>
+  <li><a href="#get-spicy" id="toc-get-spicy" class="nav-link" data-scroll-target="#get-spicy">2: Get spicy</a></li>
+  <li><a href="#questions-you-submitted" id="toc-questions-you-submitted" class="nav-link" data-scroll-target="#questions-you-submitted">Questions you submitted</a></li>
+  <li><a href="#session-info" id="toc-session-info" class="nav-link" data-scroll-target="#session-info">Session info</a></li>
+  </ul>
+</nav>
+</div>
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<div class="quarto-title-block"><div><h1 class="title">Power analysis for linear mixed models (workshop materials)</h1><button type="button" class="btn code-tools-button" id="quarto-code-tools-source"><i class="bi"></i> Code</button></div></div>
+  <div class="quarto-categories">
+    <div class="quarto-category">stats</div>
+    <div class="quarto-category">resources</div>
+  </div>
+  </div>
+
+
+
+<div class="quarto-title-meta">
+
+    
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">March 17, 2026</p>
+    </div>
+  </div>
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<p>This page contains material for the power analysis workshop I’m holding in Prof.&nbsp;Holly Branigan and Prof.&nbsp;Martin Pickering’s lab meeting on 17 March, 2026.</p>
+<section id="goals-of-the-workshop" class="level1">
+<h1>Goals of the workshop</h1>
+<ul>
+<li>get comfy/-ier with the concept of statistical power</li>
+<li>get comfy/-ier with thinking about plausible effect sizes</li>
+<li>practice using <code>simr::makeLmer()</code> and <code>mixedpower()</code> to run power analyses</li>
+</ul>
+</section>
+<section id="get-set-up-in-r" class="level1">
+<h1>Get set up in R</h1>
+<p>Copy and paste the following code:</p>
+<div class="cell">
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(tidyverse)</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<div class="cell-output cell-output-stderr">
+<pre><code>── Attaching core tidyverse packages ──────────────────────── tidyverse 2.0.0 ──
+✔ dplyr     1.2.0     ✔ readr     2.1.6
+✔ forcats   1.0.1     ✔ stringr   1.6.0
+✔ ggplot2   4.0.1     ✔ tibble    3.3.1
+✔ lubridate 1.9.4     ✔ tidyr     1.3.2
+✔ purrr     1.2.1     
+── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
+✖ dplyr::filter() masks stats::filter()
+✖ dplyr::lag()    masks stats::lag()
+ℹ Use the conflicted package (&lt;http://conflicted.r-lib.org/&gt;) to force all conflicts to become errors</code></pre>
+</div>
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb3"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(simr)</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<div class="cell-output cell-output-stderr">
+<pre><code>Loading required package: lme4
+Loading required package: Matrix
+
+Attaching package: 'Matrix'
+
+The following objects are masked from 'package:tidyr':
+
+    expand, pack, unpack
+
+
+Attaching package: 'simr'
+
+The following object is masked from 'package:lme4':
+
+    getData
+
+The following object is masked from 'package:stringr':
+
+    fixed</code></pre>
+</div>
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb5"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb5-1"><a href="#cb5-1" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(mixedpower)</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+</div>
+<p>If you haven’t installed <code>mixedpower</code>, run the following (it lives on GitHub, not CRAN, so <code>install.packages()</code> won’t work):</p>
+<p>TODO</p>
+</section>
+<section id="build-intuitions" class="level1">
+<h1>Build intuitions</h1>
+<section id="why-do-we-care-about-power" class="level2">
+<h2 class="anchored" data-anchor-id="why-do-we-care-about-power">Why do we care about power?</h2>
+<p>Short answer: power analyses are useful because they tell us how many experimental participants we should try to recruit.</p>
+</section>
+<section id="what-is-statistical-power" class="level2">
+<h2 class="anchored" data-anchor-id="what-is-statistical-power">What is statistical power?</h2>
+<p>In the world of null hypothesis significance testing (NHST), a statistical test can lead to one of two possible decisions:</p>
+<ol type="1">
+<li>You reject the null hypothesis (H0).</li>
+<li>You fail to reject the H0.</li>
+</ol>
+<p>Ideally, these decisions would map directly to two different true states of the world:</p>
+<ol type="1">
+<li>In reality, the H0 is false.</li>
+<li>In reality, the H0 is true.</li>
+</ol>
+<p>However, even if the H0 is really truly false, we are (alas!) not guaranteed to reject it.</p>
+<p>Every test has some probability of correctly rejecting the H0 (that is, rejecting the H0 when it really truly is false). That probability is known as “statistical power”.</p>
+<p>TODO collapsed callout: classic 2x2 table</p>
+<p>Statistical power depends on three values:</p>
+<ol type="1">
+<li>our accepted false positive rate (aka our alpha level, aka the probability of <em>incorrectly</em> rejecting the H0);</li>
+<li>the true size of the effect out there in reality; and</li>
+<li>the number of observations we have gathered.</li>
+</ol>
+<p>In Psychology and sister disciplines, we usually set our accepted false positive rate (1) at a 5% level of risk.</p>
+<p>Re (2), we don’t know the true effect size (that’s why we are doing stats about it!). But we can use our expert judgements and previous research make some educated guesses about what kinds of values are reasonable and/or theoretically interesting.</p>
+<!-- - our expert judgements; -->
+<!-- the smallest effect size that would be theoretically interesting/relevant  (you'll see this abbreviated as SESOI, Smallest Effect Size Of Interest); and -->
+<!-- - previous research. -->
+<p>Finally, we’ll simulate a bunch of different sample sizes (3), so that we can see how many participants we need for a reasonably-powered study.</p>
+</section>
+<section id="simulation-you-say" class="level2">
+<h2 class="anchored" data-anchor-id="simulation-you-say">Simulation, you say?</h2>
+<!-- Yes—we do a priori power analyses (that is, power analyses before the main study is run) by simulating data that contains the effect we are interested in, then fitting a model to that data, and checking whether we  -->
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="imgs/sim-schematic.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+</figure>
+</div>
+<p>Power analysis for experimental data should happen after piloting the experiment and before running the main thing (hence “a priori power analysis”).</p>
+<p>Why run the pilot first? The pilot data helps us approximate how much variability we should expect from where, e.g.,</p>
+<ul>
+<li>how much by-participant variability?</li>
+<li>how much by-stimulus variability?</li>
+<li>how much residual variability?</li>
+</ul>
+<p>TODO collapsed callout: why doesn’t a post-hoc power analysis make sense?</p>
+</section>
+</section>
+<section id="start-simpleish" class="level1">
+<h1>1: Start simple(ish)</h1>
+<p>Imagine we’re running a lexical decision task to analyse the effect of a word’s frequency on how quickly people identify it as a word in their language.</p>
+<p>Our outcome variable will be logged reaction times (RT), because many of you said you work with continuous outcomes, and today will be more pleasant if we spare ourselves the extra spice of the link function. (But the same principles apply!)</p>
+<p>For our predictor, because many of you said you work with categorical predictors, words will be grouped into two frequency classes: one for low-frequency words, one for high-frequency words. (But Section 2 below LINK TODO will use a continuous z-scored predictor!)</p>
+<p>Our variables for this analysis will be the following:</p>
+<ul>
+<li><code>logRT</code>: logged reaction times (smaller values = faster)</li>
+<li><code>wdFreq</code>: categorical, with two levels: <code>low</code>, <code>high</code>; within-participants</li>
+<li><code>ppt_id</code>: categorical, one value per participant</li>
+</ul>
+<section id="build-up-one-iteration-of-the-power-analysis-step-by-step" class="level2">
+<h2 class="anchored" data-anchor-id="build-up-one-iteration-of-the-power-analysis-step-by-step">Build up one iteration of the power analysis, step by step</h2>
+<section id="work-out-the-maximal-model" class="level3">
+<h3 class="anchored" data-anchor-id="work-out-the-maximal-model">Work out the maximal model</h3>
+<p>Here’s the model formula in R syntax:</p>
+<p><code>logRT ~ wdFreq + (wdFreq | ppt_id)</code></p>
+<p>This formula doesn’t tell us much about what parameters the model will actually contain.</p>
+<p>If you want to see a mathematical version of the model specification where all the parameters are laid out explicitly, then you can uncollapse the box below.</p>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Tip</span>For the keen: Mathematical model specification
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-1" class="callout-1-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<p><span class="math display">\[
+\begin{align}
+\text{logRT}_i &amp;= (\beta_0 + u_{0i}) + (\beta_1 + u_{1i}) \cdot \text{wdFreq} + \epsilon \\
+\epsilon &amp;\sim \text{Normal}(0, \sigma) \\
+\pmatrix{u_{0i} \\ u_{1i}} &amp;\sim \text{Normal}
+\begin{bmatrix}
+\pmatrix{0 \\ 0},
+\pmatrix{\sigma_{u_{0i}}^2 &amp; 0 \\ 0 &amp; \sigma_{u_{1i}}^2}
+\end{bmatrix}
+\\
+\end{align}
+\]</span></p>
+<p><strong>In words:</strong></p>
+<ul>
+<li>Each participant <span class="math inline">\(i\)</span>’s log RT equals
+<ul>
+<li>the intercept <span class="math inline">\(\beta_0\)</span> plus each participant’s intercept adjustment <span class="math inline">\(u_{0i}\)</span>; plus</li>
+<li>the slope over <code>wdFreq</code> <span class="math inline">\(\beta_1\)</span> plus each participant’s slope adjustment <span class="math inline">\(u_{1i}\)</span>, all times <code>wdFreq</code>; plus</li>
+<li>some error <span class="math inline">\(\epsilon\)</span>.</li>
+</ul></li>
+<li>The error <span class="math inline">\(\epsilon\)</span> is sampled from a Normal distribution with mean 0 and standard deviation (SD) <span class="math inline">\(\sigma\)</span>.</li>
+<li>Each participant’s adjustments to intercept <span class="math inline">\(u_{0i}\)</span> and slope <span class="math inline">\(u_{1i}\)</span> are sampled together from a bivariate Normal distribution.
+<ul>
+<li>The mean of each dimension is 0.</li>
+<li>The spread of the distribution is defined by a variance-covariance matrix with the variance (SD<span class="math inline">\(^2\)</span>) of each adjustment on the diagonal and the correlations between those adjustments on the off-diagonal. Here the correlations are assumed to be zero.</li>
+<li>NB: Because slope and intercept adjustments are uncorrelated in this example, I could also have written them being drawn from two separate univariate Normals, like in the <span class="math inline">\(\epsilon\)</span> line. However, the <code>simr</code> code below wants a variance-covariance matrix, even if the correlations are 0, so for consistency, I’m using the bivariate Normal version here.</li>
+</ul></li>
+</ul>
+<p><strong>Parameter glossary:</strong></p>
+<ul>
+<li><span class="math inline">\(i\)</span> indexes participants</li>
+<li><span class="math inline">\(\beta_0\)</span> = fixed intercept</li>
+<li><span class="math inline">\(u_{0i}\)</span> = by-participant adjustment to fixed intercept</li>
+<li><span class="math inline">\(\beta_1\)</span> = fixed slope over <code>wdFreq</code></li>
+<li><span class="math inline">\(u_{1i}\)</span> = by-participant adjustment to fixed slope</li>
+<li><span class="math inline">\(\epsilon\)</span> = error</li>
+<li><span class="math inline">\(\sigma\)</span> = standard deviation of errors</li>
+<li><span class="math inline">\(\sigma_{0i}\)</span> = SD of by-participant intercept adjustment</li>
+<li><span class="math inline">\(\sigma_{1i}\)</span> = SD of by-participant slope adjustment</li>
+</ul>
+</div>
+</div>
+</div>
+</section>
+<section id="define-how-all-variables-are-codedtransformed" class="level3">
+<h3 class="anchored" data-anchor-id="define-how-all-variables-are-codedtransformed">Define how all variables are coded/transformed</h3>
+<p>We already know that <code>logRT</code> is in log units, not ms.</p>
+<p><code>wdFreq</code> will be sum-coded, aka effect-coded, aka deviation-coded, aka (because names for contrast coding schemes are basically meaningless these days): <code>low</code> will be coded as –0.5, and <code>high</code> as +0.5.</p>
+<p>Consequently, the intercept <span class="math inline">\(\beta_0\)</span> will represent the grand mean log RT, and the slope <span class="math inline">\(\beta_1\)</span> will represent the change in log RT as we move from <code>low</code> to <code>high</code>.</p>
+<p><strong>Prediction:</strong> Do you think that <span class="math inline">\(\beta_1\)</span> should have a positive value or a negative value?</p>
+</section>
+<section id="make-dataframe-of-all-predictor-values-design-matrix" class="level3">
+<h3 class="anchored" data-anchor-id="make-dataframe-of-all-predictor-values-design-matrix">Make dataframe of all predictor values (design matrix)</h3>
+</section>
+<section id="define-parameter-values" class="level3">
+<h3 class="anchored" data-anchor-id="define-parameter-values">Define parameter values</h3>
+<section id="effects-of-interest" class="level4">
+<h4 class="anchored" data-anchor-id="effects-of-interest">Effects of interest</h4>
+</section>
+<section id="variance-components" class="level4">
+<h4 class="anchored" data-anchor-id="variance-components">Variance components</h4>
+</section>
+</section>
+<section id="set-up-artificial-model-with-simrmakelmer" class="level3">
+<h3 class="anchored" data-anchor-id="set-up-artificial-model-with-simrmakelmer">Set up artificial model with <code>simr::makeLmer()</code></h3>
+</section>
+<section id="run-power-analysis-with-mixedpowermixedpower" class="level3">
+<h3 class="anchored" data-anchor-id="run-power-analysis-with-mixedpowermixedpower">Run power analysis with <code>mixedpower::mixedpower()</code></h3>
+</section>
+</section>
+<section id="iterate-over-all-assumed-true-params" class="level2">
+<h2 class="anchored" data-anchor-id="iterate-over-all-assumed-true-params">Iterate over all assumed true params</h2>
+</section>
+</section>
+<section id="get-spicy" class="level1">
+<h1>2: Get spicy</h1>
+<p>two preds + ixn, two groups (crossed)</p>
+</section>
+<section id="questions-you-submitted" class="level1">
+<h1>Questions you submitted</h1>
+<ul>
+<li>report</li>
+<li>maximal model</li>
+<li>test params vs.&nbsp;mod comp</li>
+</ul>
+</section>
+<section id="session-info" class="level1">
+<h1>Session info</h1>
+<div class="cell">
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb6"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb6-1"><a href="#cb6-1" aria-hidden="true" tabindex="-1"></a><span class="fu">sessionInfo</span>()</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<div class="cell-output cell-output-stdout">
+<pre><code>R version 4.5.2 (2025-10-31)
+Platform: aarch64-apple-darwin20
+Running under: macOS Sequoia 15.7.3
+
+Matrix products: default
+BLAS:   /System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libBLAS.dylib 
+LAPACK: /Library/Frameworks/R.framework/Versions/4.5-arm64/Resources/lib/libRlapack.dylib;  LAPACK version 3.12.1
+
+locale:
+[1] en_US.UTF-8/en_US.UTF-8/en_US.UTF-8/C/en_US.UTF-8/en_US.UTF-8
+
+time zone: Europe/London
+tzcode source: internal
+
+attached base packages:
+[1] stats     graphics  grDevices utils     datasets  methods   base     
+
+other attached packages:
+ [1] mixedpower_0.1.0 simr_1.0.8       lme4_1.1-38      Matrix_1.7-4    
+ [5] lubridate_1.9.4  forcats_1.0.1    stringr_1.6.0    dplyr_1.2.0     
+ [9] purrr_1.2.1      readr_2.1.6      tidyr_1.3.2      tibble_3.3.1    
+[13] ggplot2_4.0.1    tidyverse_2.0.0 
+
+loaded via a namespace (and not attached):
+ [1] gtable_0.3.6       xfun_0.56          htmlwidgets_1.6.4  lattice_0.22-7    
+ [5] tzdb_0.5.0         vctrs_0.7.1        tools_4.5.2        Rdpack_2.6.5      
+ [9] generics_0.1.4     parallel_4.5.2     pbkrtest_0.5.5     pkgconfig_2.0.3   
+[13] RColorBrewer_1.1-3 S7_0.2.1           lifecycle_1.0.5    binom_1.1-1.1     
+[17] compiler_4.5.2     farver_2.1.2       carData_3.0-6      htmltools_0.5.9   
+[21] yaml_2.3.12        Formula_1.2-5      pillar_1.11.1      car_3.1-3         
+[25] nloptr_2.2.1       MASS_7.3-65        reformulas_0.4.4   iterators_1.0.14  
+[29] boot_1.3-32        abind_1.4-8        nlme_3.1-168       tidyselect_1.2.1  
+[33] digest_0.6.39      stringi_1.8.7      splines_4.5.2      fastmap_1.2.0     
+[37] grid_4.5.2         RLRsim_3.1-9       cli_3.6.5          magrittr_2.0.4    
+[41] broom_1.0.12       withr_3.0.2        scales_1.4.0       backports_1.5.0   
+[45] plotrix_3.8-14     timechange_0.4.0   rmarkdown_2.30     otel_0.2.0        
+[49] hms_1.1.4          evaluate_1.0.5     knitr_1.51         rbibutils_2.4.1   
+[53] mgcv_1.9-4         rlang_1.1.7        Rcpp_1.1.1         glue_1.8.0        
+[57] rstudioapi_0.18.0  minqa_1.2.8        jsonlite_2.0.0     plyr_1.8.9        
+[61] R6_2.6.1          </code></pre>
+</div>
+</div>
+<!-- -->
+
+</section>
+
+</main>
+<!-- /main column -->
+<script id="quarto-html-after-body" type="application/javascript">
+  window.document.addEventListener("DOMContentLoaded", function (event) {
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
+    const isCodeAnnotation = (el) => {
+      for (const clz of el.classList) {
+        if (clz.startsWith('code-annotation-')) {                     
+          return true;
+        }
+      }
+      return false;
+    }
+    const onCopySuccess = function(e) {
+      // button target
+      const button = e.trigger;
+      // don't keep focus
+      button.blur();
+      // flash "checked"
+      button.classList.add('code-copy-button-checked');
+      var currentTitle = button.getAttribute("title");
+      button.setAttribute("title", "Copied!");
+      let tooltip;
+      if (window.bootstrap) {
+        button.setAttribute("data-bs-toggle", "tooltip");
+        button.setAttribute("data-bs-placement", "left");
+        button.setAttribute("data-bs-title", "Copied!");
+        tooltip = new bootstrap.Tooltip(button, 
+          { trigger: "manual", 
+            customClass: "code-copy-button-tooltip",
+            offset: [0, -8]});
+        tooltip.show();    
+      }
+      setTimeout(function() {
+        if (tooltip) {
+          tooltip.hide();
+          button.removeAttribute("data-bs-title");
+          button.removeAttribute("data-bs-toggle");
+          button.removeAttribute("data-bs-placement");
+        }
+        button.setAttribute("title", currentTitle);
+        button.classList.remove('code-copy-button-checked');
+      }, 1000);
+      // clear code selection
+      e.clearSelection();
+    }
+    const getTextToCopy = function(trigger) {
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+    const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+      text: getTextToCopy
+    });
+    clipboard.on('success', onCopySuccess);
+    if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+      const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+        text: getTextToCopy,
+        container: window.document.getElementById('quarto-embedded-source-code-modal')
+      });
+      clipboardModal.on('success', onCopySuccess);
+    }
+    const viewSource = window.document.getElementById('quarto-view-source') ||
+                       window.document.getElementById('quarto-code-tools-source');
+    if (viewSource) {
+      const sourceUrl = viewSource.getAttribute("data-quarto-source-url");
+      viewSource.addEventListener("click", function(e) {
+        if (sourceUrl) {
+          // rstudio viewer pane
+          if (/\bcapabilities=\b/.test(window.location)) {
+            window.open(sourceUrl);
+          } else {
+            window.location.href = sourceUrl;
+          }
+        } else {
+          const modal = new bootstrap.Modal(document.getElementById('quarto-embedded-source-code-modal'));
+          modal.show();
+        }
+        return false;
+      });
+    }
+    function toggleCodeHandler(show) {
+      return function(e) {
+        const detailsSrc = window.document.querySelectorAll(".cell > details > .sourceCode");
+        for (let i=0; i<detailsSrc.length; i++) {
+          const details = detailsSrc[i].parentElement;
+          if (show) {
+            details.open = true;
+          } else {
+            details.removeAttribute("open");
+          }
+        }
+        const cellCodeDivs = window.document.querySelectorAll(".cell > .sourceCode");
+        const fromCls = show ? "hidden" : "unhidden";
+        const toCls = show ? "unhidden" : "hidden";
+        for (let i=0; i<cellCodeDivs.length; i++) {
+          const codeDiv = cellCodeDivs[i];
+          if (codeDiv.classList.contains(fromCls)) {
+            codeDiv.classList.remove(fromCls);
+            codeDiv.classList.add(toCls);
+          } 
+        }
+        return false;
+      }
+    }
+    const hideAllCode = window.document.getElementById("quarto-hide-all-code");
+    if (hideAllCode) {
+      hideAllCode.addEventListener("click", toggleCodeHandler(false));
+    }
+    const showAllCode = window.document.getElementById("quarto-show-all-code");
+    if (showAllCode) {
+      showAllCode.addEventListener("click", toggleCodeHandler(true));
+    }
+      var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var mailtoRegex = new RegExp(/^mailto:/);
+        var filterRegex = new RegExp('/' + window.location.host + '/');
+      var isInternal = (href) => {
+          return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+      }
+      // Inspect non-navigation links and adorn them if external
+     var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+      for (var i=0; i<links.length; i++) {
+        const link = links[i];
+        if (!isInternal(link.href)) {
+          // undo the damage that might have been done by quarto-nav.js in the case of
+          // links that we want to consider external
+          if (link.dataset.originalHref !== undefined) {
+            link.href = link.dataset.originalHref;
+          }
+        }
+      }
+    function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+      const config = {
+        allowHTML: true,
+        maxWidth: 500,
+        delay: 100,
+        arrow: false,
+        appendTo: function(el) {
+            return el.parentElement;
+        },
+        interactive: true,
+        interactiveBorder: 10,
+        theme: 'quarto',
+        placement: 'bottom-start',
+      };
+      if (contentFn) {
+        config.content = contentFn;
+      }
+      if (onTriggerFn) {
+        config.onTrigger = onTriggerFn;
+      }
+      if (onUntriggerFn) {
+        config.onUntrigger = onUntriggerFn;
+      }
+      window.tippy(el, config); 
+    }
+    const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+    for (var i=0; i<noterefs.length; i++) {
+      const ref = noterefs[i];
+      tippyHover(ref, function() {
+        // use id or data attribute instead here
+        let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+        try { href = new URL(href).hash; } catch {}
+        const id = href.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note) {
+          return note.innerHTML;
+        } else {
+          return "";
+        }
+      });
+    }
+    const xrefs = window.document.querySelectorAll('a.quarto-xref');
+    const processXRef = (id, note) => {
+      // Strip column container classes
+      const stripColumnClz = (el) => {
+        el.classList.remove("page-full", "page-columns");
+        if (el.children) {
+          for (const child of el.children) {
+            stripColumnClz(child);
+          }
+        }
+      }
+      stripColumnClz(note)
+      if (id === null || id.startsWith('sec-')) {
+        // Special case sections, only their first couple elements
+        const container = document.createElement("div");
+        if (note.children && note.children.length > 2) {
+          container.appendChild(note.children[0].cloneNode(true));
+          for (let i = 1; i < note.children.length; i++) {
+            const child = note.children[i];
+            if (child.tagName === "P" && child.innerText === "") {
+              continue;
+            } else {
+              container.appendChild(child.cloneNode(true));
+              break;
+            }
+          }
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(container);
+          }
+          return container.innerHTML
+        } else {
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(note);
+          }
+          return note.innerHTML;
+        }
+      } else {
+        // Remove any anchor links if they are present
+        const anchorLink = note.querySelector('a.anchorjs-link');
+        if (anchorLink) {
+          anchorLink.remove();
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        if (note.classList.contains("callout")) {
+          return note.outerHTML;
+        } else {
+          return note.innerHTML;
+        }
+      }
+    }
+    for (var i=0; i<xrefs.length; i++) {
+      const xref = xrefs[i];
+      tippyHover(xref, undefined, function(instance) {
+        instance.disable();
+        let url = xref.getAttribute('href');
+        let hash = undefined; 
+        if (url.startsWith('#')) {
+          hash = url;
+        } else {
+          try { hash = new URL(url).hash; } catch {}
+        }
+        if (hash) {
+          const id = hash.replace(/^#\/?/, "");
+          const note = window.document.getElementById(id);
+          if (note !== null) {
+            try {
+              const html = processXRef(id, note.cloneNode(true));
+              instance.setContent(html);
+            } finally {
+              instance.enable();
+              instance.show();
+            }
+          } else {
+            // See if we can fetch this
+            fetch(url.split('#')[0])
+            .then(res => res.text())
+            .then(html => {
+              const parser = new DOMParser();
+              const htmlDoc = parser.parseFromString(html, "text/html");
+              const note = htmlDoc.getElementById(id);
+              if (note !== null) {
+                const html = processXRef(id, note);
+                instance.setContent(html);
+              } 
+            }).finally(() => {
+              instance.enable();
+              instance.show();
+            });
+          }
+        } else {
+          // See if we can fetch a full url (with no hash to target)
+          // This is a special case and we should probably do some content thinning / targeting
+          fetch(url)
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.querySelector('main.content');
+            if (note !== null) {
+              // This should only happen for chapter cross references
+              // (since there is no id in the URL)
+              // remove the first header
+              if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+                note.children[0].remove();
+              }
+              const html = processXRef(null, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      }, function(instance) {
+      });
+    }
+        let selectedAnnoteEl;
+        const selectorForAnnotation = ( cell, annotation) => {
+          let cellAttr = 'data-code-cell="' + cell + '"';
+          let lineAttr = 'data-code-annotation="' +  annotation + '"';
+          const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+          return selector;
+        }
+        const selectCodeLines = (annoteEl) => {
+          const doc = window.document;
+          const targetCell = annoteEl.getAttribute("data-target-cell");
+          const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+          const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+          const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+          const lineIds = lines.map((line) => {
+            return targetCell + "-" + line;
+          })
+          let top = null;
+          let height = null;
+          let parent = null;
+          if (lineIds.length > 0) {
+              //compute the position of the single el (top and bottom and make a div)
+              const el = window.document.getElementById(lineIds[0]);
+              top = el.offsetTop;
+              height = el.offsetHeight;
+              parent = el.parentElement.parentElement;
+            if (lineIds.length > 1) {
+              const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+              const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+              height = bottom - top;
+            }
+            if (top !== null && height !== null && parent !== null) {
+              // cook up a div (if necessary) and position it 
+              let div = window.document.getElementById("code-annotation-line-highlight");
+              if (div === null) {
+                div = window.document.createElement("div");
+                div.setAttribute("id", "code-annotation-line-highlight");
+                div.style.position = 'absolute';
+                parent.appendChild(div);
+              }
+              div.style.top = top - 2 + "px";
+              div.style.height = height + 4 + "px";
+              div.style.left = 0;
+              let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+              if (gutterDiv === null) {
+                gutterDiv = window.document.createElement("div");
+                gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+                gutterDiv.style.position = 'absolute';
+                const codeCell = window.document.getElementById(targetCell);
+                const gutter = codeCell.querySelector('.code-annotation-gutter');
+                gutter.appendChild(gutterDiv);
+              }
+              gutterDiv.style.top = top - 2 + "px";
+              gutterDiv.style.height = height + 4 + "px";
+            }
+            selectedAnnoteEl = annoteEl;
+          }
+        };
+        const unselectCodeLines = () => {
+          const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+          elementsIds.forEach((elId) => {
+            const div = window.document.getElementById(elId);
+            if (div) {
+              div.remove();
+            }
+          });
+          selectedAnnoteEl = undefined;
+        };
+          // Handle positioning of the toggle
+      window.addEventListener(
+        "resize",
+        throttle(() => {
+          elRect = undefined;
+          if (selectedAnnoteEl) {
+            selectCodeLines(selectedAnnoteEl);
+          }
+        }, 10)
+      );
+      function throttle(fn, ms) {
+      let throttle = false;
+      let timer;
+        return (...args) => {
+          if(!throttle) { // first call gets through
+              fn.apply(this, args);
+              throttle = true;
+          } else { // all the others get throttled
+              if(timer) clearTimeout(timer); // cancel #2
+              timer = setTimeout(() => {
+                fn.apply(this, args);
+                timer = throttle = false;
+              }, ms);
+          }
+        };
+      }
+        // Attach click handler to the DT
+        const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+        for (const annoteDlNode of annoteDls) {
+          annoteDlNode.addEventListener('click', (event) => {
+            const clickedEl = event.target;
+            if (clickedEl !== selectedAnnoteEl) {
+              unselectCodeLines();
+              const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+              if (activeEl) {
+                activeEl.classList.remove('code-annotation-active');
+              }
+              selectCodeLines(clickedEl);
+              clickedEl.classList.add('code-annotation-active');
+            } else {
+              // Unselect the line
+              unselectCodeLines();
+              clickedEl.classList.remove('code-annotation-active');
+            }
+          });
+        }
+    const findCites = (el) => {
+      const parentEl = el.parentElement;
+      if (parentEl) {
+        const cites = parentEl.dataset.cites;
+        if (cites) {
+          return {
+            el,
+            cites: cites.split(' ')
+          };
+        } else {
+          return findCites(el.parentElement)
+        }
+      } else {
+        return undefined;
+      }
+    };
+    var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+    for (var i=0; i<bibliorefs.length; i++) {
+      const ref = bibliorefs[i];
+      const citeInfo = findCites(ref);
+      if (citeInfo) {
+        tippyHover(citeInfo.el, function() {
+          var popup = window.document.createElement('div');
+          citeInfo.cites.forEach(function(cite) {
+            var citeDiv = window.document.createElement('div');
+            citeDiv.classList.add('hanging-indent');
+            citeDiv.classList.add('csl-entry');
+            var biblioDiv = window.document.getElementById('ref-' + cite);
+            if (biblioDiv) {
+              citeDiv.innerHTML = biblioDiv.innerHTML;
+            }
+            popup.appendChild(citeDiv);
+          });
+          return popup.innerHTML;
+        });
+      }
+    }
+  });
+  </script><div class="modal fade" id="quarto-embedded-source-code-modal" tabindex="-1" aria-labelledby="quarto-embedded-source-code-modal-label" aria-hidden="true"><div class="modal-dialog modal-dialog-scrollable"><div class="modal-content"><div class="modal-header"><h5 class="modal-title" id="quarto-embedded-source-code-modal-label">Source Code</h5><button class="btn-close" data-bs-dismiss="modal"></button></div><div class="modal-body"><div class="">
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb8" data-shortcodes="false"><pre class="sourceCode markdown code-with-copy"><code class="sourceCode markdown"><span id="cb8-1"><a href="#cb8-1" aria-hidden="true" tabindex="-1"></a><span class="co">---</span></span>
+<span id="cb8-2"><a href="#cb8-2" aria-hidden="true" tabindex="-1"></a><span class="an">title:</span><span class="co"> "Power analysis for linear mixed models (workshop materials)"</span></span>
+<span id="cb8-3"><a href="#cb8-3" aria-hidden="true" tabindex="-1"></a><span class="an">date:</span><span class="co"> "2026-03-17"</span></span>
+<span id="cb8-4"><a href="#cb8-4" aria-hidden="true" tabindex="-1"></a><span class="an">categories:</span><span class="co"> [stats, resources]</span></span>
+<span id="cb8-5"><a href="#cb8-5" aria-hidden="true" tabindex="-1"></a><span class="an">image:</span><span class="co"> "imgs/filler.png"</span></span>
+<span id="cb8-6"><a href="#cb8-6" aria-hidden="true" tabindex="-1"></a><span class="an">toc:</span><span class="co"> true</span></span>
+<span id="cb8-7"><a href="#cb8-7" aria-hidden="true" tabindex="-1"></a><span class="an">format:</span></span>
+<span id="cb8-8"><a href="#cb8-8" aria-hidden="true" tabindex="-1"></a><span class="co">  html:</span></span>
+<span id="cb8-9"><a href="#cb8-9" aria-hidden="true" tabindex="-1"></a><span class="co">    code-fold: false</span></span>
+<span id="cb8-10"><a href="#cb8-10" aria-hidden="true" tabindex="-1"></a><span class="co">    code-tools: true</span></span>
+<span id="cb8-11"><a href="#cb8-11" aria-hidden="true" tabindex="-1"></a><span class="co">---</span></span>
+<span id="cb8-12"><a href="#cb8-12" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb8-13"><a href="#cb8-13" aria-hidden="true" tabindex="-1"></a>This page contains material for the power analysis workshop I'm holding in Prof. Holly Branigan and Prof. Martin Pickering's lab meeting on 17 March, 2026.</span>
+<span id="cb8-14"><a href="#cb8-14" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb8-15"><a href="#cb8-15" aria-hidden="true" tabindex="-1"></a><span class="fu"># Goals of the workshop</span></span>
+<span id="cb8-16"><a href="#cb8-16" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb8-17"><a href="#cb8-17" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>get comfy/-ier with the concept of statistical power</span>
+<span id="cb8-18"><a href="#cb8-18" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>get comfy/-ier with thinking about plausible effect sizes</span>
+<span id="cb8-19"><a href="#cb8-19" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>practice using <span class="in">`simr::makeLmer()`</span> and <span class="in">`mixedpower()`</span> to run power analyses</span>
+<span id="cb8-20"><a href="#cb8-20" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb8-21"><a href="#cb8-21" aria-hidden="true" tabindex="-1"></a><span class="fu"># Get set up in R</span></span>
+<span id="cb8-22"><a href="#cb8-22" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb8-23"><a href="#cb8-23" aria-hidden="true" tabindex="-1"></a>Copy and paste the following code:</span>
+<span id="cb8-24"><a href="#cb8-24" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb8-25"><a href="#cb8-25" aria-hidden="true" tabindex="-1"></a><span class="in">```{r setup}</span></span>
+<span id="cb8-26"><a href="#cb8-26" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(tidyverse)</span>
+<span id="cb8-27"><a href="#cb8-27" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(simr)</span>
+<span id="cb8-28"><a href="#cb8-28" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(mixedpower)</span>
+<span id="cb8-29"><a href="#cb8-29" aria-hidden="true" tabindex="-1"></a><span class="in">```</span></span>
+<span id="cb8-30"><a href="#cb8-30" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb8-31"><a href="#cb8-31" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb8-32"><a href="#cb8-32" aria-hidden="true" tabindex="-1"></a>If you haven't installed <span class="in">`mixedpower`</span>, run the following (it lives on GitHub, not CRAN, so <span class="in">`install.packages()`</span> won't work):</span>
+<span id="cb8-33"><a href="#cb8-33" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb8-34"><a href="#cb8-34" aria-hidden="true" tabindex="-1"></a>TODO</span>
+<span id="cb8-35"><a href="#cb8-35" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb8-36"><a href="#cb8-36" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb8-37"><a href="#cb8-37" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb8-38"><a href="#cb8-38" aria-hidden="true" tabindex="-1"></a><span class="fu"># Build intuitions</span></span>
+<span id="cb8-39"><a href="#cb8-39" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb8-40"><a href="#cb8-40" aria-hidden="true" tabindex="-1"></a><span class="fu">## Why do we care about power?</span></span>
+<span id="cb8-41"><a href="#cb8-41" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb8-42"><a href="#cb8-42" aria-hidden="true" tabindex="-1"></a>Short answer: power analyses are useful because they tell us how many experimental participants we should try to recruit.</span>
+<span id="cb8-43"><a href="#cb8-43" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb8-44"><a href="#cb8-44" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb8-45"><a href="#cb8-45" aria-hidden="true" tabindex="-1"></a><span class="fu">## What is statistical power?</span></span>
+<span id="cb8-46"><a href="#cb8-46" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb8-47"><a href="#cb8-47" aria-hidden="true" tabindex="-1"></a>In the world of null hypothesis significance testing (NHST), a statistical test can lead to one of two possible decisions:</span>
+<span id="cb8-48"><a href="#cb8-48" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb8-49"><a href="#cb8-49" aria-hidden="true" tabindex="-1"></a><span class="ss">1. </span>You reject the null hypothesis (H0).</span>
+<span id="cb8-50"><a href="#cb8-50" aria-hidden="true" tabindex="-1"></a><span class="ss">2. </span>You fail to reject the H0.</span>
+<span id="cb8-51"><a href="#cb8-51" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb8-52"><a href="#cb8-52" aria-hidden="true" tabindex="-1"></a>Ideally, these decisions would map directly to two different true states of the world:</span>
+<span id="cb8-53"><a href="#cb8-53" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb8-54"><a href="#cb8-54" aria-hidden="true" tabindex="-1"></a><span class="ss">1. </span>In reality, the H0 is false.</span>
+<span id="cb8-55"><a href="#cb8-55" aria-hidden="true" tabindex="-1"></a><span class="ss">2. </span>In reality, the H0 is true.</span>
+<span id="cb8-56"><a href="#cb8-56" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb8-57"><a href="#cb8-57" aria-hidden="true" tabindex="-1"></a>However, even if the H0 is really truly false, we are (alas!) not guaranteed to reject it.</span>
+<span id="cb8-58"><a href="#cb8-58" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb8-59"><a href="#cb8-59" aria-hidden="true" tabindex="-1"></a>Every test has some probability of correctly rejecting the H0 (that is, rejecting the H0 when it really truly is false).</span>
+<span id="cb8-60"><a href="#cb8-60" aria-hidden="true" tabindex="-1"></a>That probability is known as "statistical power".</span>
+<span id="cb8-61"><a href="#cb8-61" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb8-62"><a href="#cb8-62" aria-hidden="true" tabindex="-1"></a>TODO collapsed callout: classic 2x2 table</span>
+<span id="cb8-63"><a href="#cb8-63" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb8-64"><a href="#cb8-64" aria-hidden="true" tabindex="-1"></a>Statistical power depends on three values:</span>
+<span id="cb8-65"><a href="#cb8-65" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb8-66"><a href="#cb8-66" aria-hidden="true" tabindex="-1"></a><span class="ss">1. </span>our accepted false positive rate (aka our alpha level, aka the probability of *incorrectly* rejecting the H0);</span>
+<span id="cb8-67"><a href="#cb8-67" aria-hidden="true" tabindex="-1"></a><span class="ss">2. </span>the true size of the effect out there in reality; and</span>
+<span id="cb8-68"><a href="#cb8-68" aria-hidden="true" tabindex="-1"></a><span class="ss">3. </span>the number of observations we have gathered.</span>
+<span id="cb8-69"><a href="#cb8-69" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb8-70"><a href="#cb8-70" aria-hidden="true" tabindex="-1"></a>In Psychology and sister disciplines, we usually set our accepted false positive rate (1) at a 5% level of risk.</span>
+<span id="cb8-71"><a href="#cb8-71" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb8-72"><a href="#cb8-72" aria-hidden="true" tabindex="-1"></a>Re (2), we don't know the true effect size (that's why we are doing stats about it!).</span>
+<span id="cb8-73"><a href="#cb8-73" aria-hidden="true" tabindex="-1"></a>But we can use our expert judgements and previous research make some educated guesses about what kinds of values are reasonable and/or theoretically interesting.</span>
+<span id="cb8-74"><a href="#cb8-74" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb8-75"><a href="#cb8-75" aria-hidden="true" tabindex="-1"></a><span class="co">&lt;!-- - our expert judgements; --&gt;</span></span>
+<span id="cb8-76"><a href="#cb8-76" aria-hidden="true" tabindex="-1"></a><span class="co">&lt;!-- the smallest effect size that would be theoretically interesting/relevant  (you'll see this abbreviated as SESOI, Smallest Effect Size Of Interest); and --&gt;</span></span>
+<span id="cb8-77"><a href="#cb8-77" aria-hidden="true" tabindex="-1"></a><span class="co">&lt;!-- - previous research. --&gt;</span></span>
+<span id="cb8-78"><a href="#cb8-78" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb8-79"><a href="#cb8-79" aria-hidden="true" tabindex="-1"></a>Finally, we'll simulate a bunch of different sample sizes (3), so that we can see how many participants we need for a reasonably-powered study.</span>
+<span id="cb8-80"><a href="#cb8-80" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb8-81"><a href="#cb8-81" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb8-82"><a href="#cb8-82" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb8-83"><a href="#cb8-83" aria-hidden="true" tabindex="-1"></a><span class="fu">## Simulation, you say?</span></span>
+<span id="cb8-84"><a href="#cb8-84" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb8-85"><a href="#cb8-85" aria-hidden="true" tabindex="-1"></a><span class="co">&lt;!-- Yes—we do a priori power analyses (that is, power analyses before the main study is run) by simulating data that contains the effect we are interested in, then fitting a model to that data, and checking whether we  --&gt;</span></span>
+<span id="cb8-86"><a href="#cb8-86" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb8-87"><a href="#cb8-87" aria-hidden="true" tabindex="-1"></a><span class="al">![](imgs/sim-schematic.png)</span>{fig-align="center"}</span>
+<span id="cb8-88"><a href="#cb8-88" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb8-89"><a href="#cb8-89" aria-hidden="true" tabindex="-1"></a>Power analysis for experimental data should happen after piloting the experiment and before running the main thing (hence "a priori power analysis").</span>
+<span id="cb8-90"><a href="#cb8-90" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb8-91"><a href="#cb8-91" aria-hidden="true" tabindex="-1"></a>Why run the pilot first?</span>
+<span id="cb8-92"><a href="#cb8-92" aria-hidden="true" tabindex="-1"></a>The pilot data helps us approximate how much variability we should expect from where, e.g.,</span>
+<span id="cb8-93"><a href="#cb8-93" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb8-94"><a href="#cb8-94" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>how much by-participant variability?</span>
+<span id="cb8-95"><a href="#cb8-95" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>how much by-stimulus variability? </span>
+<span id="cb8-96"><a href="#cb8-96" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>how much residual variability?</span>
+<span id="cb8-97"><a href="#cb8-97" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb8-98"><a href="#cb8-98" aria-hidden="true" tabindex="-1"></a>TODO collapsed callout: why doesn't a post-hoc power analysis make sense?</span>
+<span id="cb8-99"><a href="#cb8-99" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb8-100"><a href="#cb8-100" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb8-101"><a href="#cb8-101" aria-hidden="true" tabindex="-1"></a><span class="fu"># 1: Start simple(ish)</span></span>
+<span id="cb8-102"><a href="#cb8-102" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb8-103"><a href="#cb8-103" aria-hidden="true" tabindex="-1"></a>Imagine we're running a lexical decision task to analyse the effect of a word's frequency on how quickly people identify it as a word in their language.</span>
+<span id="cb8-104"><a href="#cb8-104" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb8-105"><a href="#cb8-105" aria-hidden="true" tabindex="-1"></a>Our outcome variable will be logged reaction times (RT), because many of you said you work with continuous outcomes, and today will be more pleasant if we spare ourselves the extra spice of the link function.</span>
+<span id="cb8-106"><a href="#cb8-106" aria-hidden="true" tabindex="-1"></a>(But the same principles apply!)</span>
+<span id="cb8-107"><a href="#cb8-107" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb8-108"><a href="#cb8-108" aria-hidden="true" tabindex="-1"></a>For our predictor, because many of you said you work with categorical predictors, words will be grouped into two frequency classes: one for low-frequency words, one for high-frequency words.</span>
+<span id="cb8-109"><a href="#cb8-109" aria-hidden="true" tabindex="-1"></a>(But Section 2 below LINK TODO will use a continuous z-scored predictor!)</span>
+<span id="cb8-110"><a href="#cb8-110" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb8-111"><a href="#cb8-111" aria-hidden="true" tabindex="-1"></a>Our variables for this analysis will be the following:</span>
+<span id="cb8-112"><a href="#cb8-112" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb8-113"><a href="#cb8-113" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span><span class="in">`logRT`</span>: logged reaction times (smaller values = faster)</span>
+<span id="cb8-114"><a href="#cb8-114" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span><span class="in">`wdFreq`</span>: categorical, with two levels: <span class="in">`low`</span>, <span class="in">`high`</span>; within-participants </span>
+<span id="cb8-115"><a href="#cb8-115" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span><span class="in">`ppt_id`</span>: categorical, one value per participant</span>
+<span id="cb8-116"><a href="#cb8-116" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb8-117"><a href="#cb8-117" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb8-118"><a href="#cb8-118" aria-hidden="true" tabindex="-1"></a><span class="fu">## Build up one iteration of the power analysis, step by step</span></span>
+<span id="cb8-119"><a href="#cb8-119" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb8-120"><a href="#cb8-120" aria-hidden="true" tabindex="-1"></a><span class="fu">### Work out the maximal model</span></span>
+<span id="cb8-121"><a href="#cb8-121" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb8-122"><a href="#cb8-122" aria-hidden="true" tabindex="-1"></a>Here's the model formula in R syntax:</span>
+<span id="cb8-123"><a href="#cb8-123" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb8-124"><a href="#cb8-124" aria-hidden="true" tabindex="-1"></a><span class="in">`logRT ~ wdFreq + (wdFreq | ppt_id)`</span></span>
+<span id="cb8-125"><a href="#cb8-125" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb8-126"><a href="#cb8-126" aria-hidden="true" tabindex="-1"></a>This formula doesn't tell us much about what parameters the model will actually contain.</span>
+<span id="cb8-127"><a href="#cb8-127" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb8-128"><a href="#cb8-128" aria-hidden="true" tabindex="-1"></a>If you want to see a mathematical version of the model specification where all the parameters are laid out explicitly, then you can uncollapse the box below.</span>
+<span id="cb8-129"><a href="#cb8-129" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb8-130"><a href="#cb8-130" aria-hidden="true" tabindex="-1"></a>:::{.callout-tip collapse='true'}</span>
+<span id="cb8-131"><a href="#cb8-131" aria-hidden="true" tabindex="-1"></a><span class="fu">#### For the keen: Mathematical model specification</span></span>
+<span id="cb8-132"><a href="#cb8-132" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb8-133"><a href="#cb8-133" aria-hidden="true" tabindex="-1"></a>$$</span>
+<span id="cb8-134"><a href="#cb8-134" aria-hidden="true" tabindex="-1"></a>\begin{align}</span>
+<span id="cb8-135"><a href="#cb8-135" aria-hidden="true" tabindex="-1"></a>\text{logRT}_i &amp;= (\beta_0 + u_{0i}) + (\beta_1 + u_{1i}) \cdot \text{wdFreq} + \epsilon <span class="sc">\\</span></span>
+<span id="cb8-136"><a href="#cb8-136" aria-hidden="true" tabindex="-1"></a>\epsilon &amp;\sim \text{Normal}(0, \sigma) <span class="sc">\\</span></span>
+<span id="cb8-137"><a href="#cb8-137" aria-hidden="true" tabindex="-1"></a>\pmatrix{u_{0i} <span class="sc">\\</span> u_{1i}} &amp;\sim \text{Normal}</span>
+<span id="cb8-138"><a href="#cb8-138" aria-hidden="true" tabindex="-1"></a>\begin{bmatrix}</span>
+<span id="cb8-139"><a href="#cb8-139" aria-hidden="true" tabindex="-1"></a>\pmatrix{0 <span class="sc">\\</span> 0},</span>
+<span id="cb8-140"><a href="#cb8-140" aria-hidden="true" tabindex="-1"></a>\pmatrix{\sigma_{u_{0i}}^2 &amp; 0 <span class="sc">\\</span> 0 &amp; \sigma_{u_{1i}}^2}</span>
+<span id="cb8-141"><a href="#cb8-141" aria-hidden="true" tabindex="-1"></a>\end{bmatrix}</span>
+<span id="cb8-142"><a href="#cb8-142" aria-hidden="true" tabindex="-1"></a><span class="sc">\\</span></span>
+<span id="cb8-143"><a href="#cb8-143" aria-hidden="true" tabindex="-1"></a>\end{align}</span>
+<span id="cb8-144"><a href="#cb8-144" aria-hidden="true" tabindex="-1"></a>$$</span>
+<span id="cb8-145"><a href="#cb8-145" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb8-146"><a href="#cb8-146" aria-hidden="true" tabindex="-1"></a>**In words:**</span>
+<span id="cb8-147"><a href="#cb8-147" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb8-148"><a href="#cb8-148" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>Each participant $i$'s log RT equals</span>
+<span id="cb8-149"><a href="#cb8-149" aria-hidden="true" tabindex="-1"></a><span class="ss">  - </span>the intercept $\beta_0$ plus each participant's intercept adjustment $u_{0i}$; plus</span>
+<span id="cb8-150"><a href="#cb8-150" aria-hidden="true" tabindex="-1"></a><span class="ss">  - </span>the slope over <span class="in">`wdFreq`</span> $\beta_1$ plus each participant's slope adjustment $u_{1i}$, all times <span class="in">`wdFreq`</span>; plus</span>
+<span id="cb8-151"><a href="#cb8-151" aria-hidden="true" tabindex="-1"></a><span class="ss">  - </span>some error $\epsilon$.</span>
+<span id="cb8-152"><a href="#cb8-152" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>The error $\epsilon$ is sampled from a Normal distribution with mean 0 and standard deviation (SD) $\sigma$.</span>
+<span id="cb8-153"><a href="#cb8-153" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>Each participant's adjustments to intercept $u_{0i}$ and slope $u_{1i}$ are sampled together from a bivariate Normal distribution.</span>
+<span id="cb8-154"><a href="#cb8-154" aria-hidden="true" tabindex="-1"></a><span class="ss">  - </span>The mean of each dimension is 0.</span>
+<span id="cb8-155"><a href="#cb8-155" aria-hidden="true" tabindex="-1"></a><span class="ss">  - </span>The spread of the distribution is defined by a variance-covariance matrix with the variance (SD$^2$) of each adjustment on the diagonal and the correlations between those adjustments on the off-diagonal. Here the correlations are assumed to be zero.</span>
+<span id="cb8-156"><a href="#cb8-156" aria-hidden="true" tabindex="-1"></a><span class="ss">  - </span>NB: Because slope and intercept adjustments are uncorrelated in this example, I could also have written them being drawn from two separate univariate Normals, like in the $\epsilon$ line. However, the <span class="in">`simr`</span> code below wants a variance-covariance matrix, even if the correlations are 0, so for consistency, I'm using the bivariate Normal version here.</span>
+<span id="cb8-157"><a href="#cb8-157" aria-hidden="true" tabindex="-1"></a>  </span>
+<span id="cb8-158"><a href="#cb8-158" aria-hidden="true" tabindex="-1"></a>**Parameter glossary:**</span>
+<span id="cb8-159"><a href="#cb8-159" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb8-160"><a href="#cb8-160" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>$i$ indexes participants</span>
+<span id="cb8-161"><a href="#cb8-161" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>$\beta_0$ = fixed intercept</span>
+<span id="cb8-162"><a href="#cb8-162" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>$u_{0i}$ = by-participant adjustment to fixed intercept</span>
+<span id="cb8-163"><a href="#cb8-163" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>$\beta_1$ = fixed slope over <span class="in">`wdFreq`</span></span>
+<span id="cb8-164"><a href="#cb8-164" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>$u_{1i}$ = by-participant adjustment to fixed slope</span>
+<span id="cb8-165"><a href="#cb8-165" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>$\epsilon$ = error</span>
+<span id="cb8-166"><a href="#cb8-166" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>$\sigma$ = standard deviation of errors</span>
+<span id="cb8-167"><a href="#cb8-167" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>$\sigma_{0i}$ = SD of by-participant intercept adjustment</span>
+<span id="cb8-168"><a href="#cb8-168" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>$\sigma_{1i}$ = SD of by-participant slope adjustment</span>
+<span id="cb8-169"><a href="#cb8-169" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb8-170"><a href="#cb8-170" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb8-171"><a href="#cb8-171" aria-hidden="true" tabindex="-1"></a>:::</span>
+<span id="cb8-172"><a href="#cb8-172" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb8-173"><a href="#cb8-173" aria-hidden="true" tabindex="-1"></a><span class="fu">### Define how all variables are coded/transformed</span></span>
+<span id="cb8-174"><a href="#cb8-174" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb8-175"><a href="#cb8-175" aria-hidden="true" tabindex="-1"></a>We already know that <span class="in">`logRT`</span> is in log units, not ms.</span>
+<span id="cb8-176"><a href="#cb8-176" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb8-177"><a href="#cb8-177" aria-hidden="true" tabindex="-1"></a><span class="in">`wdFreq`</span> will be sum-coded, aka effect-coded, aka deviation-coded, aka (because names for contrast coding schemes are basically meaningless these days): <span class="in">`low`</span> will be coded as –0.5, and <span class="in">`high`</span> as +0.5.</span>
+<span id="cb8-178"><a href="#cb8-178" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb8-179"><a href="#cb8-179" aria-hidden="true" tabindex="-1"></a>Consequently, the intercept $\beta_0$ will represent the grand mean log RT, and the slope $\beta_1$ will represent the change in log RT as we move from <span class="in">`low`</span> to <span class="in">`high`</span>.</span>
+<span id="cb8-180"><a href="#cb8-180" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb8-181"><a href="#cb8-181" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb8-182"><a href="#cb8-182" aria-hidden="true" tabindex="-1"></a>**Prediction:** Do you think that $\beta_1$ should have a positive value or a negative value?</span>
+<span id="cb8-183"><a href="#cb8-183" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb8-184"><a href="#cb8-184" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb8-185"><a href="#cb8-185" aria-hidden="true" tabindex="-1"></a><span class="fu">### Make dataframe of all predictor values (design matrix)</span></span>
+<span id="cb8-186"><a href="#cb8-186" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb8-187"><a href="#cb8-187" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb8-188"><a href="#cb8-188" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb8-189"><a href="#cb8-189" aria-hidden="true" tabindex="-1"></a><span class="fu">### Define parameter values</span></span>
+<span id="cb8-190"><a href="#cb8-190" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb8-191"><a href="#cb8-191" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb8-192"><a href="#cb8-192" aria-hidden="true" tabindex="-1"></a><span class="fu">#### Effects of interest</span></span>
+<span id="cb8-193"><a href="#cb8-193" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb8-194"><a href="#cb8-194" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb8-195"><a href="#cb8-195" aria-hidden="true" tabindex="-1"></a><span class="fu">#### Variance components</span></span>
+<span id="cb8-196"><a href="#cb8-196" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb8-197"><a href="#cb8-197" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb8-198"><a href="#cb8-198" aria-hidden="true" tabindex="-1"></a><span class="fu">### Set up artificial model with `simr::makeLmer()`</span></span>
+<span id="cb8-199"><a href="#cb8-199" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb8-200"><a href="#cb8-200" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb8-201"><a href="#cb8-201" aria-hidden="true" tabindex="-1"></a><span class="fu">### Run power analysis with `mixedpower::mixedpower()`</span></span>
+<span id="cb8-202"><a href="#cb8-202" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb8-203"><a href="#cb8-203" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb8-204"><a href="#cb8-204" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb8-205"><a href="#cb8-205" aria-hidden="true" tabindex="-1"></a><span class="fu">## Iterate over all assumed true params</span></span>
+<span id="cb8-206"><a href="#cb8-206" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb8-207"><a href="#cb8-207" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb8-208"><a href="#cb8-208" aria-hidden="true" tabindex="-1"></a><span class="fu"># 2: Get spicy</span></span>
+<span id="cb8-209"><a href="#cb8-209" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb8-210"><a href="#cb8-210" aria-hidden="true" tabindex="-1"></a>two preds + ixn, two groups (crossed)</span>
+<span id="cb8-211"><a href="#cb8-211" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb8-212"><a href="#cb8-212" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb8-213"><a href="#cb8-213" aria-hidden="true" tabindex="-1"></a><span class="fu"># Questions you submitted</span></span>
+<span id="cb8-214"><a href="#cb8-214" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb8-215"><a href="#cb8-215" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>report</span>
+<span id="cb8-216"><a href="#cb8-216" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>maximal model</span>
+<span id="cb8-217"><a href="#cb8-217" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>test params vs. mod comp</span>
+<span id="cb8-218"><a href="#cb8-218" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb8-219"><a href="#cb8-219" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb8-220"><a href="#cb8-220" aria-hidden="true" tabindex="-1"></a><span class="fu"># Session info</span></span>
+<span id="cb8-221"><a href="#cb8-221" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb8-224"><a href="#cb8-224" aria-hidden="true" tabindex="-1"></a><span class="in">```{r}</span></span>
+<span id="cb8-225"><a href="#cb8-225" aria-hidden="true" tabindex="-1"></a><span class="co">#| code-fold: false</span></span>
+<span id="cb8-226"><a href="#cb8-226" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb8-227"><a href="#cb8-227" aria-hidden="true" tabindex="-1"></a><span class="fu">sessionInfo</span>()</span>
+<span id="cb8-228"><a href="#cb8-228" aria-hidden="true" tabindex="-1"></a><span class="in">```</span></span>
+</code></pre></div><button title="Copy to Clipboard" class="code-copy-button" data-in-quarto-modal=""><i class="bi"></i></button></div>
+</div></div></div></div></div>
+</div> <!-- /content -->
+
+
+
+
+</body></html>
