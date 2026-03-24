@@ -2,20 +2,36 @@
 toc: true
 ---
 
+# Current research
+
+These days my research is mostly theoretical, in the sense that not much research has been happening!
+
+My lectureship is teaching-focused, and what research I've squeezed in on the side also focuses on the pedagogical (see [Pankratz, 2026](https://teaching-programming.github.io/book/C38_skills-based-assessment.html)).
+
+That said, I've been supervising some great student projects; see my [supervision page](supervision.html) for more detail on the kinds of projects I like to run.
+
+
 # My PhD research
 
 In my PhD thesis [Segmentation, rule formation, and the emergence of generalisation](https://era.ed.ac.uk/handle/1842/43523), I used behavioural experiments and computational models to study
 
 - how people segment linguistic material (see [Pankratz et al., 2024](https://onlinelibrary.wiley.com/doi/10.1111/cogs.13429)!), 
 - how they learn rules from it, 
-- how they generalise those rules to novel instances,
+- how they generalise those rules to novel instances (see [Pankratz et al., 2025](https://direct.mit.edu/opmi/article/doi/10.1162/OPMI.a.253/133967)!),
 
 and how those processes might shape language.
 
 My PhD research was funded by the [Scottish Graduate School of Social Science](https://www.sgsss.ac.uk) and by the [Social Sciences and Humanities Research Council of Canada](https://www.sshrc-crsh.gc.ca).
 
 
+# Book chapters
+
+<span style="color:green;">{{< iconify academicons open-access-square >}}</span> **Pankratz, E.,** (2026). [The case for skills-based assessment in introductory programming courses](https://teaching-programming.github.io/book/C38_skills-based-assessment.html) *Teaching Programming across Disciplines* (1st ed.). 
+
+
 # Journal papers
+
+<span style="color:green;">{{< iconify academicons open-access-square >}}</span> **Pankratz, E.,** Culbertson, J., & Kirby, S. (2025). [Linguistic Rule Generalisation Creates the Same Distributional Structure That Feeds It](https://direct.mit.edu/opmi/article/doi/10.1162/OPMI.a.253/133967) *Open Mind*, 9, 1875–1905.
 
 <span style="color:green;">{{< iconify academicons open-access-square >}}</span> **Pankratz, E.,** Kirby, S., & Culbertson, J. (2024). [Evaluating the relative importance of wordhood cues using statistical learning.](https://onlinelibrary.wiley.com/doi/full/10.1111/cogs.13429) *Cognitive Science*, 48(3), e13429.
 
